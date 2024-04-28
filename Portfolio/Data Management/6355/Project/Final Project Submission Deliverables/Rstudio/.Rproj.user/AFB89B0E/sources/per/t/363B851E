@@ -1,0 +1,28 @@
+{
+    "id": "363B851E",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1700190561018.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "id": "aa3d3ab12ac24ae5bd24a65d3316396a",
+        "name": "naive_bayes_model",
+        "title": "naive_bayes_model",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2166277311112,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1700190561018,
+    "read_only": false,
+    "read_only_alternatives": []
+}

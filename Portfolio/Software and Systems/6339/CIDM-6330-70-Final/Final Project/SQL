@@ -1,0 +1,101 @@
+-- Customers Table
+CREATE TABLE Customers (
+    customer_id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255),
+    primary_location VARCHAR(255),
+    alignment_engineer_id INT,
+    vcio_id INT,
+    FOREIGN KEY (alignment_engineer_id) REFERENCES Users(user_id),
+    FOREIGN KEY (vcio_id) REFERENCES Users(user_id)
+);
+
+-- Users Table
+CREATE TABLE Users (
+    user_id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255),
+    email_address VARCHAR(255),
+    security_group VARCHAR(255)
+);
+
+-- Projects Table
+CREATE TABLE Projects (
+    project_id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255),
+    status VARCHAR(255),
+    project_manager_id INT,
+    cost DECIMAL(10, 2),
+    description TEXT,
+    customer_id INT,
+    completion_date DATE,
+    FOREIGN KEY (project_manager_id) REFERENCES Users(user_id),
+    FOREIGN KEY (customer_id) REFERENCES Customers(customer_id)
+);
+
+-- ProposedProjects Table
+CREATE TABLE ProposedProjects (
+    proposed_project_id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255),
+    completion_date DATE,
+    description TEXT,
+    customer_id INT,
+    FOREIGN KEY (customer_id) REFERENCES Customers(customer_id)
+);
+
+-- Assessments Table
+CREATE TABLE Assessments (
+    assessment_id INT AUTO_INCREMENT PRIMARY KEY,
+    date DATE,
+    score DECIMAL(5, 2),
+    percent_complete DECIMAL(5, 2),
+    comments TEXT,
+    status VARCHAR(255),
+    site_location VARCHAR(255),
+    assessment_template_id INT,
+    alignment_engineer_id INT,
+    customer_id INT,
+    FOREIGN KEY (assessment_template_id) REFERENCES AssessmentTemplates(template_id),
+    FOREIGN KEY (alignment_engineer_id) REFERENCES Users(user_id),
+    FOREIGN KEY (customer_id) REFERENCES Customers(customer_id)
+);
+
+-- AssessmentTemplates Table
+CREATE TABLE AssessmentTemplates (
+    template_id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255),
+    assessment_type VARCHAR(255),
+    description TEXT
+);
+
+-- AssessmentQuestions Table
+CREATE TABLE AssessmentQuestions (
+    question_id INT AUTO_INCREMENT PRIMARY KEY,
+    question TEXT,
+    answer TEXT,
+    support TEXT
+);
+
+-- Recommendations Table
+CREATE TABLE Recommendations (
+    recommendation_id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255),
+    completion_date DATE,
+    description TEXT,
+    status VARCHAR(255),
+    priority INT,
+    assessment_id INT,
+    customer_id INT,
+    FOREIGN KEY (assessment_id) REFERENCES Assessments(assessment_id),
+    FOREIGN KEY (customer_id) REFERENCES Customers(customer_id)
+);
+
+-- RecommendationProposedProjects Table
+CREATE TABLE RecommendationProposedProjects (
+    recommendation_id INT,
+    proposed_project_id INT,
+    FOREIGN KEY (recommendation_id) REFERENCES Recommendations(recommendation_id),
+    FOREIGN KEY (proposed_project_id) REFERENCES ProposedProjects(proposed_project_id)
+);
+
+-- TechnologyInventory Table
+CREATE TABLE TechnologyInventory (
+   

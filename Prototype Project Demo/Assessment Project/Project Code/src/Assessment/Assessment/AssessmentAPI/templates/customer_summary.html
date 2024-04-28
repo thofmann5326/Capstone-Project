@@ -1,0 +1,280 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Customer Summary</title>
+    <!-- Link Bootstrap CSS -->
+    <link rel="stylesheet" href="{% static 'Bootstrap/css/bootstrap.min.css' %}" />
+    <!-- Link Font Awesome CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+    <!-- Link custom CSS -->
+    <link rel="stylesheet" href="{% static 'style.css' %}" />
+</head>
+
+<body>
+    <!-- Navigation Bar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="#">Assessment App</a>
+            <!-- Navbar Toggler -->
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <!-- Navbar Collapse -->
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="http://127.0.0.1:8000/customer-summary/">Customer Summary</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="http://127.0.0.1:8000/technology-inventory/">Technology Inventory</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="http://127.0.0.1:8000/assessment/1/edit/">Assessment</a>
+                    </li>
+                </ul>
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link btn btn-primary" href="#" id="loginBtn">Login</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container mt-4">
+        <!-- Customer Name and Customer Information -->
+        <div class="row">
+            <div class="col-md">
+                <h2 class="mt-4">Customer Name: Tech Solutions Inc.</h2>
+                <div class="logo-img">
+                    <img src="{% static 'logo.png' %}" alt="Logo" class="logo-img" />
+                </div>
+            </div>
+            <div class="col-md">
+                <div>
+                    <h3 class="mt-4">Customer Information</h3>
+                    <!-- Display Customer Information -->
+                    <p><strong>Company Name:</strong> {{ customer.name }}</p>
+                    <p><strong>Primary Location:</strong> {{ customer.primary_location }}</p>
+                    <p><strong>Alignment Engineer:</strong> {{ customer.alignment_engineer }}</p>
+                    <p><strong>VCIO:</strong> {{ customer.vcio }}</p>
+                </div>
+            </div>
+        </div>
+        <!-- Assessment Summary and Recommendations -->
+        <div class="row">
+            <!-- Assessment Summary -->
+            <div class="col-md-6">
+                <h3 class="mt-4">Assessment Summary</h3>
+                <div>
+                    {% if assessments %}
+                    <ul>
+                        {% for assessment in assessments %}
+                        <li>
+                            <!-- Display Assessment Summary -->
+                            <p><strong>Date:</strong> {{ assessment.date }}</p>
+                            <p><strong>Score:</strong> {{ assessment.score }}</p>
+                            <p><strong>Percent Complete:</strong> {{ assessment.percent_complete }}</p>
+                            <p><strong>Status:</strong> {{ assessment.status }}</p>
+                            <p><strong>Site Location:</strong> {{ assessment.site_location }}</p>
+                            <!-- Add more details as needed -->
+                        </li>
+                        {% endfor %}
+                    </ul>
+                    {% else %}
+                    <!-- No assessments found -->
+                    <p>No assessments found for this customer.</p>
+                    {% endif %}
+                </div>
+            </div>
+            <!-- Recommendations -->
+            <div class="col-md-6">
+                <h3 class="mt-4">Recommendations</h3>
+                <div class="assessment-summary">
+                    {% if recommendations %}
+                    <ul class="assessment-list">
+                        {% for recommendation in recommendations %}
+                        <li class="assessment-item">
+                            <!-- Display Recommendations -->
+                            <p><strong>Name:</strong> {{ recommendation.name }}</p>
+                            <p><strong>Description:</strong> {{ recommendation.description }}</p>
+                            <p><strong>Status:</strong> {{ recommendation.status }}</p>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                    {% else %}
+                    <!-- No recommendations found -->
+                    <p class="no-assessments">No recommendations found for this customer.</p>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Machine Inventory -->
+    <div class="text-center">
+        <h3 class="mt-4">Machine Inventory</h3>
+        <div>
+            {% if machine_inventory %}
+            <table id="inventory-table" class="table table-bordered table-striped table-rounded table-hover">
+                <thead>
+                    <tr>
+                        <th>Device Name</th>
+                        <th>Site Location</th>
+                        <th>Type</th>
+                        <th>Make</th>
+                        <th>Model</th>
+                        <th>Serial Number</th>
+                        <th>Operating System</th>
+                        <th>Date Purchased</th>
+                        <th>Date Warranty Expired</th>
+                        <th>Age (Years)</th>
+                        <th>Date Last Updated</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for machine in machine_inventory %}
+                    <tr>
+                        <!-- Display Machine Inventory -->
+                        <td>{{ machine.device_name }}</td>
+                        <td>{{ machine.site_location }}</td>
+                        <td>{{ machine.type }}</td>
+                        <td>{{ machine.make }}</td>
+                        <td>{{ machine.model }}</td>
+                        <td>{{ machine.serial_number }}</td>
+                        <td>{{ machine.operating_system }}</td>
+                        <td>{{ machine.date_purchased }}</td>
+                        <td>{{ machine.date_warranty_expired }}</td>
+                        <td>{{ machine.age_years }}</td>
+                        <td>{{ machine.date_last_updated }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+            {% else %}
+            <!-- No machine inventory found -->
+            <p>No machine inventory found for this customer.</p>
+            {% endif %}
+        </div>
+    </div>
+    <!-- Graphical Representation -->
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <h3 class="mt-4 text-center">Graphical Representation</h3>
+            <div class="row">
+                <div class="col-md-6">
+                    <h4 class="text-center">Warranty Status</h4>
+                    <canvas id="warrantyChart" width="200" height="200"
+                        data-under-warranty-count="{{ under_warranty_count }}"
+                        data-out-of-warranty-count="{{ out_of_warranty_count }}"></canvas>
+                </div>
+
+                <div class="col-md-6">
+                    <h4 class="text-center">Operating System Counts</h4>
+                    <canvas id="osChart" width="200" height="200"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Dark Mode Toggle -->
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="form-check form-switch mt-4">
+                <input class="form-check-input" type="checkbox" id="darkModeToggle" />
+                <label class="form-check-label" for="darkModeToggle">Dark Mode</label>
+            </div>
+        </div>
+    </div>
+    <!-- Bootstrap JS -->
+    <script src="{% static 'Bootstrap/js/bootstrap.min.js' %}"></script>
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        // Dark Mode Toggle
+        const darkModeToggle = document.getElementById('darkModeToggle');
+        const body = document.body;
+
+        darkModeToggle.addEventListener('change', () => {
+            body.classList.toggle('dark-mode');
+        });
+
+        // Fetch data from the server for Operating System Counts
+        fetch('/get-os-counts/1')
+            .then(response => response.json())
+            .then(data => {
+                const ctx = document.getElementById('osChart').getContext('2d');
+                new Chart(ctx, {
+                    type: 'bar',
+                    data: {
+                        labels: ['Linux', 'Windows', 'MacOS'],
+                        datasets: [{
+                            label: '',
+                            data: [data.linuxCount, data.windowsCount, data.macosCount],
+                            backgroundColor: [
+                                'rgba(0, 255, 0, 0.5)', // Green color
+                                'rgba(54, 162, 235, 0.5)', // Blue color
+                                'rgba(255, 206, 86, 0.5)' // Yellow color
+                            ],
+                            borderColor: [
+                                'rgba(0, 255, 0, 1)', // Darker shade of Green
+                                'rgba(54, 162, 235, 1)', // Darker shade of Blue
+                                'rgba(255, 206, 86, 1)' // Darker shade of Yellow
+                            ],
+                            borderWidth: 1
+                        }]
+                    },
+                    options: {
+                        scales: {
+                            y: {
+                                beginAtZero: true
+                            }
+                        },
+                        plugins: {
+                            legend: {
+                                display: false // Hide the legend
+                            }
+                        }
+                    }
+                });
+            })
+            .catch(error => console.error('Error fetching OS counts:', error));
+
+        // Login button functionality
+        document.getElementById('loginBtn').addEventListener('click', function () {
+            var email = prompt('This currently does not work but it would be cool if it did:');
+            var password = prompt('Enter your password:');
+        });
+
+    </script>
+    <script>
+        // Retrieve warranty counts from data attributes
+        var underWarrantyCount = document.getElementById('warrantyChart').getAttribute('data-under-warranty-count');
+        var outOfWarrantyCount = document.getElementById('warrantyChart').getAttribute('data-out-of-warranty-count');
+
+        // Convert values to integers (if necessary)
+        underWarrantyCount = parseInt(underWarrantyCount);
+        outOfWarrantyCount = parseInt(outOfWarrantyCount);
+
+        // Create the warranty chart using the actual values
+        var ctx = document.getElementById('warrantyChart').getContext('2d');
+        var warrantyChart = new Chart(ctx, {
+            type: 'pie',
+            data: {
+                labels: ['Under Warranty', 'Not Under Warranty'],
+                datasets: [{
+                    label: 'Warranty Status',
+                    data: [underWarrantyCount, outOfWarrantyCount],
+                    backgroundColor: ['rgba(0, 255, 0, 0.5)', 'rgba(255, 0, 0, 0.5)'],
+                    borderColor: ['rgba(0, 255, 0, 1)', 'rgba(255, 0, 0, 1)'],
+                    borderWidth: 1
+                }]
+            }
+        });
+    </script>
+
+</body>
+
+</html>

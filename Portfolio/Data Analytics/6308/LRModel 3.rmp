@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><process version="10.1.003">
+  <context>
+    <input/>
+    <output/>
+    <macros/>
+  </context>
+  <operator activated="true" class="process" compatibility="10.1.003" expanded="true" name="Process">
+    <parameter key="logverbosity" value="init"/>
+    <parameter key="random_seed" value="2001"/>
+    <parameter key="send_mail" value="never"/>
+    <parameter key="notification_email" value=""/>
+    <parameter key="process_duration_for_mail" value="30"/>
+    <parameter key="encoding" value="SYSTEM"/>
+    <process expanded="true">
+      <operator activated="true" class="read_csv" compatibility="10.1.003" expanded="true" height="68" name="Training Data" width="90" x="45" y="34">
+        <parameter key="csv_file" value="C:\Users\BlueBravo\OneDrive - West Texas A and M University\Masters\SU2 2023\CIDM 6308\Exam 2\Training.csv"/>
+        <parameter key="column_separators" value=","/>
+        <parameter key="trim_lines" value="false"/>
+        <parameter key="use_quotes" value="true"/>
+        <parameter key="quotes_character" value="&quot;"/>
+        <parameter key="escape_character" value="\"/>
+        <parameter key="skip_comments" value="true"/>
+        <parameter key="comment_characters" value="#"/>
+        <parameter key="starting_row" value="1"/>
+        <parameter key="parse_numbers" value="true"/>
+        <parameter key="decimal_character" value="."/>
+        <parameter key="grouped_digits" value="false"/>
+        <parameter key="grouping_character" value=","/>
+        <parameter key="infinity_representation" value=""/>
+        <parameter key="date_format" value=""/>
+        <parameter key="first_row_as_names" value="true"/>
+        <list key="annotations"/>
+        <parameter key="time_zone" value="SYSTEM"/>
+        <parameter key="locale" value="English (United States)"/>
+        <parameter key="encoding" value="windows-1252"/>
+        <parameter key="read_all_values_as_polynominal" value="false"/>
+        <list key="data_set_meta_data_information">
+          <parameter key="0" value="CustomerID.false.polynominal.attribute"/>
+          <parameter key="1" value="Gender.true.polynominal.attribute"/>
+          <parameter key="2" value="SeniorCitizen.true.integer.attribute"/>
+          <parameter key="3" value="Partner.true.polynominal.attribute"/>
+          <parameter key="4" value="Dependents.true.polynominal.attribute"/>
+          <parameter key="5" value="Tenure.true.integer.attribute"/>
+          <parameter key="6" value="PhoneService.true.polynominal.attribute"/>
+          <parameter key="7" value="InternetService.true.polynominal.attribute"/>
+          <parameter key="8" value="Contract.true.polynominal.attribute"/>
+          <parameter key="9" value="PaperlessBilling.true.polynominal.attribute"/>
+          <parameter key="10" value="PaymentMethod.true.polynominal.attribute"/>
+          <parameter key="11" value="MonthlyCharges.true.real.attribute"/>
+          <parameter key="12" value="TotalCharges.true.real.attribute"/>
+          <parameter key="13" value="Churn.true.polynominal.attribute"/>
+        </list>
+        <parameter key="read_not_matching_values_as_missings" value="false"/>
+      </operator>
+      <operator activated="true" class="blending:select_attributes" compatibility="10.1.003" expanded="true" height="82" name="Select Attributes" width="90" x="179" y="34">
+        <parameter key="type" value="include attributes"/>
+        <parameter key="attribute_filter_type" value="all attributes"/>
+        <parameter key="select_attribute" value=""/>
+        <parameter key="select_subset" value=""/>
+        <parameter key="also_apply_to_special_attributes_(id,_label..)" value="false"/>
+      </operator>
+      <operator activated="true" class="blending:set_role" compatibility="10.1.003" expanded="true" height="82" name="Set Role" width="90" x="313" y="34">
+        <list key="set_roles">
+          <parameter key="Churn" value="label"/>
+        </list>
+      </operator>
+      <operator activated="true" class="read_csv" compatibility="10.1.003" expanded="true" height="68" name="Prediction Data" width="90" x="45" y="340">
+        <parameter key="csv_file" value="C:\Users\BlueBravo\OneDrive - West Texas A and M University\Masters\SU2 2023\CIDM 6308\Exam 2\Prediction.csv"/>
+        <parameter key="column_separators" value=","/>
+        <parameter key="trim_lines" value="false"/>
+        <parameter key="use_quotes" value="true"/>
+        <parameter key="quotes_character" value="&quot;"/>
+        <parameter key="escape_character" value="\"/>
+        <parameter key="skip_comments" value="true"/>
+        <parameter key="comment_characters" value="#"/>
+        <parameter key="starting_row" value="1"/>
+        <parameter key="parse_numbers" value="true"/>
+        <parameter key="decimal_character" value="."/>
+        <parameter key="grouped_digits" value="false"/>
+        <parameter key="grouping_character" value=","/>
+        <parameter key="infinity_representation" value=""/>
+        <parameter key="date_format" value=""/>
+        <parameter key="first_row_as_names" value="true"/>
+        <list key="annotations"/>
+        <parameter key="time_zone" value="SYSTEM"/>
+        <parameter key="locale" value="English (United States)"/>
+        <parameter key="encoding" value="windows-1252"/>
+        <parameter key="read_all_values_as_polynominal" value="false"/>
+        <list key="data_set_meta_data_information">
+          <parameter key="0" value="CustomerID.false.polynominal.attribute"/>
+          <parameter key="1" value="Gender.true.polynominal.attribute"/>
+          <parameter key="2" value="SeniorCitizen.true.integer.attribute"/>
+          <parameter key="3" value="Partner.true.polynominal.attribute"/>
+          <parameter key="4" value="Dependents.true.polynominal.attribute"/>
+          <parameter key="5" value="Tenure.true.integer.attribute"/>
+          <parameter key="6" value="PhoneService.true.polynominal.attribute"/>
+          <parameter key="7" value="InternetService.true.polynominal.attribute"/>
+          <parameter key="8" value="Contract.true.polynominal.attribute"/>
+          <parameter key="9" value="PaperlessBilling.true.polynominal.attribute"/>
+          <parameter key="10" value="PaymentMethod.true.polynominal.attribute"/>
+          <parameter key="11" value="MonthlyCharges.true.real.attribute"/>
+          <parameter key="12" value="TotalCharges.true.real.attribute"/>
+          <parameter key="13" value="Churn.true.polynominal.attribute"/>
+        </list>
+        <parameter key="read_not_matching_values_as_missings" value="false"/>
+      </operator>
+      <operator activated="true" class="blending:set_role" compatibility="10.1.003" expanded="true" height="82" name="Set Role (2)" width="90" x="179" y="340">
+        <list key="set_roles">
+          <parameter key="Churn" value="prediction"/>
+        </list>
+      </operator>
+      <operator activated="true" class="multiply" compatibility="10.1.003" expanded="true" height="103" name="Multiply" width="90" x="447" y="34"/>
+      <operator activated="true" class="h2o:logistic_regression" compatibility="10.1.000" expanded="true" height="124" name="Logistic Regression" width="90" x="581" y="136">
+        <parameter key="solver" value="AUTO"/>
+        <parameter key="reproducible" value="false"/>
+        <parameter key="maximum_number_of_threads" value="4"/>
+        <parameter key="use_regularization" value="false"/>
+        <parameter key="lambda_search" value="false"/>
+        <parameter key="number_of_lambdas" value="0"/>
+        <parameter key="lambda_min_ratio" value="0.0"/>
+        <parameter key="early_stopping" value="true"/>
+        <parameter key="stopping_rounds" value="3"/>
+        <parameter key="stopping_tolerance" value="0.001"/>
+        <parameter key="standardize" value="true"/>
+        <parameter key="non-negative_coefficients" value="false"/>
+        <parameter key="add_intercept" value="true"/>
+        <parameter key="compute_p-values" value="true"/>
+        <parameter key="remove_collinear_columns" value="true"/>
+        <parameter key="missing_values_handling" value="MeanImputation"/>
+        <parameter key="max_iterations" value="0"/>
+        <parameter key="max_runtime_seconds" value="0"/>
+      </operator>
+      <operator activated="true" class="concurrency:parallel_decision_tree" compatibility="10.1.003" expanded="true" height="103" name="Decision Tree" width="90" x="849" y="34">
+        <parameter key="criterion" value="gain_ratio"/>
+        <parameter key="maximal_depth" value="10"/>
+        <parameter key="apply_pruning" value="true"/>
+        <parameter key="confidence" value="0.1"/>
+        <parameter key="apply_prepruning" value="true"/>
+        <parameter key="minimal_gain" value="0.015"/>
+        <parameter key="minimal_leaf_size" value="30"/>
+        <parameter key="minimal_size_for_split" value="60"/>
+        <parameter key="number_of_prepruning_alternatives" value="3"/>
+      </operator>
+      <operator activated="true" class="multiply" compatibility="10.1.003" expanded="true" height="82" name="Multiply (2)" width="90" x="715" y="136"/>
+      <operator activated="true" class="multiply" compatibility="10.1.003" expanded="true" height="103" name="Multiply (3)" width="90" x="313" y="340"/>
+      <operator activated="true" class="apply_model" compatibility="10.1.003" expanded="true" height="82" name="Apply Model" width="90" x="1050" y="289">
+        <list key="application_parameters"/>
+      </operator>
+      <operator activated="true" class="apply_model" compatibility="10.1.003" expanded="true" height="82" name="Apply Log" width="90" x="849" y="391">
+        <list key="application_parameters"/>
+      </operator>
+      <connect from_op="Training Data" from_port="output" to_op="Select Attributes" to_port="example set input"/>
+      <connect from_op="Select Attributes" from_port="example set output" to_op="Set Role" to_port="example set input"/>
+      <connect from_op="Set Role" from_port="example set output" to_op="Multiply" to_port="input"/>
+      <connect from_op="Prediction Data" from_port="output" to_op="Set Role (2)" to_port="example set input"/>
+      <connect from_op="Set Role (2)" from_port="example set output" to_op="Multiply (3)" to_port="input"/>
+      <connect from_op="Multiply" from_port="output 1" to_op="Decision Tree" to_port="training set"/>
+      <connect from_op="Multiply" from_port="output 2" to_op="Logistic Regression" to_port="training set"/>
+      <connect from_op="Logistic Regression" from_port="model" to_op="Multiply (2)" to_port="input"/>
+      <connect from_op="Decision Tree" from_port="model" to_op="Apply Model" to_port="model"/>
+      <connect from_op="Multiply (2)" from_port="output 1" to_op="Apply Log" to_port="model"/>
+      <connect from_op="Multiply (3)" from_port="output 1" to_op="Apply Model" to_port="unlabelled data"/>
+      <connect from_op="Multiply (3)" from_port="output 2" to_op="Apply Log" to_port="unlabelled data"/>
+      <connect from_op="Apply Model" from_port="labelled data" to_port="result 1"/>
+      <connect from_op="Apply Model" from_port="model" to_port="result 2"/>
+      <connect from_op="Apply Log" from_port="labelled data" to_port="result 3"/>
+      <connect from_op="Apply Log" from_port="model" to_port="result 4"/>
+      <portSpacing port="source_input 1" spacing="0"/>
+      <portSpacing port="sink_result 1" spacing="0"/>
+      <portSpacing port="sink_result 2" spacing="0"/>
+      <portSpacing port="sink_result 3" spacing="0"/>
+      <portSpacing port="sink_result 4" spacing="0"/>
+      <portSpacing port="sink_result 5" spacing="0"/>
+    </process>
+  </operator>
+</process>

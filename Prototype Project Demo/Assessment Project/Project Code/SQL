@@ -1,0 +1,110 @@
+CREATE TABLE "AssessmentAPI_assessment" ("id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, "date" date NOT NULL, "score" decimal NOT NULL, "percent_complete" decimal NOT NULL, "comments" text NOT NULL, "status" varchar(255) NOT NULL, "site_location" varchar(255) NOT NULL, "assessment_template" integer NOT NULL, "alignment_engineer" integer NOT NULL, "customer" integer NOT NULL)
+CREATE TABLE "AssessmentAPI_assessmentquestion" ("id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, "question" text NOT NULL, "answer" text NOT NULL, "support" text NOT NULL)
+CREATE TABLE "AssessmentAPI_assessmenttemplate" ("id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, "name" varchar(255) NOT NULL, "assessment_type" varchar(255) NOT NULL, "description" text NOT NULL)
+CREATE TABLE "AssessmentAPI_customer" ("id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, "name" varchar(255) NOT NULL, "primary_location" varchar(255) NOT NULL, "alignment_engineer" integer NOT NULL, "vcio" integer NOT NULL)
+CREATE TABLE "AssessmentAPI_project" ("id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, "name" varchar(255) NOT NULL, "status" varchar(255) NOT NULL, "cost" decimal NOT NULL, "description" text NOT NULL, "completion_date" date NOT NULL, "project_manager" integer NOT NULL)
+CREATE TABLE "AssessmentAPI_proposedproject" ("id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, "name" varchar(255) NOT NULL, "completion_date" date NOT NULL, "description" text NOT NULL, "customer" integer NOT NULL)
+CREATE TABLE "AssessmentAPI_recommendation" ("id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, "name" varchar(255) NOT NULL, "completion_date" date NOT NULL, "description" text NOT NULL, "status" varchar(255) NOT NULL, "priority" integer NOT NULL, "assessment" integer NOT NULL, "customer" integer NOT NULL)
+CREATE TABLE "AssessmentAPI_recommendationproposedproject" ("id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, "proposed_project" integer NOT NULL, "recommendation" integer NOT NULL)
+CREATE TABLE "AssessmentAPI_technologyinventory" ("id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, "device_name" varchar(255) NOT NULL, "site_location" varchar(255) NOT NULL, "type" varchar(255) NOT NULL, "make" varchar(255) NOT NULL, "model" varchar(255) NOT NULL, "serial_number" varchar(255) NOT NULL, "operating_system" varchar(255) NOT NULL, "date_purchased" date NOT NULL, "date_warranty_expired" date NOT NULL, "age_years" integer NOT NULL, "date_last_updated" date NOT NULL, "customer" integer NOT NULL)
+CREATE TABLE "AssessmentAPI_user" ("id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, "name" varchar(255) NOT NULL, "email_address" varchar(254) NOT NULL, "security_group" varchar(255) NOT NULL)
+-- Delete data from all tables
+DELETE FROM AssessmentAPI_user;
+DELETE FROM AssessmentAPI_assessmentquestion;
+DELETE FROM AssessmentAPI_assessment;
+DELETE FROM AssessmentAPI_project;
+DELETE FROM AssessmentAPI_proposedproject;
+DELETE FROM AssessmentAPI_recommendation;
+DELETE FROM AssessmentAPI_recommendationproposedproject;
+DELETE FROM AssessmentAPI_technologyinventory;
+DELETE FROM AssessmentAPI_customer;
+DELETE FROM AssessmentAPI_assessmenttemplate;
+
+-- Reset the ID count for the AssessmentAPI_assessment table
+DELETE FROM sqlite_sequence WHERE name='AssessmentAPI_assessment';
+
+-- Reset the ID count for the AssessmentAPI_assessmentquestion table
+DELETE FROM sqlite_sequence WHERE name='AssessmentAPI_assessmentquestion';
+
+-- Reset the ID count for the AssessmentAPI_assessmenttemplate table
+DELETE FROM sqlite_sequence WHERE name='AssessmentAPI_assessmenttemplate';
+
+-- Reset the ID count for the AssessmentAPI_customer table
+DELETE FROM sqlite_sequence WHERE name='AssessmentAPI_customer';
+
+-- Reset the ID count for the AssessmentAPI_project table
+DELETE FROM sqlite_sequence WHERE name='AssessmentAPI_project';
+
+-- Reset the ID count for the AssessmentAPI_proposedproject table
+DELETE FROM sqlite_sequence WHERE name='AssessmentAPI_proposedproject';
+
+-- Reset the ID count for the AssessmentAPI_recommendation table
+DELETE FROM sqlite_sequence WHERE name='AssessmentAPI_recommendation';
+
+-- Reset the ID count for the AssessmentAPI_recommendationproposedproject table
+DELETE FROM sqlite_sequence WHERE name='AssessmentAPI_recommendationproposedproject';
+
+-- Reset the ID count for the AssessmentAPI_technologyinventory table
+DELETE FROM sqlite_sequence WHERE name='AssessmentAPI_technologyinventory';
+
+-- Reset the ID count for the AssessmentAPI_user table
+DELETE FROM sqlite_sequence WHERE name='AssessmentAPI_user';
+
+
+-- AssessmentAPI_user
+INSERT INTO AssessmentAPI_user (name, email_address, security_group) 
+VALUES 
+('Alice Johnson', 'alice.johnson@example.com', 'TEA'),
+('Bob Smith', 'bob.smith@example.com', 'TEA'),
+('Charlie Brown', 'charlie.brown@example.com', 'TEA'),
+('David Lee', 'david.lee@example.com', 'TEA'),
+('Emma Taylor', 'emma.taylor@example.com', 'vCIO'),
+('Frank Miller', 'frank.miller@example.com', 'vCIO'),
+('Grace Clark', 'grace.clark@example.com', 'vCIO'),
+('Hannah Davis', 'hannah.davis@example.com', 'vCIO'),
+('Ian Wilson', 'ian.wilson@example.com', 'PM'),
+('Jack Moore', 'jack.moore@example.com', 'PM');
+
+-- AssessmentAPI_assessmentquestion
+INSERT INTO AssessmentAPI_assessmentquestion (question, answer, support) 
+VALUES 
+('Networking Assessment', 'Detailed information about network infrastructure', 'Support for assessing networking components'),
+('Security Assessment', 'Detailed analysis of security measures', 'Support for assessing security protocols'),
+('Hardware Assessment', 'Evaluation of hardware components', 'Support for assessing hardware specifications'),
+('Software Assessment', 'Analysis of software applications', 'Support for assessing software functionality'),
+('Performance Assessment', 'Evaluation of system performance', 'Support for assessing system efficiency'),
+('Backup Assessment', 'Review of backup and recovery systems', 'Support for assessing data protection'),
+('Compliance Assessment', 'Check for regulatory compliance', 'Support for assessing legal requirements'),
+('Risk Assessment', 'Identification of potential risks', 'Support for assessing risk factors'),
+('Data Assessment', 'Analysis of data management practices', 'Support for assessing data handling'),
+('Infrastructure Assessment', 'Review of overall IT infrastructure', 'Support for assessing infrastructure components');
+
+-- AssessmentAPI_assessmenttemplate
+INSERT INTO AssessmentAPI_assessmenttemplate (name, assessment_type, description) 
+VALUES 
+('Network Health Check', 'Health Check', 'Assessment template for evaluating network health'),
+('Security Audit', 'Audit', 'Template for conducting security audits'),
+('Hardware Inventory', 'Inventory', 'Assessment template for hardware inventory'),
+('Software License Compliance', 'Compliance', 'Template for checking software license compliance'),
+('Performance Benchmarking', 'Benchmark', 'Template for benchmarking system performance'),
+('Backup Strategy Evaluation', 'Strategy', 'Assessment template for backup strategy evaluation'),
+('Regulatory Compliance Review', 'Compliance', 'Template for reviewing regulatory compliance'),
+('Risk Management Assessment', 'Risk Management', 'Assessment template for risk management'),
+('Data Governance Review', 'Governance', 'Template for reviewing data governance practices'),
+('Infrastructure Health Check', 'Health Check', 'Assessment template for evaluating infrastructure health');
+
+-- AssessmentAPI_customer
+INSERT INTO AssessmentAPI_customer (name, primary_location, alignment_engineer, vcio) 
+VALUES 
+('Tech Solutions Inc.', 'Main Office', 1, 4),
+('Data Systems Ltd.', 'Headquarters', 2, 4),
+('IT Innovations LLC', 'Main Campus', 3, 5),
+('Network Experts Corp.', 'Corporate Office', 1, 82),
+('Cloud Solutions Co.', 'Central Office', 2, 5),
+('Security Solutions Ltd.', 'Regional Office', 3, 7),
+('Global Tech Enterprises', 'Main Office', 1, 8),
+('Software Solutions Inc.', 'Corporate Headquarters', 2, 5),
+('Digital Services LLC', 'Head Office', 3, 7),
+('IT Solutions Group', 'Main Location', 1, 6);
+
+

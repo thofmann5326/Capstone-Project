@@ -1,0 +1,71 @@
+/* Dark Mode Styles */
+body.dark-mode {
+    background-color: #222;
+    color: #fff;
+}
+
+/* Navbar Styles */
+.navbar {
+    border-radius: 0;
+    background-color: #343a40;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #fff !important;
+}
+
+.navbar-nav .nav-link {
+    color: #fff !important;
+    transition: color 0.3s;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #ffc107 !important;
+}
+
+/* Form Switch Styles */
+.form-check.form-switch {
+    margin-top: 1rem;
+}
+
+/* Table Styles */
+.table {
+    margin-top: 1rem;
+}
+
+/* Chart Container Styles */
+.chart-container {
+    margin-top: 1rem;
+}
+
+/* Dark Mode Toggle Label Styles */
+.form-check-label {
+    color: #333;
+}
+
+/* Container Padding */
+.container {
+    padding: 20px;
+}
+
+/* Body Styles */
+body {
+    background-color: #f8f9fa;
+    color: #333;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Sortable Table Header Hover Styles */
+th.sortable:hover {
+    background-color: #343a40 !important;
+    cursor: pointer;
+}
+
+/* Logo Image Styles */
+.logo-img {
+    max-width: 200px;
+    max-height: 200px;
+}

@@ -1,0 +1,3619 @@
+brand,model_year,milage,accident,HighValueCar,Predicted_HighValueCar
+Ford,2013,51000,At least 1 accident or damage reported,0,0
+Hyundai,2021,34742,At least 1 accident or damage reported,0,0
+Lexus,2022,22372,None reported,1,1
+INFINITI,2015,88900,None reported,0,0
+Audi,2021,9835,None reported,0,1
+Acura,2016,136397,None reported,0,0
+Audi,2017,84000,None reported,0,0
+BMW,2001,242000,None reported,0,0
+Lexus,2021,23436,None reported,0,1
+Tesla,2020,34000,None reported,1,1
+Land,2021,27608,None reported,1,1
+Toyota,2021,12500,None reported,1,1
+Lincoln,2022,18196,None reported,1,1
+Jaguar,2020,15903,None reported,0,1
+Land,2013,79800,None reported,0,0
+Dodge,2013,61074,None reported,0,0
+Nissan,2003,74000,None reported,0,0
+Jaguar,2018,35250,None reported,1,0
+Chevrolet,2000,133510,None reported,0,0
+BMW,2020,25990,None reported,0,1
+Ford,2023,2823,None reported,1,1
+Chevrolet,2021,52000,None reported,1,1
+Hyundai,2022,11650,None reported,0,0
+Nissan,2016,96541,None reported,0,0
+Mercedes-Benz,2021,17500,None reported,1,1
+BMW,2015,69000,None reported,0,0
+Audi,2017,81880,None reported,0,0
+Mercedes-Benz,2018,28800,None reported,0,1
+Dodge,2006,300183,At least 1 accident or damage reported,0,0
+BMW,2020,35035,None reported,0,1
+Kia,2011,171000,None reported,0,0
+Lexus,2016,118700,None reported,0,0
+Jeep,2017,119000,None reported,0,0
+BMW,2018,44261,None reported,0,1
+Audi,2012,125575,None reported,0,0
+Hyundai,2007,16200,None reported,0,0
+BMW,2014,70000,At least 1 accident or damage reported,0,0
+Bentley,2011,20200,None reported,1,1
+Honda,2023,2978,None reported,0,0
+Dodge,2007,189719,At least 1 accident or damage reported,0,0
+BMW,2019,9949,None reported,1,1
+Audi,2012,54000,At least 1 accident or damage reported,0,0
+Chevrolet,2021,51351,None reported,0,1
+MINI,2017,24280,At least 1 accident or damage reported,0,0
+Toyota,2016,89148,None reported,0,0
+Porsche,2017,73043,None reported,0,0
+Mercedes-Benz,2017,60000,At least 1 accident or damage reported,1,0
+Honda,2016,73549,At least 1 accident or damage reported,0,0
+Hummer,2005,110900,None reported,0,0
+Porsche,2013,39000,None reported,1,0
+Mercedes-Benz,2016,120000,None reported,0,0
+Chrysler,2009,134602,None reported,0,0
+Nissan,2023,1094,None reported,0,0
+Audi,2010,83500,None reported,0,0
+Ford,2014,37060,None reported,0,0
+Acura,2010,97700,None reported,0,0
+Volvo,2018,40000,None reported,0,1
+Mercedes-Benz,2014,186000,At least 1 accident or damage reported,0,0
+Toyota,2021,13180,None reported,0,1
+Lexus,2014,104000,None reported,0,0
+BMW,2023,8500,None reported,1,1
+BMW,2019,19069,None reported,1,1
+Cadillac,2023,6090,None reported,0,1
+Audi,2019,47523,None reported,0,0
+Chrysler,2006,43000,At least 1 accident or damage reported,0,0
+BMW,2019,57800,None reported,1,0
+Toyota,2023,952,None reported,0,1
+Audi,2019,21240,At least 1 accident or damage reported,1,0
+Porsche,2019,59338,None reported,0,1
+Maserati,2019,23230,None reported,0,1
+Jaguar,2017,48000,At least 1 accident or damage reported,0,0
+Lexus,2005,41059,None reported,0,0
+Land,2020,21240,None reported,0,1
+Porsche,2015,11500,None reported,1,1
+Genesis,2021,9950,None reported,1,1
+Volkswagen,2023,633,None reported,0,0
+Hyundai,2015,66000,At least 1 accident or damage reported,0,0
+Audi,2014,59715,At least 1 accident or damage reported,0,0
+BMW,2012,85252,None reported,0,0
+Mercedes-Benz,2020,17900,At least 1 accident or damage reported,1,1
+BMW,2016,25500,None reported,1,1
+Hyundai,2023,3800,None reported,0,0
+Kia,2022,36602,None reported,0,0
+Rivian,2023,2800,None reported,1,1
+Mercedes-Benz,2018,33000,At least 1 accident or damage reported,0,0
+BMW,2016,76009,None reported,0,0
+Jeep,2020,31349,None reported,0,0
+Lexus,2015,48000,None reported,0,0
+BMW,2005,91420,None reported,0,0
+Toyota,2003,124756,At least 1 accident or damage reported,0,0
+GMC,2012,116226,None reported,0,0
+Lexus,2020,37869,None reported,1,1
+BMW,2019,41500,None reported,1,1
+Lexus,2013,87001,None reported,0,0
+Cadillac,2022,4451,At least 1 accident or damage reported,1,1
+BMW,2020,27158,None reported,0,1
+Chevrolet,2014,139804,At least 1 accident or damage reported,0,0
+Jeep,2022,27300,None reported,0,1
+BMW,2014,36812,None reported,0,0
+Land,2016,144000,At least 1 accident or damage reported,0,0
+Cadillac,2019,44500,None reported,0,1
+BMW,2021,10917,None reported,1,1
+Bentley,2005,8332,None reported,0,0
+Lincoln,2020,51247,None reported,0,0
+Mercedes-Benz,2016,69000,None reported,0,0
+RAM,2021,147834,None reported,0,0
+Ford,2013,105000,At least 1 accident or damage reported,0,0
+Audi,2011,92203,None reported,0,0
+Nissan,2010,15600,None reported,1,0
+Land,2018,104700,At least 1 accident or damage reported,0,0
+Toyota,2010,72348,At least 1 accident or damage reported,0,0
+Rivian,2023,2500,None reported,1,1
+Mercedes-Benz,2022,13177,None reported,0,1
+Porsche,2016,96000,At least 1 accident or damage reported,0,0
+Chevrolet,2011,93009,None reported,0,0
+INFINITI,2016,52750,At least 1 accident or damage reported,0,0
+Audi,2020,25361,None reported,0,1
+BMW,2015,41000,None reported,0,1
+Subaru,2021,42125,None reported,0,0
+Mercedes-Benz,2016,62000,None reported,0,0
+Land,2006,153843,At least 1 accident or damage reported,0,0
+BMW,2019,35248,None reported,1,1
+Ford,2015,194454,None reported,0,0
+Lexus,2021,21000,None reported,1,1
+Dodge,2006,218000,None reported,0,0
+Nissan,2021,67800,At least 1 accident or damage reported,0,0
+Porsche,2014,79000,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2022,24906,None reported,1,1
+Chevrolet,2006,66840,At least 1 accident or damage reported,0,0
+BMW,2013,86000,None reported,0,0
+Hyundai,2023,654,None reported,0,0
+Chevrolet,2005,75000,None reported,0,0
+Land,2015,84000,At least 1 accident or damage reported,0,0
+Audi,2017,52500,None reported,0,0
+GMC,2011,120000,None reported,0,0
+Alfa,2020,18665,None reported,0,1
+Kia,2017,36486,At least 1 accident or damage reported,0,0
+Ford,2013,162100,None reported,0,0
+Tesla,2022,13079,None reported,0,1
+Toyota,2022,28377,None reported,0,1
+Subaru,2020,32744,None reported,0,0
+Porsche,2012,54000,At least 1 accident or damage reported,0,0
+Toyota,2008,202055,At least 1 accident or damage reported,0,0
+RAM,2019,65000,None reported,1,0
+Kia,2022,9686,None reported,0,0
+Cadillac,2010,49620,None reported,0,0
+Toyota,1997,213000,None reported,0,0
+Lexus,2023,820,None reported,1,1
+Audi,2021,68000,None reported,0,0
+Lexus,1999,82000,None reported,0,0
+GMC,2022,27352,None reported,0,1
+Ford,2012,129000,At least 1 accident or damage reported,0,0
+Lexus,2014,106731,At least 1 accident or damage reported,0,0
+Ford,2019,34672,None reported,0,1
+Chevrolet,2010,55900,None reported,0,0
+Audi,2015,82000,None reported,0,0
+Genesis,2023,4785,None reported,0,1
+Chevrolet,2021,20497,None reported,0,1
+Scion,2013,177600,At least 1 accident or damage reported,0,0
+Lincoln,2014,78568,None reported,0,0
+Ford,2018,95000,None reported,0,0
+Ford,2021,25240,At least 1 accident or damage reported,0,1
+Volvo,2011,88300,At least 1 accident or damage reported,0,0
+Chevrolet,2013,98000,At least 1 accident or damage reported,0,0
+Audi,2018,20675,None reported,1,1
+Lincoln,2008,95000,None reported,0,0
+Hyundai,2010,107000,At least 1 accident or damage reported,0,0
+Audi,2016,60000,At least 1 accident or damage reported,0,0
+Mitsubishi,2012,33000,None reported,0,0
+Tesla,2023,500,None reported,1,1
+Mercedes-Benz,2016,108500,None reported,1,0
+Mercedes-Benz,2018,74422,None reported,0,0
+Chevrolet,2019,55621,None reported,0,0
+Mazda,2021,46707,At least 1 accident or damage reported,0,0
+Ford,2022,26500,None reported,1,1
+Nissan,2020,10001,None reported,0,0
+Lexus,2019,19050,None reported,1,1
+Chevrolet,2020,52000,None reported,0,1
+Mercedes-Benz,2014,65000,At least 1 accident or damage reported,1,0
+BMW,2004,140000,None reported,0,0
+Ford,2018,75600,At least 1 accident or damage reported,0,0
+Lincoln,2015,117292,None reported,0,0
+Genesis,2017,26000,None reported,0,1
+Ford,2014,15629,None reported,1,0
+Saturn,2008,15020,None reported,0,0
+Toyota,2016,50361,None reported,1,0
+Mercedes-Benz,2013,115000,At least 1 accident or damage reported,0,0
+Porsche,2005,28500,None reported,1,0
+Mercedes-Benz,2018,51700,None reported,0,0
+Ford,2008,148949,None reported,0,0
+BMW,2018,39300,At least 1 accident or damage reported,0,1
+Honda,2008,82323,None reported,0,0
+Acura,2023,3574,None reported,0,0
+Ford,2001,109357,None reported,0,0
+Mercedes-Benz,2004,46000,None reported,0,0
+INFINITI,2007,37100,None reported,0,0
+Volkswagen,2016,89000,None reported,0,0
+Dodge,2022,1240,None reported,1,1
+Lincoln,2019,67073,At least 1 accident or damage reported,0,0
+Tesla,2023,8200,None reported,1,1
+Ford,2018,98995,None reported,0,0
+Volkswagen,2012,123815,None reported,0,0
+Toyota,2020,61341,At least 1 accident or damage reported,0,0
+Honda,2016,96473,None reported,0,0
+Jeep,2017,66107,None reported,0,0
+Land,2008,114287,None reported,0,0
+Acura,2015,75000,None reported,0,0
+Polestar,2021,12172,None reported,0,1
+BMW,2016,70582,At least 1 accident or damage reported,0,0
+Porsche,2014,33088,None reported,0,1
+Lincoln,2021,1850,None reported,0,1
+Cadillac,2008,94155,None reported,0,0
+Cadillac,2016,25000,None reported,0,1
+GMC,2016,99500,None reported,0,0
+INFINITI,2009,158564,None reported,0,0
+Ford,2023,20000,None reported,1,1
+Cadillac,2018,46711,At least 1 accident or damage reported,0,0
+Nissan,2017,46496,None reported,0,0
+Mercedes-Benz,2019,19800,None reported,1,1
+Toyota,2008,175000,At least 1 accident or damage reported,0,0
+Toyota,2016,61500,None reported,1,0
+RAM,2016,49750,None reported,1,0
+Lincoln,2011,83765,None reported,0,0
+Alfa,2022,1966,None reported,1,1
+Chevrolet,2021,50648,None reported,0,1
+INFINITI,2013,60058,At least 1 accident or damage reported,0,0
+Maserati,2017,54423,None reported,0,0
+Toyota,2022,24001,None reported,0,1
+Nissan,2022,14735,None reported,0,0
+Audi,2023,2425,None reported,0,1
+Ford,2022,2050,None reported,1,1
+Lincoln,2019,64855,None reported,0,0
+Mercedes-Benz,2022,16238,None reported,1,1
+RAM,2022,18051,None reported,0,1
+Lincoln,2004,36524,None reported,0,0
+Acura,2022,14896,None reported,0,0
+Toyota,2022,14048,None reported,0,1
+Honda,2003,224000,None reported,0,0
+Mercedes-Benz,2014,80581,None reported,0,0
+Mazda,2007,81400,At least 1 accident or damage reported,0,0
+Porsche,2019,6700,None reported,1,1
+Ford,2015,143000,None reported,0,0
+Kia,2017,87842,None reported,0,0
+INFINITI,2010,116451,None reported,0,0
+Nissan,2019,53677,None reported,0,0
+Audi,2021,12000,None reported,1,1
+Land,2019,20034,None reported,0,1
+Ford,2020,32000,None reported,1,1
+INFINITI,2014,70312,None reported,0,0
+Jeep,2022,8794,None reported,1,1
+Lincoln,2010,156000,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2018,67100,At least 1 accident or damage reported,0,0
+Porsche,2014,52000,At least 1 accident or damage reported,0,0
+Acura,2011,137200,None reported,0,0
+Volkswagen,2018,36000,At least 1 accident or damage reported,0,0
+Kia,2023,15500,At least 1 accident or damage reported,0,0
+BMW,2020,10906,None reported,1,1
+Lincoln,2019,49814,None reported,0,0
+BMW,2015,846,None reported,1,1
+Toyota,2021,67039,None reported,0,0
+Mazda,2023,2636,None reported,0,0
+Porsche,2018,50166,At least 1 accident or damage reported,0,0
+Lincoln,2017,37375,None reported,0,0
+Tesla,2021,21600,None reported,0,1
+Porsche,2019,9500,At least 1 accident or damage reported,1,1
+Chevrolet,2005,143095,None reported,0,0
+Acura,2002,80000,At least 1 accident or damage reported,0,0
+Porsche,2007,5856,None reported,0,0
+Audi,2022,28927,None reported,1,1
+Honda,2021,14442,None reported,0,0
+Mercedes-Benz,2005,64000,None reported,0,0
+Lexus,2004,154000,At least 1 accident or damage reported,0,0
+Lexus,2015,54000,None reported,0,0
+Dodge,2007,232492,At least 1 accident or damage reported,0,0
+Maserati,2020,25721,None reported,1,1
+Land,2020,20927,None reported,0,1
+Audi,2022,9325,None reported,0,1
+Ford,2020,61001,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2018,71962,None reported,0,0
+Subaru,2023,5800,None reported,0,0
+BMW,2016,40080,None reported,0,1
+Kia,2020,57000,At least 1 accident or damage reported,0,0
+Chevrolet,2022,7624,None reported,0,1
+Subaru,2004,122000,At least 1 accident or damage reported,0,0
+Kia,2023,459,None reported,0,0
+BMW,2016,62500,At least 1 accident or damage reported,0,0
+Hyundai,2013,72000,None reported,0,0
+Mercedes-Benz,2020,8375,None reported,1,1
+BMW,2020,40000,None reported,1,1
+Subaru,2014,77000,At least 1 accident or damage reported,0,0
+Mazda,2020,35902,None reported,0,0
+Hyundai,2013,800,None reported,0,0
+Land,2023,6204,None reported,1,1
+Kia,2020,69185,None reported,0,0
+Maserati,2015,45000,None reported,0,0
+BMW,2020,37426,None reported,0,1
+INFINITI,2011,137000,At least 1 accident or damage reported,0,0
+Chevrolet,2023,4000,At least 1 accident or damage reported,1,1
+Audi,2023,4648,None reported,0,1
+Lexus,2018,52100,None reported,0,0
+BMW,2014,50100,None reported,0,0
+Alfa,2020,41000,None reported,0,1
+RAM,2021,70968,None reported,0,0
+BMW,2015,26600,None reported,1,1
+Tesla,2022,15443,None reported,1,1
+Volvo,2018,95000,None reported,0,0
+Subaru,2005,94000,None reported,0,0
+BMW,2020,45076,None reported,1,1
+Cadillac,2014,110000,None reported,0,0
+Land,2016,49083,None reported,0,1
+Genesis,2017,63500,None reported,0,0
+Mercedes-Benz,2009,21500,At least 1 accident or damage reported,0,0
+Kia,2019,68166,None reported,0,0
+Toyota,2018,53607,At least 1 accident or damage reported,0,0
+BMW,2020,18200,At least 1 accident or damage reported,0,1
+Audi,2018,16400,None reported,0,1
+Toyota,2022,7000,None reported,1,1
+Audi,2022,8497,None reported,1,1
+Audi,2016,68000,At least 1 accident or damage reported,0,0
+BMW,2007,83000,None reported,0,0
+Audi,2018,25000,None reported,0,1
+Cadillac,2021,15689,None reported,1,1
+BMW,2014,125450,None reported,0,0
+Kia,2023,9822,None reported,0,0
+Chevrolet,2008,144000,None reported,0,0
+GMC,2020,30900,None reported,0,1
+BMW,2021,2492,None reported,0,1
+Audi,2015,126760,At least 1 accident or damage reported,0,0
+Subaru,2017,100680,None reported,0,0
+Mitsubishi,2001,90400,None reported,0,0
+BMW,2018,20500,None reported,1,1
+Dodge,2011,134000,At least 1 accident or damage reported,0,0
+Ford,2015,84352,At least 1 accident or damage reported,0,0
+Toyota,2022,19000,None reported,1,1
+Land,2015,115550,None reported,0,0
+Lincoln,2009,191775,At least 1 accident or damage reported,0,0
+Ford,2023,923,None reported,0,1
+Mercedes-Benz,2017,124630,None reported,1,0
+Mercedes-Benz,2019,17000,None reported,1,1
+BMW,2018,73500,None reported,0,0
+Acura,1998,120000,At least 1 accident or damage reported,0,0
+Audi,2019,73837,None reported,0,0
+BMW,2014,29500,None reported,0,1
+Volkswagen,2021,13613,None reported,0,0
+INFINITI,2015,143250,None reported,0,0
+BMW,2006,46508,At least 1 accident or damage reported,0,0
+BMW,2015,18651,None reported,1,1
+BMW,2019,36438,None reported,0,1
+Kia,2014,46628,None reported,0,0
+Rivian,2023,5700,None reported,1,1
+BMW,2015,57550,None reported,0,0
+Cadillac,2017,48600,None reported,1,0
+Ford,2020,119000,None reported,0,0
+Land,2020,36500,None reported,1,1
+Lexus,2010,121250,At least 1 accident or damage reported,0,0
+BMW,2023,2437,None reported,1,1
+Volvo,2018,110380,At least 1 accident or damage reported,0,0
+Hyundai,2008,149000,None reported,0,0
+Dodge,2021,14684,None reported,0,1
+Mercedes-Benz,2017,39000,At least 1 accident or damage reported,0,0
+GMC,2019,65212,None reported,0,0
+Audi,2020,41856,None reported,1,1
+Rivian,2023,655,None reported,1,1
+Toyota,2019,54000,None reported,0,0
+Alfa,2019,26500,None reported,1,1
+Land,2020,38356,None reported,0,1
+Alfa,2020,21487,None reported,0,1
+Cadillac,2007,99000,None reported,0,0
+Ford,2019,35597,None reported,0,1
+Nissan,2005,130307,None reported,0,0
+Subaru,2010,178000,None reported,0,0
+Honda,2003,160265,At least 1 accident or damage reported,0,0
+Maserati,2016,1000,None reported,0,0
+Jeep,2022,29800,None reported,1,1
+Maserati,2017,49750,None reported,0,0
+Lexus,2002,121000,None reported,0,0
+Lincoln,2005,140000,None reported,0,0
+Cadillac,2016,61549,At least 1 accident or damage reported,0,0
+Lincoln,2016,38100,None reported,0,0
+Toyota,2010,138071,None reported,0,0
+Mercedes-Benz,2019,40000,At least 1 accident or damage reported,1,0
+Mercedes-Benz,2022,41545,None reported,1,1
+Hyundai,2014,128000,None reported,0,0
+Toyota,2019,48156,None reported,0,0
+Audi,2017,39071,None reported,1,0
+Mazda,1999,96680,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2017,53500,At least 1 accident or damage reported,0,0
+Chevrolet,2007,11025,None reported,0,0
+Ford,2021,44000,At least 1 accident or damage reported,1,0
+Volkswagen,2022,11000,None reported,0,0
+BMW,2012,103000,None reported,0,0
+Lexus,2018,64000,None reported,0,0
+Audi,2017,108000,None reported,0,0
+Alfa,2018,37045,At least 1 accident or damage reported,0,0
+Land,2023,5433,None reported,1,1
+BMW,2019,28744,None reported,0,1
+BMW,2015,65800,None reported,0,0
+Audi,2019,33012,None reported,0,1
+Lexus,2011,107818,At least 1 accident or damage reported,0,0
+Land,2016,79500,None reported,0,0
+Lexus,2018,37000,None reported,1,0
+Kia,2022,11945,None reported,0,0
+GMC,2005,131800,At least 1 accident or damage reported,0,0
+Lexus,2008,146000,None reported,0,0
+Nissan,2010,29000,None reported,0,0
+Dodge,2004,141209,None reported,0,0
+Ford,2016,85253,None reported,0,0
+INFINITI,2015,87009,None reported,0,0
+Lincoln,2016,158000,None reported,0,0
+Volvo,2020,10500,None reported,0,1
+Audi,2018,45843,None reported,0,0
+Ford,2021,15198,None reported,0,1
+Volkswagen,2001,220000,None reported,0,0
+Jaguar,2017,58000,None reported,1,0
+Land,2020,30424,None reported,0,1
+RAM,2021,38012,None reported,0,0
+Rivian,2023,2500,None reported,1,1
+BMW,2021,11078,None reported,1,1
+Lexus,2018,50000,None reported,1,0
+Land,2019,58000,None reported,0,1
+Acura,2023,3415,None reported,1,0
+Lexus,2018,61000,None reported,1,0
+Audi,2019,48500,At least 1 accident or damage reported,0,0
+Land,2018,65680,At least 1 accident or damage reported,0,0
+RAM,2020,44362,None reported,0,0
+Audi,2019,18603,None reported,0,1
+Audi,2020,35999,None reported,1,1
+Cadillac,2021,8044,None reported,1,1
+Mercedes-Benz,2016,9738,None reported,1,1
+BMW,2009,112000,At least 1 accident or damage reported,0,0
+Honda,2009,167300,None reported,0,0
+Cadillac,2015,71000,At least 1 accident or damage reported,0,0
+Acura,2020,31015,None reported,0,0
+BMW,2022,33000,None reported,0,1
+Buick,2013,68325,None reported,0,0
+RAM,2021,34365,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2018,32000,None reported,0,1
+Land,2020,40237,None reported,0,1
+Volvo,2020,22500,None reported,0,1
+Ford,2020,58700,At least 1 accident or damage reported,0,0
+Toyota,2006,264893,At least 1 accident or damage reported,0,0
+Toyota,2005,209500,None reported,0,0
+Ford,2023,195,None reported,1,1
+Chevrolet,2016,120000,None reported,0,0
+Chevrolet,2022,14676,None reported,0,1
+Jeep,2021,33704,None reported,0,0
+BMW,2023,2950,None reported,1,1
+Mercedes-Benz,2021,17994,None reported,1,1
+Toyota,2020,44101,None reported,0,0
+BMW,2021,25918,None reported,0,1
+BMW,2008,87000,None reported,0,0
+Mazda,2018,28333,None reported,0,0
+Audi,2018,29294,None reported,0,1
+Saturn,2008,37000,None reported,0,0
+BMW,2005,138000,None reported,0,0
+Volvo,2020,44487,None reported,1,1
+Acura,2021,16878,None reported,0,0
+Acura,2022,30177,None reported,0,0
+Chevrolet,2021,53000,At least 1 accident or damage reported,1,0
+Tesla,2021,61308,None reported,0,1
+Chevrolet,2022,32117,None reported,0,1
+BMW,2013,79341,None reported,0,0
+Land,2007,220000,None reported,0,0
+BMW,2021,16900,None reported,0,1
+Porsche,2007,75137,At least 1 accident or damage reported,0,0
+Ford,2021,37594,None reported,1,1
+Mercedes-Benz,2021,12771,None reported,0,1
+Ford,2012,6400,None reported,0,0
+Tesla,2021,69548,At least 1 accident or damage reported,0,0
+Nissan,2009,79893,None reported,0,0
+Toyota,2014,124838,None reported,0,0
+Nissan,2020,14353,None reported,1,0
+Ford,2022,22985,None reported,0,1
+INFINITI,2014,161894,None reported,0,0
+Aston,2008,25025,At least 1 accident or damage reported,0,0
+Lotus,2017,19650,None reported,1,0
+Land,2020,29500,None reported,0,1
+Nissan,2007,132272,At least 1 accident or damage reported,0,0
+Dodge,2012,122000,At least 1 accident or damage reported,0,0
+Buick,2022,18185,None reported,0,0
+Nissan,2018,56450,At least 1 accident or damage reported,0,0
+Nissan,2012,102000,None reported,0,0
+Jeep,2022,18428,None reported,1,1
+Nissan,2023,535,None reported,1,0
+Land,2013,81648,None reported,0,0
+Porsche,2003,138202,At least 1 accident or damage reported,0,0
+Bentley,2004,69600,None reported,0,0
+Jaguar,2018,39900,None reported,1,0
+Cadillac,2021,36500,None reported,1,1
+Audi,2018,42650,None reported,0,0
+Jeep,2020,68816,None reported,0,0
+Audi,2016,91188,None reported,0,0
+GMC,2015,116210,None reported,0,0
+Tesla,2022,3077,None reported,0,1
+Mazda,2024,3880,None reported,1,0
+Ford,2017,67482,At least 1 accident or damage reported,0,0
+Cadillac,2018,67726,None reported,1,0
+Audi,2008,207000,At least 1 accident or damage reported,0,0
+Hyundai,2021,35550,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2016,44000,None reported,0,0
+Mercedes-Benz,2015,11249,None reported,1,0
+Acura,2014,111650,At least 1 accident or damage reported,0,0
+RAM,2019,18526,None reported,1,1
+Audi,2012,103272,None reported,0,0
+BMW,2023,1160,None reported,1,1
+RAM,2019,107714,None reported,0,0
+Audi,2013,111773,None reported,0,0
+Cadillac,2019,54002,At least 1 accident or damage reported,0,0
+Volkswagen,2016,87000,At least 1 accident or damage reported,0,0
+Ford,2016,49700,None reported,0,0
+Mercedes-Benz,2017,34500,None reported,1,1
+Ford,2021,31729,At least 1 accident or damage reported,0,1
+Jeep,2021,7388,None reported,0,1
+BMW,2017,41550,None reported,0,1
+Mercedes-Benz,2018,44486,None reported,0,1
+Acura,2013,20750,None reported,0,0
+Genesis,2022,12000,None reported,0,1
+Lexus,2021,14206,None reported,1,1
+Jeep,2022,31700,None reported,0,1
+Hyundai,2022,13044,At least 1 accident or damage reported,0,0
+Kia,2009,100730,None reported,0,0
+BMW,2023,5338,None reported,1,1
+Ford,2014,85149,None reported,0,0
+BMW,2018,48291,None reported,1,1
+Volkswagen,2001,111887,None reported,0,0
+Rolls-Royce,2010,79000,None reported,1,0
+Lincoln,2016,125000,None reported,0,0
+Mercedes-Benz,2022,13777,At least 1 accident or damage reported,0,1
+RAM,2022,14920,None reported,0,1
+Jeep,2022,14627,None reported,1,1
+Volvo,2010,90050,None reported,0,0
+Subaru,2014,45000,At least 1 accident or damage reported,0,0
+Chevrolet,1998,7666,None reported,0,0
+Hummer,2006,89900,None reported,0,0
+Ford,2011,132000,At least 1 accident or damage reported,0,0
+GMC,2010,32652,None reported,0,0
+Jeep,2022,11164,None reported,0,1
+BMW,2020,22655,None reported,1,1
+Chevrolet,2021,10300,None reported,0,1
+BMW,2018,48000,None reported,1,1
+Mercedes-Benz,2007,138000,At least 1 accident or damage reported,0,0
+RAM,2022,24058,None reported,1,1
+Audi,2016,31500,None reported,1,0
+Porsche,2020,19701,None reported,1,1
+Genesis,2022,10200,None reported,0,1
+Aston,2008,62378,At least 1 accident or damage reported,0,0
+Nissan,2006,84200,None reported,0,0
+Toyota,2013,138700,At least 1 accident or damage reported,0,0
+Chevrolet,2021,41050,None reported,1,1
+Jeep,2020,39192,None reported,0,0
+BMW,2022,7758,None reported,0,1
+Ford,2021,31654,None reported,0,1
+Mercedes-Benz,2017,63000,At least 1 accident or damage reported,0,0
+Volvo,2005,257700,None reported,0,0
+Mercedes-Benz,2017,57000,At least 1 accident or damage reported,0,0
+Chevrolet,2017,89000,None reported,0,0
+Chevrolet,2015,134500,None reported,0,0
+Acura,2022,15895,None reported,0,0
+Genesis,2022,20319,None reported,0,1
+Pontiac,1999,158000,At least 1 accident or damage reported,0,0
+Lexus,2021,40906,None reported,1,1
+BMW,2020,33749,None reported,1,1
+BMW,2023,1120,None reported,1,1
+Jeep,2021,26088,None reported,0,1
+Kia,2022,14950,At least 1 accident or damage reported,0,0
+Kia,2018,47466,None reported,0,0
+BMW,2022,10376,None reported,1,1
+RAM,2021,18500,None reported,0,1
+Volkswagen,2021,24596,None reported,0,0
+Hyundai,2021,2905,None reported,0,0
+Jaguar,2015,71290,At least 1 accident or damage reported,0,0
+Audi,2022,15000,None reported,1,1
+INFINITI,2017,37900,None reported,0,0
+Mercedes-Benz,2019,32500,None reported,0,1
+Mitsubishi,2003,61491,At least 1 accident or damage reported,0,0
+Jeep,2013,77634,None reported,0,0
+Audi,2015,83000,At least 1 accident or damage reported,0,0
+Volkswagen,2002,121800,None reported,0,0
+BMW,2020,65852,None reported,1,0
+Mercedes-Benz,2014,83315,None reported,0,0
+Lexus,2015,101000,At least 1 accident or damage reported,0,0
+Toyota,2022,29322,None reported,0,1
+Mercedes-Benz,2019,23900,None reported,0,1
+Mercedes-Benz,2016,40515,At least 1 accident or damage reported,0,0
+Ford,2020,67516,None reported,0,0
+Mazda,2010,155000,None reported,0,0
+Honda,2019,26998,None reported,0,0
+MINI,2009,137600,None reported,0,0
+Nissan,2005,125500,None reported,0,0
+Nissan,2011,137483,None reported,0,0
+Ford,2019,67500,None reported,0,0
+Ford,2020,52000,At least 1 accident or damage reported,1,0
+Chevrolet,2017,195361,At least 1 accident or damage reported,0,0
+BMW,2019,14806,At least 1 accident or damage reported,1,1
+Genesis,2022,11000,At least 1 accident or damage reported,0,1
+Chevrolet,2011,92530,At least 1 accident or damage reported,0,0
+Dodge,2017,34845,At least 1 accident or damage reported,0,0
+Porsche,2018,16280,None reported,1,1
+Porsche,2011,77000,None reported,0,0
+Porsche,2010,63000,At least 1 accident or damage reported,0,0
+Lexus,2016,39700,None reported,0,0
+Kia,2013,103111,At least 1 accident or damage reported,0,0
+Land,2019,75897,None reported,0,0
+Jaguar,2017,55000,None reported,0,0
+Lexus,2005,114000,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2011,80124,None reported,0,0
+RAM,2023,4285,None reported,1,1
+Toyota,2017,34049,None reported,0,0
+Audi,2019,16000,At least 1 accident or damage reported,0,1
+GMC,1996,95000,None reported,0,0
+Land,2020,59355,None reported,1,1
+Chevrolet,2022,31000,None reported,0,1
+BMW,2019,19300,None reported,0,1
+Cadillac,2009,155000,At least 1 accident or damage reported,0,0
+Scion,2010,120010,At least 1 accident or damage reported,0,0
+Kia,2012,152520,None reported,0,0
+Porsche,2015,47000,None reported,0,1
+Genesis,2023,2046,None reported,0,1
+Chevrolet,2021,24965,At least 1 accident or damage reported,0,1
+Toyota,2005,108000,None reported,0,0
+Toyota,2015,76000,None reported,0,0
+Porsche,2014,30000,None reported,1,1
+Volvo,2015,59271,None reported,0,0
+BMW,2017,52500,At least 1 accident or damage reported,0,0
+Tesla,2020,23100,None reported,0,1
+FIAT,2017,45000,At least 1 accident or damage reported,0,0
+Dodge,2002,179000,At least 1 accident or damage reported,0,0
+Toyota,2023,1500,None reported,1,1
+BMW,2022,38671,None reported,1,1
+Jeep,2007,135465,None reported,0,0
+MINI,2014,79000,None reported,0,0
+Nissan,2012,42259,At least 1 accident or damage reported,0,0
+Toyota,2006,159890,At least 1 accident or damage reported,0,0
+Maserati,2023,2200,None reported,1,1
+Lexus,2022,15833,None reported,1,1
+BMW,2013,96000,At least 1 accident or damage reported,0,0
+BMW,2009,72900,None reported,0,0
+BMW,2021,7121,None reported,1,1
+Hyundai,2023,3402,None reported,0,0
+Volvo,2013,73000,None reported,0,0
+Karma,2018,21000,None reported,0,1
+BMW,2021,30309,None reported,1,1
+Ford,2021,24000,None reported,0,1
+BMW,2016,73000,None reported,0,0
+Ford,2019,26465,None reported,0,1
+Volkswagen,2020,26870,At least 1 accident or damage reported,0,0
+Honda,2004,184000,At least 1 accident or damage reported,0,0
+RAM,2022,1300,None reported,0,1
+Jeep,2018,49924,None reported,0,0
+GMC,2019,36526,None reported,1,1
+BMW,2015,37000,None reported,0,1
+Acura,2017,79884,At least 1 accident or damage reported,0,0
+Volkswagen,2016,30000,At least 1 accident or damage reported,0,0
+Ford,2012,105500,None reported,0,0
+BMW,2019,31157,None reported,1,1
+Kia,2019,86204,At least 1 accident or damage reported,0,0
+BMW,2014,80211,At least 1 accident or damage reported,0,0
+Aston,2010,25991,None reported,1,0
+Mercedes-Benz,2008,73000,None reported,0,0
+BMW,2018,40989,None reported,0,1
+Dodge,2010,102681,None reported,0,0
+Acura,2010,123000,At least 1 accident or damage reported,0,0
+Jeep,2005,160900,At least 1 accident or damage reported,0,0
+BMW,2011,105000,At least 1 accident or damage reported,0,0
+Kia,2023,1340,None reported,0,0
+Ford,2021,17850,None reported,0,1
+BMW,2011,72277,None reported,0,0
+Jeep,2023,7000,None reported,0,1
+Ford,2020,67015,None reported,0,0
+BMW,2018,19600,At least 1 accident or damage reported,1,1
+Ford,2022,5800,None reported,0,1
+FIAT,2017,33812,None reported,0,0
+Cadillac,2015,99897,None reported,0,0
+Mercedes-Benz,2014,127500,None reported,0,0
+Ford,2021,23842,None reported,1,1
+Rivian,2023,2108,None reported,1,1
+BMW,2014,65550,None reported,0,0
+Ford,2022,15600,At least 1 accident or damage reported,1,1
+Lexus,2021,22400,None reported,1,1
+Lexus,2015,89150,None reported,0,0
+BMW,2023,15000,None reported,1,1
+Audi,2018,49500,None reported,0,0
+Volkswagen,2015,85385,None reported,0,0
+Hyundai,2018,66126,None reported,0,0
+Toyota,2023,1075,None reported,0,1
+Ford,2023,2489,None reported,1,1
+Hyundai,2021,25000,None reported,0,0
+Nissan,2017,92000,None reported,0,0
+Lexus,2008,123500,At least 1 accident or damage reported,0,0
+Cadillac,2013,105000,At least 1 accident or damage reported,0,0
+Audi,2008,49000,None reported,1,0
+Jaguar,2020,28357,None reported,0,1
+Chevrolet,2018,81000,None reported,0,0
+Ford,2021,45000,None reported,1,1
+Toyota,2011,173456,At least 1 accident or damage reported,0,0
+Audi,2019,93400,None reported,0,0
+Toyota,2015,90000,None reported,0,0
+Porsche,2017,40600,None reported,0,1
+Lexus,2023,20121,None reported,0,1
+Lexus,2011,187450,At least 1 accident or damage reported,0,0
+Toyota,2021,6400,None reported,1,1
+Mercedes-Benz,2017,54500,None reported,0,0
+BMW,2017,78500,At least 1 accident or damage reported,0,0
+Chevrolet,2018,75000,None reported,0,0
+Ford,2014,89988,At least 1 accident or damage reported,0,0
+Subaru,2005,107000,None reported,0,0
+Alfa,2019,21400,None reported,0,1
+Mazda,2007,83150,None reported,0,0
+Ford,2018,92000,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2021,15042,None reported,1,1
+Audi,2017,39000,At least 1 accident or damage reported,0,0
+RAM,2017,67483,At least 1 accident or damage reported,0,0
+Tesla,2015,62089,None reported,0,0
+Audi,2017,54300,None reported,1,0
+Hyundai,2022,30565,None reported,0,0
+Audi,2016,142666,At least 1 accident or damage reported,0,0
+Ford,2009,166200,At least 1 accident or damage reported,0,0
+INFINITI,2015,88977,At least 1 accident or damage reported,0,0
+BMW,2011,114890,None reported,0,0
+Mercedes-Benz,2009,171000,At least 1 accident or damage reported,0,0
+Ford,2019,90067,None reported,0,0
+Chevrolet,2014,97579,At least 1 accident or damage reported,0,0
+Mazda,2017,52000,At least 1 accident or damage reported,0,0
+Jeep,2021,25968,None reported,0,1
+MINI,2016,41680,None reported,0,0
+Saab,2002,77200,None reported,0,0
+BMW,2019,50000,None reported,0,1
+Porsche,2021,21613,None reported,1,1
+Audi,2022,17377,None reported,0,1
+Audi,2005,153000,At least 1 accident or damage reported,0,0
+Mercury,2004,56600,None reported,0,0
+Hyundai,2015,116612,At least 1 accident or damage reported,0,0
+Audi,2018,72000,At least 1 accident or damage reported,0,0
+Audi,2019,39000,None reported,0,1
+Lincoln,2008,149000,None reported,0,0
+BMW,2018,19300,None reported,1,1
+Mazda,2021,27836,None reported,0,0
+Chevrolet,2023,3273,None reported,1,1
+Ford,2017,74349,None reported,0,0
+Ford,2019,85000,At least 1 accident or damage reported,1,0
+Mercedes-Benz,2017,46100,At least 1 accident or damage reported,0,0
+Hyundai,2019,49500,None reported,0,0
+Mercedes-Benz,2012,31130,None reported,0,0
+Ford,2008,149460,At least 1 accident or damage reported,0,0
+Mercury,2003,90000,At least 1 accident or damage reported,0,0
+Ford,2021,48000,None reported,1,1
+Mercedes-Benz,2013,98000,At least 1 accident or damage reported,0,0
+Volkswagen,2022,18655,None reported,0,0
+Chevrolet,2006,60000,At least 1 accident or damage reported,0,0
+Chevrolet,2014,169500,None reported,0,0
+Mitsubishi,2008,189500,None reported,0,0
+Toyota,2016,91000,None reported,1,0
+Genesis,2022,7396,None reported,0,1
+Toyota,2004,229450,None reported,0,0
+Audi,2014,49098,At least 1 accident or damage reported,0,0
+Nissan,2022,21212,None reported,0,0
+Porsche,2010,62743,None reported,0,0
+BMW,2021,24300,None reported,0,1
+Cadillac,2010,104000,None reported,0,0
+Volvo,2020,46250,At least 1 accident or damage reported,0,1
+Mazda,2023,1930,At least 1 accident or damage reported,0,0
+Chrysler,2022,61494,None reported,0,0
+Jeep,2020,24040,None reported,0,1
+Toyota,2001,231581,None reported,0,0
+Ford,2019,81000,None reported,0,0
+Land,2022,23568,None reported,0,1
+Mazda,2020,78700,None reported,0,0
+Kia,2015,109580,At least 1 accident or damage reported,0,0
+Lexus,2009,178000,At least 1 accident or damage reported,0,0
+Mitsubishi,2016,131193,None reported,0,0
+Mercedes-Benz,2017,106000,None reported,0,0
+Audi,2019,28211,At least 1 accident or damage reported,0,0
+Audi,2015,91403,None reported,0,0
+Mercedes-Benz,2016,88600,At least 1 accident or damage reported,0,0
+Kia,2021,11154,None reported,0,0
+BMW,2018,45090,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2003,33272,At least 1 accident or damage reported,0,0
+Jeep,2003,71000,None reported,0,0
+Land,2012,141525,None reported,0,0
+Jaguar,2007,50000,At least 1 accident or damage reported,0,0
+BMW,2020,29140,None reported,1,1
+BMW,2022,9000,None reported,1,1
+Mercedes-Benz,2021,5595,None reported,1,1
+RAM,2022,34121,None reported,0,1
+BMW,2013,36750,None reported,0,0
+Mercedes-Benz,2007,49626,None reported,0,0
+Jeep,2017,45000,At least 1 accident or damage reported,0,0
+Toyota,2019,69350,None reported,0,0
+BMW,2022,8307,None reported,1,1
+BMW,2023,4106,None reported,1,1
+BMW,1999,184700,None reported,0,0
+Maserati,2018,57500,None reported,0,0
+Acura,2021,29000,None reported,0,0
+Mercedes-Benz,2015,61675,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2021,33300,None reported,0,1
+Cadillac,2014,62950,At least 1 accident or damage reported,0,0
+Chevrolet,2015,56675,None reported,0,0
+Porsche,2013,92000,None reported,0,0
+Dodge,2005,96000,At least 1 accident or damage reported,0,0
+INFINITI,2014,33500,None reported,0,0
+Toyota,2007,53249,At least 1 accident or damage reported,0,0
+GMC,2016,119000,None reported,0,0
+Lincoln,2021,29336,None reported,0,1
+RAM,2017,86000,At least 1 accident or damage reported,0,0
+RAM,2014,177000,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2013,93500,At least 1 accident or damage reported,0,0
+BMW,2018,47700,At least 1 accident or damage reported,1,0
+Acura,2022,16120,None reported,0,0
+Buick,2005,147589,At least 1 accident or damage reported,0,0
+Cadillac,2013,95570,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2018,45791,None reported,1,0
+INFINITI,2016,60000,At least 1 accident or damage reported,0,0
+Buick,2019,50000,None reported,0,0
+Mercedes-Benz,2019,33481,None reported,0,1
+Jeep,2010,107000,None reported,0,0
+Mercedes-Benz,2011,60000,At least 1 accident or damage reported,0,0
+Audi,2016,55000,None reported,0,0
+Mazda,2022,4004,None reported,0,0
+Volkswagen,2016,47144,None reported,0,0
+Hyundai,2011,165454,At least 1 accident or damage reported,0,0
+Ford,2018,98000,At least 1 accident or damage reported,0,0
+Hyundai,2020,39913,None reported,0,0
+Ford,2013,147191,At least 1 accident or damage reported,0,0
+BMW,2014,53600,None reported,0,0
+Porsche,2013,40800,None reported,0,0
+Porsche,2018,36798,At least 1 accident or damage reported,0,1
+Ford,2010,87500,At least 1 accident or damage reported,0,0
+Chevrolet,2020,93000,None reported,0,0
+Mercedes-Benz,2018,41515,None reported,0,1
+RAM,2019,19000,At least 1 accident or damage reported,0,0
+Toyota,2023,1539,At least 1 accident or damage reported,1,0
+BMW,2018,31090,At least 1 accident or damage reported,1,1
+Mazda,2022,21701,None reported,0,0
+Nissan,2016,97726,At least 1 accident or damage reported,0,0
+Audi,2015,73000,None reported,0,0
+Genesis,2020,23600,None reported,0,1
+BMW,2019,20500,None reported,1,1
+Ford,2013,57912,At least 1 accident or damage reported,0,0
+BMW,2009,35000,None reported,0,0
+Nissan,2023,7089,At least 1 accident or damage reported,0,0
+Kia,2022,14676,None reported,0,0
+Lincoln,2022,13750,None reported,1,1
+Mercedes-Benz,2015,13300,None reported,1,0
+Chevrolet,2017,117000,None reported,0,0
+Audi,2020,27100,None reported,0,1
+Ford,2017,89352,At least 1 accident or damage reported,0,0
+Chevrolet,2018,1.00E+05,At least 1 accident or damage reported,0,0
+Land,2020,16000,None reported,1,1
+Land,2023,15200,None reported,1,1
+BMW,2012,39960,None reported,0,0
+Ford,2008,119000,At least 1 accident or damage reported,0,0
+Kia,2022,10971,None reported,0,0
+Mazda,2014,118500,At least 1 accident or damage reported,0,0
+Kia,2021,8288,None reported,0,0
+Chevrolet,2023,2950,None reported,1,1
+Mercedes-Benz,2017,73000,At least 1 accident or damage reported,1,0
+Ford,2005,82000,None reported,0,0
+Audi,2019,7874,None reported,0,1
+GMC,2017,49105,None reported,0,0
+Kia,2023,5500,None reported,0,0
+Chevrolet,2005,36700,None reported,0,0
+BMW,2014,40000,None reported,0,0
+GMC,2015,74864,None reported,0,0
+Cadillac,2021,15350,None reported,1,1
+Nissan,2010,46100,None reported,1,0
+Toyota,2018,61454,None reported,0,0
+BMW,2020,45241,None reported,1,1
+INFINITI,2018,48000,None reported,0,0
+Lexus,2010,68500,None reported,0,0
+GMC,2019,43433,None reported,1,1
+Chevrolet,2005,122961,None reported,0,0
+Dodge,2014,92861,None reported,0,0
+Hyundai,2016,72000,None reported,0,0
+Ford,2003,83000,None reported,0,0
+Audi,2021,18031,None reported,0,1
+Toyota,2023,8200,None reported,1,1
+Jeep,2022,12875,None reported,0,1
+Maserati,2015,32000,None reported,0,0
+BMW,2013,61145,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2022,9612,None reported,0,1
+Ford,2011,152000,None reported,0,0
+Audi,2012,129567,None reported,0,0
+BMW,2019,36000,At least 1 accident or damage reported,0,1
+BMW,2009,92008,None reported,0,0
+Ford,1998,63900,None reported,0,0
+Toyota,2012,150900,None reported,0,0
+Land,2018,38020,None reported,1,1
+Audi,2021,14750,None reported,1,1
+Subaru,2015,52500,None reported,0,0
+Chevrolet,2017,207571,At least 1 accident or damage reported,0,0
+INFINITI,2020,39000,None reported,0,0
+INFINITI,2017,93500,None reported,0,0
+BMW,2018,7200,None reported,1,1
+Land,2023,8421,None reported,1,1
+BMW,2020,25520,None reported,1,1
+Tesla,2020,30554,None reported,0,1
+Volvo,2023,17000,None reported,1,1
+Mercedes-Benz,2011,41314,At least 1 accident or damage reported,0,0
+Land,2020,49899,At least 1 accident or damage reported,1,0
+Ford,2012,186268,None reported,0,0
+Lexus,2016,51335,At least 1 accident or damage reported,0,0
+RAM,2022,19376,None reported,0,1
+Mitsubishi,2006,77000,None reported,1,0
+Acura,2013,40000,None reported,0,0
+Cadillac,2012,113000,None reported,0,0
+Chevrolet,2022,7600,At least 1 accident or damage reported,0,1
+Toyota,2022,20400,None reported,0,1
+Ford,2019,115000,None reported,0,0
+Lexus,2012,239000,None reported,0,0
+Jaguar,2014,62194,None reported,0,0
+Jeep,2020,22138,None reported,0,1
+Porsche,2017,48900,None reported,1,1
+Lincoln,2016,68200,At least 1 accident or damage reported,0,0
+Chevrolet,2001,139000,None reported,0,0
+Lexus,2022,14330,None reported,1,1
+BMW,2019,41906,At least 1 accident or damage reported,0,1
+Chevrolet,2016,164000,None reported,0,0
+Ford,2013,161933,None reported,0,0
+Hyundai,2022,22829,None reported,0,0
+Lexus,2023,5483,None reported,1,1
+Land,2020,46891,At least 1 accident or damage reported,0,1
+Chevrolet,2019,72000,At least 1 accident or damage reported,0,0
+Chevrolet,2021,18000,At least 1 accident or damage reported,0,1
+Jeep,2021,30630,None reported,0,1
+GMC,2023,9978,None reported,1,1
+Ford,2018,18500,At least 1 accident or damage reported,1,0
+Cadillac,2021,72843,None reported,1,0
+Buick,2017,67500,None reported,0,0
+Tesla,2020,43534,None reported,1,1
+Mercedes-Benz,2017,36900,None reported,0,1
+Chevrolet,2017,61720,At least 1 accident or damage reported,0,0
+Kia,2022,35938,None reported,0,0
+Toyota,2023,10748,None reported,1,1
+Nissan,2018,108206,At least 1 accident or damage reported,0,0
+Land,2020,32705,None reported,0,1
+Kia,2020,74026,None reported,0,0
+Lexus,2020,24651,None reported,0,1
+BMW,2022,13000,None reported,1,1
+Chevrolet,2015,77500,None reported,1,0
+Maserati,2007,82000,At least 1 accident or damage reported,0,0
+Ford,2021,29830,None reported,1,1
+Kia,2019,62660,None reported,0,0
+Land,2018,56006,None reported,1,1
+Lexus,2021,31365,None reported,1,1
+Lincoln,2004,27600,None reported,0,0
+Honda,2012,47245,None reported,0,0
+Lexus,2017,73948,None reported,0,0
+RAM,2019,36757,None reported,0,0
+Tesla,2023,4786,None reported,0,1
+Audi,2023,1900,None reported,1,1
+Hyundai,2014,52060,At least 1 accident or damage reported,0,0
+Porsche,2008,58000,None reported,0,0
+Ford,2010,52246,None reported,0,0
+Kia,2016,64290,None reported,0,0
+Nissan,2009,37500,None reported,0,0
+Genesis,2023,2121,None reported,0,1
+Land,2013,57000,None reported,0,0
+Mercedes-Benz,2020,22000,None reported,1,1
+Ford,2023,2000,None reported,1,1
+RAM,2018,61802,None reported,0,0
+Jeep,2013,106700,None reported,0,0
+Audi,2013,75965,At least 1 accident or damage reported,0,0
+Jeep,2022,31804,At least 1 accident or damage reported,0,0
+Chrysler,2005,116320,At least 1 accident or damage reported,0,0
+Audi,2011,156875,At least 1 accident or damage reported,0,0
+Tesla,2023,197,None reported,1,1
+Cadillac,2020,35200,None reported,0,1
+Maserati,2014,76000,None reported,0,0
+Jaguar,2019,29000,None reported,0,1
+BMW,2019,33499,At least 1 accident or damage reported,0,1
+Acura,2019,25779,At least 1 accident or damage reported,0,0
+GMC,2015,76296,At least 1 accident or damage reported,0,0
+BMW,2014,29553,None reported,0,1
+Nissan,2011,109902,None reported,0,0
+Mercedes-Benz,2019,23083,None reported,0,1
+Toyota,2003,143600,None reported,0,0
+RAM,2021,22000,None reported,1,1
+Mercedes-Benz,2022,13000,None reported,1,1
+Audi,2018,53000,At least 1 accident or damage reported,0,0
+Lincoln,2019,44741,None reported,1,0
+Audi,2008,202000,At least 1 accident or damage reported,0,0
+Chevrolet,2006,215000,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2019,77138,None reported,0,0
+Volvo,2018,90641,None reported,0,0
+Toyota,2011,177702,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2018,58350,None reported,0,0
+Chevrolet,2010,86170,At least 1 accident or damage reported,0,0
+Mazda,2012,36568,At least 1 accident or damage reported,0,0
+Ford,2015,54357,None reported,0,0
+Mercedes-Benz,2015,20394,At least 1 accident or damage reported,1,0
+Kia,2023,7578,None reported,0,0
+Porsche,2010,64800,At least 1 accident or damage reported,0,0
+Toyota,2016,117780,None reported,0,0
+Hyundai,2019,33100,None reported,0,0
+Land,2016,86202,None reported,0,0
+Ford,2012,163000,None reported,0,0
+Mercedes-Benz,2004,35400,None reported,0,0
+Jeep,2018,31000,None reported,0,0
+Mercedes-Benz,2018,103069,None reported,0,0
+Tesla,2016,91000,None reported,0,0
+Lexus,2010,41500,At least 1 accident or damage reported,0,0
+BMW,2010,91545,None reported,0,0
+Buick,2006,110000,None reported,0,0
+Lincoln,2016,88000,None reported,0,0
+Nissan,2018,42833,None reported,0,0
+BMW,2015,60100,None reported,0,0
+Jeep,2022,17381,None reported,1,1
+Cadillac,2013,63172,At least 1 accident or damage reported,0,0
+Ford,2010,72000,At least 1 accident or damage reported,0,0
+Kia,2022,4820,None reported,0,0
+Toyota,2018,51000,None reported,0,0
+Jeep,2013,54500,None reported,0,0
+Maserati,2006,61840,None reported,0,0
+GMC,2002,3.00E+05,At least 1 accident or damage reported,0,0
+Nissan,2011,103400,At least 1 accident or damage reported,0,0
+Land,2023,3678,None reported,1,1
+Ford,2016,107000,At least 1 accident or damage reported,0,0
+Porsche,2010,13850,None reported,1,0
+Chrysler,2021,21478,None reported,0,0
+Honda,2020,64200,At least 1 accident or damage reported,0,0
+Porsche,2006,31075,None reported,0,0
+Tesla,2022,25250,None reported,0,1
+BMW,2020,35400,None reported,1,1
+Audi,2004,74030,None reported,0,0
+Ford,2021,48549,None reported,1,1
+Kia,2023,5182,None reported,0,0
+RAM,2019,31681,At least 1 accident or damage reported,0,0
+BMW,2020,23430,None reported,1,1
+Mercedes-Benz,2015,30300,At least 1 accident or damage reported,0,0
+Cadillac,2016,112000,At least 1 accident or damage reported,0,0
+INFINITI,2014,127356,At least 1 accident or damage reported,0,0
+Volkswagen,2017,50600,At least 1 accident or damage reported,0,0
+Chevrolet,2011,194000,None reported,0,0
+Toyota,2021,33455,None reported,0,1
+BMW,2022,43000,None reported,0,1
+Mercedes-Benz,2016,46102,None reported,0,0
+Cadillac,2019,59000,None reported,0,0
+Jaguar,2004,134000,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2012,100245,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2022,8583,None reported,0,1
+Dodge,2003,141800,At least 1 accident or damage reported,0,0
+Audi,2012,77000,None reported,0,0
+Audi,2018,67035,At least 1 accident or damage reported,0,0
+Audi,2012,61450,None reported,0,0
+Porsche,2015,39500,None reported,1,1
+Chevrolet,2023,2300,None reported,1,1
+Audi,2023,10601,None reported,1,1
+Maserati,2018,18000,None reported,1,1
+GMC,2022,31681,At least 1 accident or damage reported,1,1
+Cadillac,2020,24114,At least 1 accident or damage reported,0,1
+Chevrolet,2012,148000,None reported,0,0
+BMW,2018,41000,None reported,1,1
+Nissan,2009,127600,None reported,0,0
+Dodge,2005,138450,At least 1 accident or damage reported,0,0
+GMC,2013,230000,None reported,0,0
+Lexus,2017,53649,None reported,0,0
+Mercedes-Benz,2012,174000,At least 1 accident or damage reported,0,0
+INFINITI,2022,49860,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2021,13650,None reported,1,1
+BMW,2016,134000,At least 1 accident or damage reported,0,0
+Porsche,2014,78000,None reported,1,0
+Porsche,2005,65750,None reported,0,0
+BMW,2021,18000,None reported,1,1
+Ford,2007,121630,None reported,0,0
+Rivian,2023,4500,None reported,1,1
+Volvo,2022,9408,None reported,1,1
+BMW,2016,120000,None reported,0,0
+Cadillac,2016,168600,None reported,0,0
+Chevrolet,2004,43705,None reported,0,0
+Audi,2013,111000,None reported,0,0
+Audi,2012,64549,None reported,0,0
+Buick,2007,53000,None reported,0,0
+Chevrolet,2017,13465,None reported,0,1
+Tesla,2023,5844,None reported,1,1
+BMW,2015,74000,None reported,0,0
+Kia,2011,100331,At least 1 accident or damage reported,0,0
+Toyota,2022,24850,None reported,1,1
+Lincoln,2021,17467,None reported,0,1
+Nissan,2015,115000,None reported,0,0
+BMW,2015,72000,At least 1 accident or damage reported,0,0
+Mazda,2008,162000,At least 1 accident or damage reported,0,0
+GMC,2017,47589,None reported,0,0
+Toyota,2023,6548,None reported,0,1
+RAM,2018,10339,None reported,0,0
+RAM,2021,32092,None reported,0,1
+Lexus,2014,85275,At least 1 accident or damage reported,0,0
+Hyundai,2016,138000,None reported,0,0
+Chevrolet,2003,87500,None reported,0,0
+Maserati,2013,34920,None reported,0,0
+Tesla,2020,27224,None reported,1,1
+BMW,2018,25000,None reported,1,1
+Tesla,2021,14642,None reported,0,1
+Subaru,2015,162000,None reported,0,0
+Buick,1996,119500,At least 1 accident or damage reported,0,0
+Land,2017,101800,None reported,0,0
+Ford,2021,84351,None reported,0,0
+Nissan,2012,26930,None reported,0,0
+Toyota,2019,40698,None reported,0,0
+BMW,2019,30000,At least 1 accident or damage reported,0,1
+Lexus,2007,78980,At least 1 accident or damage reported,0,0
+Porsche,2020,21028,None reported,1,1
+Maserati,2023,5409,None reported,1,1
+Dodge,2020,12700,At least 1 accident or damage reported,1,1
+Audi,2019,12000,None reported,0,1
+Ford,2016,25717,None reported,0,1
+Tesla,2022,12055,None reported,0,1
+Audi,2011,69700,At least 1 accident or damage reported,0,0
+BMW,2020,25013,None reported,1,1
+Audi,2023,1156,None reported,1,1
+BMW,2016,57939,None reported,0,0
+Mercedes-Benz,2018,52694,None reported,0,0
+Mercedes-Benz,2015,54000,None reported,0,0
+Honda,2002,110500,None reported,0,0
+Chevrolet,2000,97500,None reported,0,0
+Chevrolet,2020,20909,None reported,0,1
+Mercedes-Benz,2013,77648,None reported,0,0
+Bentley,2013,79422,None reported,1,0
+GMC,2002,53850,At least 1 accident or damage reported,0,0
+Audi,2020,21832,None reported,0,1
+Toyota,2017,41932,None reported,0,0
+GMC,2017,110000,At least 1 accident or damage reported,0,0
+Toyota,2020,67400,None reported,0,0
+Subaru,2017,62662,At least 1 accident or damage reported,0,0
+Subaru,2015,102000,At least 1 accident or damage reported,0,0
+INFINITI,2014,79785,At least 1 accident or damage reported,0,0
+Chevrolet,2017,166549,At least 1 accident or damage reported,0,0
+Toyota,2006,190656,At least 1 accident or damage reported,0,0
+Porsche,2009,135606,None reported,0,0
+Kia,2023,14700,None reported,0,0
+Mercedes-Benz,2019,12985,At least 1 accident or damage reported,1,1
+BMW,2014,4200,None reported,1,1
+Subaru,2017,44000,None reported,0,0
+Dodge,2015,66000,None reported,0,0
+Land,2021,17945,None reported,1,1
+Nissan,2013,106700,None reported,0,0
+Cadillac,2020,120000,None reported,1,0
+Mercedes-Benz,2012,59600,None reported,0,0
+Kia,2012,117220,None reported,0,0
+Chevrolet,2022,85200,None reported,1,0
+Volkswagen,2018,63450,None reported,0,0
+Dodge,2004,73000,None reported,0,0
+Scion,2014,115000,None reported,0,0
+Land,2016,56000,None reported,0,0
+Lexus,2018,67296,None reported,0,0
+Chevrolet,2015,179200,At least 1 accident or damage reported,0,0
+Maserati,2015,28000,None reported,0,0
+Porsche,2003,155000,None reported,1,0
+Hyundai,2012,154000,At least 1 accident or damage reported,0,0
+Cadillac,2012,62500,At least 1 accident or damage reported,0,0
+BMW,2000,177700,None reported,0,0
+Tesla,2019,83700,At least 1 accident or damage reported,0,0
+Nissan,2012,65000,None reported,0,0
+Mercedes-Benz,2018,62808,At least 1 accident or damage reported,0,0
+Ford,2021,3000,None reported,0,1
+Audi,2012,119000,None reported,0,0
+RAM,2013,198868,None reported,0,0
+Dodge,2011,188000,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2013,157405,None reported,0,0
+Dodge,2016,8228,None reported,1,1
+Land,2018,73101,None reported,0,0
+BMW,2018,10950,None reported,1,1
+Mercedes-Benz,2018,63160,At least 1 accident or damage reported,0,0
+Land,2019,31866,None reported,1,1
+Chevrolet,2009,75000,None reported,0,0
+Toyota,2016,98000,At least 1 accident or damage reported,0,0
+Mazda,2012,33576,None reported,0,0
+Volkswagen,2012,123200,At least 1 accident or damage reported,0,0
+Jaguar,2013,112000,None reported,0,0
+Chevrolet,2010,68000,At least 1 accident or damage reported,0,0
+INFINITI,2012,120000,At least 1 accident or damage reported,0,0
+BMW,2019,45000,At least 1 accident or damage reported,0,0
+Chevrolet,2022,6700,None reported,0,1
+Mercedes-Benz,2015,40900,None reported,1,0
+Cadillac,2018,74150,None reported,0,0
+Toyota,2014,94448,None reported,0,0
+Audi,2015,108000,None reported,0,0
+BMW,2012,118000,At least 1 accident or damage reported,0,0
+Jaguar,2020,38800,None reported,1,0
+BMW,2017,55000,None reported,0,0
+BMW,2021,34967,At least 1 accident or damage reported,0,1
+Jeep,2016,85325,None reported,0,0
+RAM,2018,63750,None reported,0,0
+Ford,2016,87248,None reported,0,0
+BMW,1997,206000,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2011,112854,None reported,0,0
+Rivian,2023,1150,None reported,1,1
+Tesla,2023,10000,None reported,0,1
+Mercedes-Benz,2022,14100,None reported,1,1
+BMW,2023,14360,None reported,1,1
+Chevrolet,2023,10000,None reported,0,1
+Chevrolet,2015,217500,None reported,0,0
+Chevrolet,2021,73846,None reported,1,0
+Jeep,2020,40000,None reported,0,0
+GMC,2023,9980,None reported,1,1
+Mazda,2019,41997,None reported,0,0
+Alfa,2021,2000,None reported,0,1
+Mercedes-Benz,2016,42750,At least 1 accident or damage reported,0,0
+BMW,2019,19473,None reported,0,1
+Volkswagen,2019,35340,None reported,0,0
+Mercedes-Benz,2008,93000,At least 1 accident or damage reported,0,0
+Audi,2014,66150,At least 1 accident or damage reported,0,0
+Volvo,2022,19352,None reported,1,1
+Land,2020,81000,None reported,1,0
+Toyota,2011,183000,None reported,0,0
+Jeep,2004,44000,At least 1 accident or damage reported,0,0
+Audi,2021,18100,None reported,1,1
+Land,2011,40000,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2011,120000,None reported,0,0
+Toyota,2023,325,None reported,1,1
+Maserati,2017,55000,None reported,0,0
+Ford,2019,48500,At least 1 accident or damage reported,0,0
+RAM,2018,52000,None reported,0,0
+Toyota,2007,179000,At least 1 accident or damage reported,0,0
+Dodge,2019,42626,None reported,0,1
+Lexus,2018,65900,At least 1 accident or damage reported,0,0
+Genesis,2022,7523,None reported,1,1
+Jaguar,2019,34365,None reported,1,0
+Kia,2021,16949,None reported,0,0
+Porsche,2018,61000,None reported,1,0
+INFINITI,2018,100564,None reported,0,0
+Ford,2022,13700,None reported,0,1
+Kia,2021,38612,None reported,0,0
+Chevrolet,2005,155000,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2017,56000,None reported,0,0
+Toyota,2022,44459,None reported,0,0
+Mercedes-Benz,2017,31000,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2012,44000,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2018,22558,None reported,0,1
+Jeep,2003,116157,None reported,0,0
+Lincoln,2018,23500,At least 1 accident or damage reported,0,0
+Chevrolet,2008,28150,None reported,0,0
+GMC,2016,137500,At least 1 accident or damage reported,0,0
+Ford,2017,169000,None reported,0,0
+Chevrolet,2010,8949,None reported,0,0
+Land,2016,103000,None reported,0,0
+Porsche,2003,87600,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2015,76753,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2019,10500,None reported,1,1
+Mercedes-Benz,2011,199000,None reported,0,0
+Lexus,2007,127980,None reported,0,0
+BMW,2023,16307,None reported,1,1
+Audi,2021,13566,None reported,1,1
+Audi,2022,22588,None reported,1,1
+Jaguar,2019,41452,At least 1 accident or damage reported,0,0
+Genesis,2019,57500,None reported,0,0
+BMW,2020,500,None reported,1,1
+Subaru,2014,55000,None reported,0,0
+GMC,2021,8210,None reported,1,1
+Lincoln,2021,18160,None reported,0,1
+Mercedes-Benz,2013,39748,At least 1 accident or damage reported,1,0
+Toyota,1998,160000,At least 1 accident or damage reported,0,0
+Toyota,2013,65000,None reported,0,0
+BMW,2016,59000,None reported,0,0
+BMW,2022,22700,None reported,0,1
+Mercedes-Benz,2018,56578,None reported,0,0
+Hyundai,2010,153332,At least 1 accident or damage reported,0,0
+Cadillac,2013,89700,None reported,0,0
+Lincoln,2002,118600,At least 1 accident or damage reported,0,0
+GMC,2021,23400,None reported,1,1
+Mercedes-Benz,2015,110000,None reported,0,0
+Jaguar,2008,87888,None reported,0,0
+Lexus,2015,73800,None reported,0,0
+Audi,2015,78124,None reported,0,0
+Subaru,2015,91000,At least 1 accident or damage reported,0,0
+Dodge,2003,114000,At least 1 accident or damage reported,0,0
+Subaru,2015,76000,None reported,0,0
+Audi,2008,146500,At least 1 accident or damage reported,0,0
+Porsche,2007,26021,None reported,1,0
+Audi,2015,73000,At least 1 accident or damage reported,0,0
+Audi,2009,153000,None reported,0,0
+Ford,2003,67550,None reported,0,0
+Ford,2004,170000,None reported,0,0
+Land,2017,53000,None reported,0,1
+Audi,2019,54900,At least 1 accident or damage reported,0,0
+BMW,2016,89000,None reported,0,0
+Ford,2022,6200,None reported,0,1
+Ford,2021,51808,None reported,0,1
+Hyundai,2013,89000,At least 1 accident or damage reported,0,0
+Toyota,1999,86111,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2018,45203,None reported,0,0
+Audi,2022,14739,None reported,1,1
+Buick,2017,139105,At least 1 accident or damage reported,0,0
+Ford,2011,101000,None reported,0,0
+GMC,2016,93000,At least 1 accident or damage reported,0,0
+Ford,2013,62500,None reported,0,0
+Lexus,2008,75000,At least 1 accident or damage reported,0,0
+BMW,2015,34455,None reported,0,1
+Land,2010,130000,None reported,0,0
+Mercedes-Benz,2014,76170,At least 1 accident or damage reported,0,0
+GMC,2010,194500,At least 1 accident or damage reported,0,0
+BMW,2008,135000,None reported,0,0
+Dodge,2021,33000,At least 1 accident or damage reported,0,0
+Hyundai,2010,98700,None reported,0,0
+Honda,2018,72900,At least 1 accident or damage reported,0,0
+Dodge,2016,135000,None reported,0,0
+Chevrolet,2022,2550,None reported,1,1
+RAM,2022,14636,None reported,0,1
+Chrysler,2005,24847,None reported,0,0
+Nissan,2019,29558,None reported,0,0
+Audi,2023,6581,None reported,1,1
+Mercedes-Benz,2020,22000,None reported,1,1
+Acura,2017,68200,At least 1 accident or damage reported,0,0
+Ford,2019,51300,None reported,0,0
+BMW,2008,133500,None reported,0,0
+INFINITI,2012,49000,None reported,0,0
+BMW,2008,125470,None reported,0,0
+Mazda,2008,81219,None reported,0,0
+Porsche,1999,72000,None reported,0,0
+Acura,2019,19500,None reported,0,0
+Lexus,2016,33655,None reported,1,0
+Toyota,2015,135140,None reported,0,0
+Maserati,2015,73000,None reported,0,0
+Land,2017,55000,At least 1 accident or damage reported,1,0
+Chevrolet,2013,87000,At least 1 accident or damage reported,0,0
+BMW,2006,137825,None reported,0,0
+Acura,2008,184421,None reported,0,0
+Lincoln,2015,95000,At least 1 accident or damage reported,0,0
+Kia,2022,26468,At least 1 accident or damage reported,0,0
+Bentley,2003,55050,None reported,0,0
+Kia,2021,54200,None reported,0,0
+Lexus,2002,109762,None reported,0,0
+Land,2012,92080,None reported,0,0
+Acura,2023,1798,None reported,1,0
+GMC,2006,167500,None reported,0,0
+GMC,2023,2500,None reported,1,1
+Mercedes-Benz,2016,77000,At least 1 accident or damage reported,0,0
+MINI,2019,19850,None reported,0,0
+Ford,2023,3400,None reported,1,1
+Ford,2021,3596,None reported,1,1
+Ford,2009,130200,None reported,0,0
+Land,2017,48200,None reported,0,1
+GMC,2016,183544,At least 1 accident or damage reported,0,0
+Ford,2016,14900,None reported,0,1
+Ford,2022,4200,None reported,1,1
+Hyundai,2012,15698,None reported,0,0
+Jeep,2022,1750,None reported,1,1
+BMW,2022,34800,None reported,0,1
+Jaguar,2020,35580,None reported,0,1
+Mazda,2003,9260,None reported,0,0
+GMC,2023,28500,None reported,1,1
+Mercedes-Benz,2008,91900,None reported,0,0
+INFINITI,2004,130000,None reported,0,0
+Cadillac,2013,56860,At least 1 accident or damage reported,0,0
+MINI,2017,44300,None reported,0,0
+Mercedes-Benz,2013,72500,None reported,0,0
+RAM,2017,72000,At least 1 accident or damage reported,0,0
+BMW,2011,132000,None reported,0,0
+Hyundai,2022,18500,None reported,0,0
+Lexus,2002,42000,At least 1 accident or damage reported,0,0
+Jaguar,2023,4624,None reported,1,1
+BMW,2006,106000,None reported,0,0
+Hyundai,2022,13610,None reported,0,0
+Ford,2023,8911,At least 1 accident or damage reported,1,1
+Chevrolet,2021,48641,None reported,0,1
+GMC,2021,11250,None reported,1,1
+Ford,2007,126000,None reported,0,0
+BMW,2008,77750,None reported,0,0
+Toyota,2020,27363,None reported,0,1
+Porsche,2019,30951,None reported,1,1
+Ford,2023,208,None reported,1,1
+Dodge,2021,20386,None reported,0,1
+BMW,2018,45253,None reported,0,1
+GMC,2016,144000,None reported,0,0
+Ford,2004,76163,None reported,0,0
+Mitsubishi,2017,35698,None reported,0,0
+Mercedes-Benz,2010,27000,None reported,0,0
+Mazda,2015,162000,None reported,0,0
+BMW,2008,77800,None reported,0,0
+Mercedes-Benz,2014,55000,None reported,0,0
+Ford,2022,12000,At least 1 accident or damage reported,1,1
+Tesla,2017,70579,None reported,0,0
+Jeep,2010,107000,At least 1 accident or damage reported,0,0
+Honda,2021,42653,None reported,0,0
+Acura,2008,193783,At least 1 accident or damage reported,0,0
+Lexus,2014,123000,At least 1 accident or damage reported,0,0
+Chevrolet,2011,130000,At least 1 accident or damage reported,0,0
+Mitsubishi,2009,143346,At least 1 accident or damage reported,0,0
+Land,2015,112465,None reported,0,0
+Nissan,2023,5121,None reported,0,0
+Audi,2012,137273,None reported,0,0
+Rivian,2023,299,None reported,1,1
+Lexus,2018,70780,None reported,0,0
+Chevrolet,2018,55000,None reported,0,0
+Mercedes-Benz,2017,23151,None reported,1,1
+Cadillac,2013,152000,At least 1 accident or damage reported,0,0
+INFINITI,2020,23344,None reported,0,0
+Subaru,2016,87092,At least 1 accident or damage reported,0,0
+Toyota,2004,90625,None reported,0,0
+Chevrolet,2021,44373,None reported,0,1
+BMW,2021,26000,None reported,0,1
+Karma,2018,20760,None reported,1,1
+Lexus,2021,39102,None reported,1,1
+Alfa,2019,39615,None reported,0,1
+GMC,2019,58000,None reported,0,0
+Lexus,2013,148000,At least 1 accident or damage reported,0,0
+Porsche,2011,104000,None reported,0,0
+BMW,2013,46150,At least 1 accident or damage reported,0,0
+Chevrolet,2022,18860,None reported,1,1
+Mercedes-Benz,2017,28399,None reported,1,1
+Jeep,1998,136500,None reported,0,0
+Porsche,2005,95170,None reported,0,0
+BMW,2006,95450,At least 1 accident or damage reported,0,0
+Chevrolet,2022,7652,None reported,0,1
+BMW,2011,169000,At least 1 accident or damage reported,0,0
+RAM,2022,16744,None reported,0,1
+Chevrolet,2004,152000,At least 1 accident or damage reported,0,0
+BMW,2020,46000,None reported,1,1
+BMW,2022,8000,None reported,1,1
+Chevrolet,2016,84421,None reported,0,0
+GMC,2021,44691,At least 1 accident or damage reported,1,0
+Mitsubishi,2022,11700,None reported,0,0
+Ford,2019,2800,None reported,1,1
+MINI,2010,58000,None reported,0,0
+Toyota,2009,142500,None reported,0,0
+Cadillac,2007,191900,At least 1 accident or damage reported,0,0
+Audi,2016,63398,At least 1 accident or damage reported,0,0
+Chevrolet,2008,162750,At least 1 accident or damage reported,0,0
+Jaguar,2012,38383,None reported,0,0
+Audi,2011,90818,At least 1 accident or damage reported,0,0
+Cadillac,2018,32000,None reported,0,1
+Ford,2019,94650,None reported,0,0
+Mercedes-Benz,2014,49899,None reported,1,0
+Jeep,2011,55000,At least 1 accident or damage reported,0,0
+BMW,2015,23700,None reported,0,1
+Tesla,2018,46000,None reported,1,1
+Maserati,2020,12118,None reported,1,1
+Pontiac,2001,64000,None reported,0,0
+Ford,2022,22169,None reported,1,1
+Tesla,2021,46897,None reported,1,1
+BMW,2011,135000,None reported,0,0
+BMW,2015,125000,None reported,0,0
+Cadillac,2017,134000,None reported,0,0
+BMW,2014,143250,None reported,0,0
+Lexus,2017,82975,None reported,0,0
+MINI,2016,91700,None reported,0,0
+Ford,2018,72393,None reported,0,0
+INFINITI,2016,71000,None reported,0,0
+Lexus,2012,160900,None reported,0,0
+Dodge,2020,40208,At least 1 accident or damage reported,0,0
+Lexus,2017,77300,None reported,0,0
+Nissan,2017,16700,None reported,0,0
+Subaru,2013,112000,None reported,0,0
+BMW,2016,55250,None reported,0,0
+INFINITI,2020,69000,None reported,0,0
+Ford,2016,40570,At least 1 accident or damage reported,0,0
+Toyota,2020,46500,None reported,0,0
+Honda,2000,26900,None reported,0,0
+Ford,2023,12000,None reported,1,1
+Ford,2022,30301,None reported,1,1
+Toyota,2023,600,None reported,1,1
+Plymouth,2001,22300,None reported,0,0
+Alfa,2023,9275,None reported,0,1
+Chevrolet,2004,171750,At least 1 accident or damage reported,0,0
+Mitsubishi,2013,76500,None reported,0,0
+Mercedes-Benz,2018,49000,At least 1 accident or damage reported,0,0
+Audi,2011,75000,At least 1 accident or damage reported,1,0
+Ford,2007,133300,None reported,0,0
+BMW,2007,99700,None reported,0,0
+Chevrolet,2011,126700,At least 1 accident or damage reported,0,0
+BMW,2016,28000,None reported,0,1
+Mercedes-Benz,2012,21300,At least 1 accident or damage reported,0,0
+Cadillac,2019,92000,None reported,1,0
+Lexus,2015,25756,None reported,0,0
+Kia,2021,24534,None reported,0,0
+Land,2018,58100,None reported,1,0
+Nissan,2017,20220,None reported,0,0
+Honda,2019,40069,At least 1 accident or damage reported,0,0
+Subaru,2017,60930,None reported,0,0
+Audi,2019,7300,None reported,0,1
+Chevrolet,2012,56000,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2014,136000,At least 1 accident or damage reported,0,0
+BMW,2020,31100,None reported,0,1
+Maserati,2012,12100,None reported,0,0
+Ford,2021,51902,None reported,1,1
+Audi,2007,93000,At least 1 accident or damage reported,0,0
+Land,2016,99915,At least 1 accident or damage reported,0,0
+Ford,2022,7661,None reported,0,1
+Chevrolet,2007,177000,At least 1 accident or damage reported,0,0
+Nissan,2008,100900,None reported,0,0
+INFINITI,2017,107380,At least 1 accident or damage reported,0,0
+Ford,2021,32957,None reported,1,1
+Acura,2016,45000,None reported,0,0
+Nissan,2013,67000,None reported,0,0
+Chevrolet,2021,12600,None reported,0,1
+Porsche,2018,24882,None reported,1,1
+Acura,2020,6900,None reported,0,0
+Kia,2019,66075,None reported,0,0
+Hyundai,2021,68050,None reported,0,0
+Ford,2017,128000,None reported,0,0
+BMW,2021,9472,None reported,0,1
+Mitsubishi,2009,185963,At least 1 accident or damage reported,0,0
+Nissan,2019,52000,At least 1 accident or damage reported,0,0
+Buick,2015,68653,At least 1 accident or damage reported,0,0
+Lexus,2004,151896,None reported,0,0
+Lexus,2019,43671,None reported,0,0
+Kia,2013,134207,At least 1 accident or damage reported,0,0
+GMC,2020,26470,None reported,0,1
+Porsche,2018,82300,None reported,0,0
+Lexus,2015,124000,None reported,0,0
+Audi,2020,23823,None reported,0,1
+GMC,2002,222600,None reported,0,0
+INFINITI,2014,154247,At least 1 accident or damage reported,0,0
+Chevrolet,2008,128000,None reported,0,0
+Maserati,2008,70000,At least 1 accident or damage reported,0,0
+BMW,2016,52375,At least 1 accident or damage reported,0,0
+Chrysler,2016,100574,At least 1 accident or damage reported,0,0
+Chrysler,2014,85000,At least 1 accident or damage reported,0,0
+Acura,2023,3959,None reported,0,0
+Chevrolet,2021,10400,None reported,1,1
+Chevrolet,2019,19200,None reported,0,1
+Mercedes-Benz,2013,81000,At least 1 accident or damage reported,0,0
+Ford,2022,17451,None reported,1,1
+Nissan,2011,165000,None reported,0,0
+Hyundai,2013,117500,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2018,72500,None reported,1,0
+Audi,2014,55564,At least 1 accident or damage reported,0,0
+Cadillac,2023,1090,None reported,1,1
+Volvo,2019,43500,None reported,0,1
+Mercedes-Benz,2019,35000,None reported,1,1
+GMC,2017,92031,At least 1 accident or damage reported,0,0
+Lexus,2016,128032,None reported,0,0
+Jaguar,2018,18800,None reported,0,1
+Honda,2017,91600,None reported,0,0
+Toyota,2019,91843,At least 1 accident or damage reported,0,0
+Dodge,2017,73350,None reported,0,0
+Mercedes-Benz,2022,11875,None reported,0,1
+Tesla,2018,47000,None reported,0,1
+INFINITI,2017,67000,None reported,0,0
+BMW,2016,117660,At least 1 accident or damage reported,0,0
+Pontiac,2001,71448,None reported,0,0
+Nissan,2015,86000,None reported,0,0
+Lexus,2020,15324,At least 1 accident or damage reported,0,0
+BMW,2013,29400,None reported,0,0
+Lexus,2017,68871,None reported,0,0
+Porsche,2012,126000,None reported,0,0
+Pontiac,2007,25718,None reported,0,0
+Porsche,2015,67210,At least 1 accident or damage reported,1,0
+BMW,2018,27214,At least 1 accident or damage reported,0,1
+Ford,2019,42728,None reported,0,1
+MINI,2010,97395,None reported,0,0
+Mazda,2015,91700,None reported,0,0
+Mitsubishi,2011,94500,None reported,0,0
+Chevrolet,2014,196300,None reported,0,0
+Cadillac,2015,54259,None reported,0,0
+Acura,2021,36267,None reported,0,0
+Land,2015,175000,None reported,0,0
+Chevrolet,2015,159000,At least 1 accident or damage reported,0,0
+Chevrolet,2016,74000,None reported,0,0
+Chevrolet,2011,82963,None reported,0,0
+Cadillac,2019,54323,None reported,0,0
+Nissan,2019,59980,None reported,0,0
+Audi,2022,10120,None reported,0,1
+BMW,2017,25000,At least 1 accident or damage reported,1,1
+BMW,2012,126000,At least 1 accident or damage reported,0,0
+Toyota,2020,37428,None reported,1,0
+Volkswagen,2014,99499,At least 1 accident or damage reported,0,0
+Honda,2012,90742,None reported,0,0
+Land,2014,125000,At least 1 accident or damage reported,0,0
+Hyundai,2018,71669,None reported,0,0
+Cadillac,2019,44692,None reported,0,1
+Jaguar,2018,16002,None reported,1,1
+Toyota,2014,86000,None reported,0,0
+Toyota,2019,56000,None reported,0,0
+RAM,2017,41789,At least 1 accident or damage reported,0,0
+Ford,2014,60109,None reported,0,0
+Mercedes-Benz,2020,48000,None reported,0,1
+Acura,2008,122000,None reported,0,0
+Land,2012,102800,None reported,0,0
+Mazda,2019,69771,None reported,0,0
+Acura,2023,2118,None reported,0,0
+Ford,2021,28260,None reported,1,1
+Honda,2020,6025,None reported,0,0
+Hyundai,2018,32697,At least 1 accident or damage reported,0,0
+Ford,2001,239000,None reported,0,0
+Jaguar,2017,34150,None reported,0,0
+Honda,2022,9642,None reported,0,0
+Pontiac,2006,100545,None reported,0,0
+Mercedes-Benz,2021,11111,None reported,0,1
+Toyota,2007,162000,None reported,0,0
+Buick,2020,87555,At least 1 accident or damage reported,0,0
+Chevrolet,2015,102200,None reported,0,0
+Bentley,2013,18950,None reported,1,1
+Mercedes-Benz,2015,16000,At least 1 accident or damage reported,0,0
+Cadillac,2022,19250,None reported,1,1
+BMW,2015,65000,None reported,0,0
+MINI,2007,110022,None reported,0,0
+Bentley,2012,79089,None reported,0,0
+Lexus,2023,2533,None reported,1,1
+Audi,2014,96273,At least 1 accident or damage reported,0,0
+Cadillac,2020,22187,At least 1 accident or damage reported,0,1
+GMC,2009,137000,None reported,0,0
+Nissan,2009,60747,At least 1 accident or damage reported,1,0
+Dodge,2007,36500,None reported,0,0
+Ford,2021,19590,None reported,1,1
+Nissan,2015,16850,None reported,1,0
+Chevrolet,2012,194000,At least 1 accident or damage reported,0,0
+Lexus,2020,48210,At least 1 accident or damage reported,0,0
+BMW,2018,81500,None reported,0,0
+BMW,2015,58664,At least 1 accident or damage reported,0,0
+Mitsubishi,2004,145000,None reported,0,0
+Lexus,2018,15055,None reported,1,1
+Tesla,2015,67647,None reported,0,0
+Mazda,2003,46873,None reported,0,0
+Cadillac,2021,53169,None reported,1,1
+Lexus,2022,35700,At least 1 accident or damage reported,1,0
+Nissan,2014,112600,At least 1 accident or damage reported,0,0
+GMC,2015,112552,At least 1 accident or damage reported,0,0
+BMW,2003,127273,None reported,0,0
+Lexus,2007,189887,At least 1 accident or damage reported,0,0
+BMW,2012,76465,At least 1 accident or damage reported,0,0
+Mitsubishi,2007,136400,At least 1 accident or damage reported,0,0
+Ford,2004,79635,None reported,0,0
+Tesla,2022,4665,None reported,0,1
+Buick,2011,170000,At least 1 accident or damage reported,0,0
+Ford,2018,67650,None reported,0,0
+Lexus,2016,119850,None reported,0,0
+Acura,2008,116500,None reported,0,0
+Ford,2010,169802,None reported,0,0
+BMW,2021,36905,None reported,0,1
+Jeep,2022,8400,At least 1 accident or damage reported,0,0
+Hummer,2003,149961,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2014,84500,None reported,0,0
+Mercedes-Benz,2016,96000,None reported,1,0
+Nissan,2009,88000,At least 1 accident or damage reported,1,0
+Audi,2011,35322,None reported,1,0
+Acura,2020,32500,None reported,0,0
+Audi,2016,71280,None reported,0,0
+Porsche,2011,37200,None reported,0,0
+Saturn,2008,94291,None reported,0,0
+Maserati,2006,54082,None reported,0,0
+Volvo,2022,7800,None reported,1,1
+Jeep,2016,86250,None reported,0,0
+BMW,2016,75479,None reported,0,0
+BMW,2017,24650,None reported,0,1
+Volkswagen,2013,102750,None reported,0,0
+Alfa,2018,50000,None reported,0,1
+BMW,2017,72700,None reported,0,0
+BMW,2018,54293,At least 1 accident or damage reported,0,0
+Lexus,2018,16000,At least 1 accident or damage reported,0,0
+BMW,2014,71000,At least 1 accident or damage reported,0,0
+BMW,2019,60000,None reported,0,0
+Porsche,1998,75539,None reported,0,0
+Alfa,2017,36000,None reported,0,1
+Mercedes-Benz,2019,76422,None reported,0,0
+Nissan,2016,42600,At least 1 accident or damage reported,0,0
+Chevrolet,2017,98888,At least 1 accident or damage reported,0,0
+Ford,2019,64532,At least 1 accident or damage reported,0,0
+BMW,2011,75500,None reported,0,0
+Buick,2019,32000,None reported,0,0
+Buick,2019,47839,None reported,0,0
+Porsche,2013,98413,At least 1 accident or damage reported,0,0
+Audi,2022,9628,None reported,1,1
+Jaguar,1999,15000,None reported,0,0
+Honda,2022,22564,None reported,0,0
+Lexus,2015,110000,None reported,0,0
+Toyota,2004,186117,None reported,0,0
+Jeep,2002,103500,None reported,0,0
+Cadillac,2019,8074,None reported,1,1
+BMW,2011,43000,None reported,0,0
+BMW,2015,70700,At least 1 accident or damage reported,0,0
+Chevrolet,2022,42479,None reported,0,1
+Ford,2000,205000,At least 1 accident or damage reported,0,0
+Audi,2019,22300,None reported,0,1
+Ford,2017,104000,At least 1 accident or damage reported,0,0
+Ford,2022,13865,None reported,0,1
+BMW,2022,15882,None reported,1,1
+Mercedes-Benz,2021,10483,None reported,1,1
+Chrysler,2015,44000,At least 1 accident or damage reported,0,0
+Hummer,2003,109000,None reported,0,0
+BMW,2020,31350,None reported,1,1
+Audi,2021,30000,None reported,1,1
+Land,2012,66500,None reported,0,0
+Nissan,2012,96600,At least 1 accident or damage reported,0,0
+Toyota,2015,198000,None reported,0,0
+Audi,2013,91877,At least 1 accident or damage reported,0,0
+Ford,2018,45578,None reported,0,0
+BMW,2015,54000,At least 1 accident or damage reported,0,0
+Land,2020,52000,None reported,1,1
+Mercedes-Benz,2020,23044,None reported,1,1
+Porsche,2008,132500,None reported,0,0
+Dodge,2006,256000,None reported,0,0
+Mercedes-Benz,2009,31370,None reported,1,0
+Chrysler,2008,67303,None reported,0,0
+Ford,2023,16500,None reported,1,1
+Toyota,2018,28800,None reported,0,0
+RAM,2019,88000,At least 1 accident or damage reported,0,0
+Ford,2018,18515,At least 1 accident or damage reported,1,0
+Tesla,2018,92813,None reported,0,0
+Volvo,2019,58600,At least 1 accident or damage reported,0,0
+Lexus,2015,74500,None reported,0,0
+Tesla,2018,33500,None reported,1,1
+Cadillac,2023,222,None reported,1,1
+Chevrolet,2007,75124,None reported,0,0
+Chevrolet,2013,15500,None reported,0,0
+Audi,2020,34300,None reported,1,1
+Honda,2019,82000,None reported,0,0
+Acura,2023,3389,None reported,0,0
+Cadillac,2005,96000,At least 1 accident or damage reported,0,0
+Dodge,2021,7751,None reported,0,1
+Audi,2017,66250,At least 1 accident or damage reported,1,0
+Lexus,2012,109000,At least 1 accident or damage reported,0,0
+Hyundai,2015,60000,None reported,0,0
+Tesla,2020,14700,None reported,1,1
+Mercedes-Benz,2022,9006,None reported,1,1
+Toyota,2022,13400,None reported,0,1
+Porsche,2020,28570,None reported,1,1
+Dodge,2018,78000,At least 1 accident or damage reported,0,0
+Lexus,2013,134000,At least 1 accident or damage reported,0,0
+Kia,2013,104994,None reported,0,0
+Alfa,2020,30000,None reported,0,1
+Toyota,2017,67000,None reported,0,0
+Kia,2021,8263,None reported,0,0
+RAM,2021,35003,None reported,0,0
+Chevrolet,2008,80000,None reported,0,0
+Jaguar,2014,74595,At least 1 accident or damage reported,0,0
+Audi,2013,87066,None reported,0,0
+Audi,2019,38360,None reported,0,1
+Kia,2020,38000,None reported,0,0
+Toyota,2018,69641,At least 1 accident or damage reported,0,0
+Toyota,2022,1275,None reported,0,1
+BMW,2001,60000,None reported,0,0
+Jeep,2014,99450,None reported,0,0
+Toyota,2023,200,None reported,1,1
+Porsche,2016,68000,At least 1 accident or damage reported,0,0
+Lexus,2010,212000,At least 1 accident or damage reported,0,0
+GMC,2019,73091,At least 1 accident or damage reported,1,0
+Kia,2023,9400,None reported,0,0
+Porsche,2014,117697,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2015,95428,None reported,1,0
+Lexus,2017,116300,None reported,0,0
+Acura,2019,56778,None reported,0,0
+Audi,2023,5682,None reported,0,1
+BMW,2017,37000,None reported,0,1
+Kia,2015,103748,None reported,0,0
+Toyota,2005,86000,None reported,0,0
+Land,2013,125900,None reported,0,0
+Nissan,2023,6200,None reported,0,0
+Ford,2019,85000,At least 1 accident or damage reported,1,0
+Mercedes-Benz,2017,19324,None reported,1,1
+Cadillac,2018,49273,None reported,1,1
+Tesla,2019,42094,None reported,0,1
+BMW,2017,44000,None reported,1,1
+Dodge,2010,70000,None reported,0,0
+Mercedes-Benz,2016,143290,None reported,0,0
+Ford,2019,69205,None reported,1,0
+Chevrolet,2015,123500,None reported,0,0
+Audi,2018,70773,None reported,0,0
+Jeep,2015,109000,At least 1 accident or damage reported,0,0
+INFINITI,2014,71097,None reported,0,0
+Tesla,2018,26609,None reported,0,1
+Cadillac,2014,80400,At least 1 accident or damage reported,0,0
+Toyota,2010,123620,At least 1 accident or damage reported,0,0
+Acura,2011,187883,None reported,0,0
+Honda,2022,25420,None reported,0,0
+BMW,2011,129999,None reported,0,0
+BMW,2008,41048,None reported,0,0
+Nissan,2010,72500,None reported,0,0
+RAM,2014,143390,None reported,0,0
+Acura,2018,68425,At least 1 accident or damage reported,0,0
+Toyota,2018,95000,None reported,0,0
+RAM,2019,29000,At least 1 accident or damage reported,0,0
+Chevrolet,2003,145000,None reported,0,0
+Jeep,2011,98658,None reported,0,0
+Volvo,2009,97615,None reported,0,0
+Porsche,2014,36000,None reported,0,1
+Mazda,2021,61874,None reported,0,0
+Chrysler,2012,74582,None reported,0,0
+INFINITI,2013,51500,None reported,0,0
+Toyota,2007,193827,None reported,0,0
+Chevrolet,2019,53433,None reported,0,0
+Mercedes-Benz,2012,103000,At least 1 accident or damage reported,0,0
+BMW,2016,59000,At least 1 accident or damage reported,0,0
+Lexus,2017,82000,None reported,0,0
+Porsche,2016,60000,None reported,0,0
+Cadillac,2017,93971,None reported,0,0
+Lexus,2015,62600,None reported,0,0
+Mercedes-Benz,2014,84450,None reported,0,0
+Audi,2022,18099,None reported,0,1
+Mercedes-Benz,2014,76500,None reported,0,0
+Chevrolet,2017,74000,None reported,0,0
+RAM,2022,15607,None reported,0,1
+Chevrolet,2014,111095,At least 1 accident or damage reported,0,0
+Toyota,2007,37216,At least 1 accident or damage reported,0,0
+Jaguar,2015,25786,None reported,0,0
+Jeep,2021,15520,None reported,0,1
+RAM,2021,49583,None reported,0,0
+Porsche,2015,97300,None reported,0,0
+Chevrolet,2002,89000,None reported,0,0
+Porsche,2015,52111,At least 1 accident or damage reported,0,0
+Dodge,2019,75800,None reported,0,0
+Lexus,2010,113500,At least 1 accident or damage reported,0,0
+Audi,2015,155382,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2016,49643,At least 1 accident or damage reported,0,0
+BMW,2015,76474,None reported,0,0
+Porsche,2016,10431,None reported,0,1
+INFINITI,2009,190120,At least 1 accident or damage reported,0,0
+Ford,2020,92000,None reported,0,0
+Chevrolet,2017,24000,None reported,0,1
+RAM,2020,25396,None reported,0,1
+Chevrolet,2001,167000,At least 1 accident or damage reported,0,0
+RAM,2022,18645,None reported,0,1
+Ford,2016,54000,None reported,0,0
+Hyundai,2003,83000,None reported,0,0
+Audi,2022,10071,None reported,0,1
+Ford,2021,43329,None reported,0,1
+Lexus,2015,51400,None reported,0,0
+Chevrolet,2015,153800,At least 1 accident or damage reported,0,0
+Dodge,2003,10800,None reported,1,0
+RAM,2020,10458,None reported,0,1
+BMW,2014,84709,None reported,0,0
+Mercedes-Benz,2019,33500,None reported,0,1
+BMW,2015,98000,None reported,0,0
+BMW,2008,94653,At least 1 accident or damage reported,0,0
+Ford,2023,9281,None reported,1,1
+Chevrolet,2023,11806,None reported,0,1
+Cadillac,2020,48613,At least 1 accident or damage reported,1,0
+RAM,2023,2990,At least 1 accident or damage reported,1,0
+Audi,2005,124747,None reported,0,0
+RAM,2021,24000,None reported,0,1
+Mazda,2009,113000,None reported,0,0
+INFINITI,2017,89106,None reported,0,0
+Ford,2017,22000,At least 1 accident or damage reported,1,0
+Jeep,2022,20472,None reported,0,1
+Chevrolet,2022,4753,None reported,1,1
+Chevrolet,2021,15000,None reported,0,1
+Chevrolet,1997,229000,At least 1 accident or damage reported,0,0
+Audi,2014,42400,None reported,0,0
+Land,2023,15840,None reported,1,1
+Porsche,2016,76200,None reported,0,0
+Chevrolet,2019,105667,None reported,0,0
+Chevrolet,2019,51338,None reported,0,1
+Dodge,2016,76857,At least 1 accident or damage reported,0,0
+Ford,2019,80200,None reported,0,0
+Toyota,2002,244200,At least 1 accident or damage reported,0,0
+Ford,2014,38560,At least 1 accident or damage reported,0,0
+Chevrolet,2020,12500,None reported,1,1
+Hyundai,2016,45303,None reported,0,0
+Ford,2014,110000,None reported,0,0
+Cadillac,2011,66200,None reported,0,0
+Subaru,2003,71000,None reported,0,0
+Toyota,2019,81301,None reported,0,0
+Chevrolet,2019,7033,None reported,1,1
+Dodge,2020,36000,None reported,1,1
+Acura,2010,116000,At least 1 accident or damage reported,0,0
+Chevrolet,2018,42780,At least 1 accident or damage reported,0,0
+BMW,2014,39886,At least 1 accident or damage reported,0,0
+Audi,2014,151400,None reported,0,0
+Alfa,2017,48000,None reported,0,1
+Toyota,2023,8727,None reported,0,1
+Rolls-Royce,2011,79000,At least 1 accident or damage reported,1,0
+Dodge,2020,54000,None reported,0,0
+Porsche,2016,110000,At least 1 accident or damage reported,0,0
+Chevrolet,2020,49688,None reported,0,1
+Mercedes-Benz,2020,14000,None reported,0,1
+Chevrolet,2022,11597,None reported,1,1
+Mercedes-Benz,2017,86101,At least 1 accident or damage reported,1,0
+Chevrolet,2017,58816,None reported,0,0
+Lexus,2016,77856,None reported,0,0
+GMC,2015,115282,At least 1 accident or damage reported,0,0
+MINI,2003,103726,At least 1 accident or damage reported,0,0
+Mazda,2008,39800,None reported,0,0
+Toyota,2019,79500,None reported,0,0
+Toyota,2008,165520,At least 1 accident or damage reported,0,0
+BMW,2014,92000,At least 1 accident or damage reported,0,0
+Hyundai,2023,1500,None reported,1,0
+Pontiac,2008,38100,None reported,0,0
+Land,2018,42125,None reported,0,1
+Porsche,2014,86818,None reported,0,0
+BMW,2023,3490,None reported,1,1
+Toyota,2008,111300,None reported,0,0
+BMW,2011,98200,None reported,0,0
+Porsche,2018,42500,At least 1 accident or damage reported,1,1
+Jeep,2001,171000,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2013,24933,At least 1 accident or damage reported,0,0
+Audi,2007,99769,None reported,0,0
+Toyota,2022,16156,None reported,0,1
+Mercedes-Benz,2008,67250,None reported,0,0
+GMC,2021,30022,At least 1 accident or damage reported,1,1
+Porsche,2017,42596,None reported,1,1
+Ford,2021,33705,At least 1 accident or damage reported,0,1
+Land,2016,63300,None reported,0,0
+Acura,2023,4700,None reported,1,0
+Toyota,2020,27256,None reported,0,1
+Hummer,2010,107481,None reported,0,0
+Tesla,2018,61700,None reported,0,0
+Jeep,2017,128000,None reported,0,0
+Chevrolet,2018,26000,None reported,0,1
+Audi,2015,74000,None reported,0,0
+INFINITI,2012,141775,None reported,0,0
+Volkswagen,2001,63250,None reported,0,0
+Audi,2022,13895,None reported,0,1
+Ford,2014,35900,At least 1 accident or damage reported,0,0
+GMC,2022,48306,At least 1 accident or damage reported,1,0
+Audi,2012,125000,None reported,0,0
+Tesla,2017,103000,None reported,0,0
+Mazda,2021,45303,None reported,0,0
+Lexus,2016,53900,None reported,0,0
+Jeep,2008,54000,None reported,0,0
+Chevrolet,2007,129000,None reported,0,0
+Jeep,2022,10232,None reported,0,1
+Acura,2023,3708,None reported,1,0
+Tesla,2019,37000,None reported,1,1
+Subaru,2022,10419,At least 1 accident or damage reported,0,0
+Audi,2014,96238,At least 1 accident or damage reported,0,0
+Subaru,2022,12700,None reported,0,0
+Chevrolet,2007,244000,None reported,0,0
+Porsche,2015,124000,None reported,0,0
+BMW,2009,123000,None reported,0,0
+GMC,2022,24900,None reported,0,1
+Ford,2016,95500,None reported,0,0
+Lexus,2021,48300,None reported,1,0
+BMW,2008,94000,None reported,0,0
+Nissan,2011,183000,At least 1 accident or damage reported,0,0
+Ford,2013,126225,At least 1 accident or damage reported,0,0
+Volkswagen,2016,87892,None reported,0,0
+Cadillac,2012,45000,None reported,0,0
+Lexus,2015,106000,None reported,0,0
+GMC,2019,51300,At least 1 accident or damage reported,0,0
+Ford,2021,30176,None reported,0,1
+Nissan,2021,27598,None reported,0,0
+Volkswagen,2012,107000,None reported,0,0
+Land,2019,17500,None reported,1,1
+RAM,2017,117878,None reported,0,0
+Nissan,2010,138700,At least 1 accident or damage reported,0,0
+Cadillac,2009,152068,At least 1 accident or damage reported,0,0
+BMW,2016,77000,At least 1 accident or damage reported,0,0
+Ford,2017,26000,None reported,0,1
+Lexus,2014,131200,None reported,0,0
+Buick,2017,83280,None reported,0,0
+BMW,2015,59000,None reported,1,0
+Volkswagen,2020,15500,None reported,0,0
+BMW,2013,90000,None reported,0,0
+INFINITI,2006,94000,At least 1 accident or damage reported,0,0
+Hummer,2008,63750,At least 1 accident or damage reported,1,0
+Mercedes-Benz,2011,95500,At least 1 accident or damage reported,0,0
+Acura,2019,37900,None reported,0,0
+RAM,2019,76249,At least 1 accident or damage reported,0,0
+BMW,2001,81000,None reported,0,0
+Chevrolet,2022,37806,None reported,1,1
+Dodge,2010,151544,At least 1 accident or damage reported,0,0
+Chevrolet,2012,60345,None reported,0,0
+Dodge,2010,90305,None reported,0,0
+Jeep,2022,13275,None reported,0,1
+Chevrolet,2018,8660,None reported,0,1
+Ford,2021,28220,None reported,1,1
+Ford,2015,97700,None reported,0,0
+Chevrolet,2023,4200,None reported,1,1
+Lincoln,2016,1.00E+05,None reported,0,0
+Ford,2001,333361,At least 1 accident or damage reported,0,0
+Land,2018,63295,None reported,0,0
+Land,2022,3000,None reported,1,1
+Chevrolet,2014,102604,None reported,0,0
+Ford,2019,124000,None reported,0,0
+Tesla,2022,12080,None reported,0,1
+Lexus,2018,39300,None reported,1,0
+INFINITI,2019,51000,At least 1 accident or damage reported,0,0
+Land,2017,67000,None reported,0,0
+Hyundai,2013,136991,None reported,0,0
+Toyota,2022,3959,None reported,1,1
+Jeep,2020,47500,None reported,0,0
+Ford,2005,176691,At least 1 accident or damage reported,0,0
+Tesla,2021,33000,None reported,1,1
+Mercedes-Benz,2014,34600,None reported,0,0
+RAM,2014,84500,None reported,0,0
+Kia,2022,36100,None reported,0,0
+Hyundai,2015,92225,At least 1 accident or damage reported,0,0
+Jeep,2020,17500,None reported,0,1
+Ford,2011,114323,None reported,0,0
+Toyota,2014,92000,None reported,0,0
+BMW,2018,29025,None reported,0,1
+Dodge,2021,17000,None reported,1,1
+Hyundai,2015,96476,None reported,0,0
+Volkswagen,2021,36311,None reported,0,0
+Land,2016,56842,None reported,0,0
+Nissan,2021,23677,None reported,0,0
+Buick,2020,27340,None reported,0,0
+Pontiac,2009,122348,At least 1 accident or damage reported,0,0
+BMW,2015,98000,None reported,0,0
+Tesla,2019,32300,None reported,0,1
+MINI,2019,18997,None reported,0,0
+Porsche,2016,40350,None reported,1,1
+Ford,2011,156856,None reported,0,0
+BMW,2017,61773,None reported,0,0
+Ford,2011,74500,None reported,0,0
+Jeep,2016,99000,At least 1 accident or damage reported,0,0
+INFINITI,2008,63496,None reported,0,0
+Ford,2022,18465,None reported,0,1
+Porsche,2007,42635,None reported,1,0
+INFINITI,2005,99000,None reported,0,0
+Chrysler,2013,87500,None reported,0,0
+Toyota,2007,138000,None reported,0,0
+Lexus,2018,70891,None reported,0,0
+Buick,2020,55403,At least 1 accident or damage reported,0,0
+BMW,2022,3213,None reported,1,1
+Pontiac,2005,142314,At least 1 accident or damage reported,0,0
+Toyota,2013,53000,None reported,0,0
+Hyundai,2014,120250,None reported,0,0
+Porsche,2015,72329,None reported,0,0
+Hummer,2007,153692,None reported,0,0
+Tesla,2021,32670,None reported,0,1
+Rivian,2022,8681,None reported,1,1
+Audi,2012,98400,None reported,0,0
+Toyota,2023,1400,None reported,0,1
+Tesla,2018,32000,None reported,0,1
+Ford,1997,92800,None reported,0,0
+Subaru,2008,94000,None reported,0,0
+Mercedes-Benz,2014,67350,At least 1 accident or damage reported,0,0
+BMW,2001,66500,None reported,0,0
+Mercedes-Benz,2014,70612,None reported,0,0
+Toyota,2007,112630,At least 1 accident or damage reported,0,0
+Dodge,2014,124705,None reported,0,0
+BMW,2018,61000,At least 1 accident or damage reported,0,0
+RAM,2017,157272,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2015,84000,None reported,0,0
+Jeep,2020,27981,None reported,0,1
+Bentley,2009,18000,None reported,1,0
+Tesla,2019,27123,None reported,0,1
+Chevrolet,2021,3053,None reported,1,1
+Audi,2015,60251,At least 1 accident or damage reported,0,0
+Mazda,2021,5093,None reported,0,0
+Mercedes-Benz,2005,175722,None reported,0,0
+BMW,2015,17900,None reported,1,1
+GMC,2015,142792,None reported,0,0
+Toyota,2010,89400,None reported,0,0
+Chrysler,2007,86000,None reported,0,0
+smart,2008,61595,None reported,0,0
+Toyota,2018,74000,At least 1 accident or damage reported,0,0
+Hummer,2004,130000,At least 1 accident or damage reported,0,0
+BMW,2015,86000,At least 1 accident or damage reported,0,0
+Land,2008,140600,None reported,0,0
+Audi,2018,27532,None reported,0,1
+Ford,2017,91000,None reported,0,0
+Mercedes-Benz,2014,63000,None reported,0,0
+Jeep,2022,10500,None reported,0,1
+Mercedes-Benz,2014,75073,None reported,0,0
+Jeep,2008,140000,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2019,30300,None reported,0,1
+Chevrolet,2009,139000,None reported,0,0
+Hummer,2006,118000,None reported,0,0
+BMW,2015,51000,None reported,1,0
+Cadillac,2009,69423,None reported,0,0
+Lincoln,2017,52284,At least 1 accident or damage reported,0,0
+Chevrolet,2006,111228,At least 1 accident or damage reported,0,0
+Land,2019,52300,None reported,0,1
+Nissan,2021,95993,None reported,0,0
+Kia,2022,26716,None reported,0,0
+Chevrolet,2023,39517,At least 1 accident or damage reported,1,1
+Ford,2019,31600,None reported,0,1
+BMW,2017,83298,None reported,0,0
+Land,2017,95212,None reported,0,0
+Porsche,2010,61600,None reported,1,0
+INFINITI,2011,130921,None reported,0,0
+BMW,2024,1500,None reported,1,1
+MINI,2017,79950,None reported,0,0
+Cadillac,2021,31500,None reported,1,1
+RAM,2021,45867,None reported,0,0
+Porsche,2014,22700,At least 1 accident or damage reported,1,0
+Bentley,2009,43000,None reported,0,0
+Toyota,2015,99000,None reported,0,0
+Toyota,2006,135000,None reported,0,0
+Cadillac,2019,46000,At least 1 accident or damage reported,0,0
+Ford,2014,79615,None reported,0,0
+BMW,2021,13250,None reported,1,1
+Land,2019,41200,None reported,1,1
+Cadillac,2016,116500,At least 1 accident or damage reported,0,0
+Chevrolet,2018,24059,None reported,1,1
+Audi,2015,118500,At least 1 accident or damage reported,0,0
+Maserati,2018,20000,None reported,0,1
+BMW,2020,10426,None reported,0,1
+Ford,2023,9500,At least 1 accident or damage reported,1,1
+Nissan,2006,134000,At least 1 accident or damage reported,0,0
+Subaru,2022,10500,None reported,0,0
+Chevrolet,2018,53100,None reported,0,0
+Ford,2017,80134,None reported,0,0
+Nissan,2021,24000,None reported,0,0
+Volvo,2006,61000,None reported,0,0
+Lincoln,2021,19700,None reported,0,1
+Mercedes-Benz,2018,28182,At least 1 accident or damage reported,1,0
+Ford,2017,59500,At least 1 accident or damage reported,0,0
+Ford,1999,115402,None reported,0,0
+GMC,2018,85500,At least 1 accident or damage reported,0,0
+RAM,2020,51000,None reported,0,0
+Tesla,2021,17500,None reported,0,1
+Lexus,2011,132000,None reported,0,0
+Jeep,2016,67882,None reported,0,0
+Volvo,2018,62000,None reported,0,0
+BMW,2017,27965,None reported,1,1
+BMW,2018,48000,None reported,0,1
+BMW,2020,5541,None reported,1,1
+Mitsubishi,2018,29000,None reported,0,0
+Dodge,2010,131100,At least 1 accident or damage reported,0,0
+Subaru,2015,102242,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2016,18069,None reported,1,1
+Kia,2023,13000,None reported,0,0
+Porsche,2008,51000,At least 1 accident or damage reported,1,0
+Hummer,2007,137333,At least 1 accident or damage reported,0,0
+Buick,2014,125559,At least 1 accident or damage reported,0,0
+Chevrolet,2020,88161,At least 1 accident or damage reported,0,0
+Toyota,2016,101900,None reported,0,0
+Cadillac,2015,159500,At least 1 accident or damage reported,0,0
+Subaru,2015,68860,At least 1 accident or damage reported,0,0
+Tesla,2018,43000,At least 1 accident or damage reported,0,1
+Ford,2017,182000,At least 1 accident or damage reported,0,0
+Tesla,2022,21404,None reported,0,1
+Ford,2017,81000,None reported,0,0
+Chevrolet,2021,62257,None reported,0,0
+BMW,2016,91798,None reported,0,0
+BMW,2011,82000,At least 1 accident or damage reported,0,0
+Ford,2012,207100,At least 1 accident or damage reported,0,0
+Porsche,2016,77945,At least 1 accident or damage reported,0,0
+Kia,2022,15583,None reported,0,0
+BMW,2017,37100,At least 1 accident or damage reported,0,0
+Maserati,2006,51000,At least 1 accident or damage reported,0,0
+Ford,2017,94000,None reported,0,0
+Land,2003,121886,At least 1 accident or damage reported,0,0
+Ford,2008,157500,At least 1 accident or damage reported,0,0
+Ford,2014,138415,At least 1 accident or damage reported,0,0
+Land,2012,110000,None reported,0,0
+GMC,2021,12941,At least 1 accident or damage reported,1,1
+BMW,2009,69764,None reported,0,0
+Audi,2022,8193,None reported,0,1
+Lexus,2020,43277,None reported,0,0
+Audi,2018,26500,At least 1 accident or damage reported,0,0
+Chevrolet,2019,25462,None reported,0,1
+Audi,2018,35850,None reported,0,1
+Mazda,2008,77700,None reported,0,0
+Jaguar,2021,23600,None reported,0,1
+Toyota,2001,122000,None reported,0,0
+Ford,2003,245000,At least 1 accident or damage reported,0,0
+Subaru,2016,84100,None reported,0,0
+Audi,2021,33000,None reported,0,1
+Tesla,2018,10065,None reported,1,1
+Acura,2021,44457,None reported,0,0
+Audi,2013,139355,None reported,0,0
+Lotus,2010,9100,None reported,1,0
+Mercedes-Benz,2019,10500,None reported,1,1
+Chevrolet,2023,5006,None reported,1,1
+BMW,2021,33500,None reported,1,1
+BMW,2014,126500,None reported,0,0
+Land,2016,79000,None reported,0,0
+RAM,2021,57000,None reported,1,0
+BMW,2020,4880,None reported,1,1
+Mercedes-Benz,2005,127000,None reported,0,0
+Lexus,2002,89500,None reported,0,0
+Chevrolet,2000,97000,None reported,0,0
+Buick,2021,31181,At least 1 accident or damage reported,0,0
+Lexus,2020,16425,At least 1 accident or damage reported,0,0
+Lexus,2022,11238,None reported,1,1
+Chevrolet,2005,97146,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2015,36670,None reported,0,0
+Chevrolet,2019,44800,None reported,1,1
+Ford,2015,150000,At least 1 accident or damage reported,0,0
+INFINITI,2020,38400,None reported,0,0
+Bentley,2008,7960,None reported,1,0
+Nissan,2007,117000,At least 1 accident or damage reported,0,0
+Rivian,2023,159,None reported,1,1
+Nissan,2012,91545,None reported,0,0
+Land,2015,110000,At least 1 accident or damage reported,0,0
+BMW,2017,105100,At least 1 accident or damage reported,0,0
+INFINITI,2012,110000,None reported,0,0
+Ford,2019,81778,None reported,0,0
+Lexus,2010,168422,At least 1 accident or damage reported,0,0
+Maserati,2018,80500,None reported,0,0
+Volvo,2018,81200,At least 1 accident or damage reported,0,0
+Jeep,2017,20172,None reported,0,0
+Hummer,2005,145000,None reported,0,0
+Ford,2009,162000,At least 1 accident or damage reported,0,0
+Toyota,2007,59700,None reported,0,0
+Mercedes-Benz,2020,30930,None reported,0,1
+BMW,2009,51983,None reported,0,0
+Chevrolet,2022,22000,None reported,0,1
+Volkswagen,2023,16800,None reported,0,0
+Chevrolet,2022,16000,At least 1 accident or damage reported,1,1
+Nissan,2020,22295,None reported,0,0
+Toyota,2023,1025,None reported,1,1
+Acura,2013,89190,At least 1 accident or damage reported,0,0
+Toyota,2020,53550,None reported,0,0
+Ford,2021,56946,None reported,0,0
+Jaguar,2016,11684,None reported,1,0
+GMC,2018,45617,None reported,0,1
+Chevrolet,2018,75466,None reported,0,0
+Maserati,2021,19513,At least 1 accident or damage reported,1,1
+Subaru,2021,15636,None reported,0,0
+Mercedes-Benz,2018,69600,None reported,0,0
+Mercedes-Benz,2011,138050,None reported,0,0
+Ford,2017,132269,None reported,0,0
+Hyundai,2020,45815,None reported,0,0
+Ford,2021,25352,None reported,0,1
+Mercedes-Benz,2008,120000,None reported,0,0
+Chevrolet,2018,75151,At least 1 accident or damage reported,0,0
+Jeep,2016,74139,None reported,0,0
+BMW,2012,68500,None reported,0,0
+Tesla,2021,35315,None reported,1,1
+Volkswagen,2017,61000,None reported,0,0
+Jeep,2022,12050,None reported,0,1
+Jaguar,2001,150000,At least 1 accident or damage reported,0,0
+Porsche,2016,46200,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2014,88000,None reported,0,0
+Mercedes-Benz,2015,47000,None reported,0,0
+Land,2017,50340,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2010,67800,None reported,0,0
+Dodge,2002,150000,At least 1 accident or damage reported,0,0
+Chevrolet,2018,13500,At least 1 accident or damage reported,1,1
+Hummer,2007,101750,None reported,0,0
+Honda,2022,18385,None reported,0,0
+Nissan,2008,123500,At least 1 accident or damage reported,0,0
+GMC,2017,117000,None reported,0,0
+Mercedes-Benz,2010,86121,None reported,0,0
+Lexus,2020,22466,None reported,0,1
+Nissan,2017,80000,None reported,0,0
+Chrysler,2020,23152,None reported,0,0
+Dodge,2006,91300,None reported,0,0
+Nissan,2020,45000,None reported,0,0
+Rivian,2023,1885,None reported,1,1
+Ford,2018,73049,At least 1 accident or damage reported,0,0
+Nissan,2021,7250,None reported,0,0
+Jaguar,2019,44000,None reported,0,0
+Ford,2014,85500,None reported,0,0
+GMC,2021,18083,None reported,0,1
+Chevrolet,2011,111000,None reported,0,0
+GMC,2013,115000,None reported,0,0
+Chevrolet,2021,33400,None reported,0,1
+Toyota,2007,136000,None reported,0,0
+Lexus,2021,26800,None reported,0,1
+Tesla,2022,30000,None reported,1,1
+Dodge,2008,251634,None reported,0,0
+Chrysler,2005,119000,None reported,0,0
+Cadillac,2021,28121,None reported,1,1
+Chrysler,2009,111000,None reported,0,0
+Mazda,2016,116500,None reported,0,0
+Acura,2005,199296,None reported,0,0
+Tesla,2021,11200,None reported,0,1
+Volvo,2020,56536,None reported,0,1
+Chevrolet,2016,49600,None reported,0,0
+Acura,2023,13600,None reported,1,0
+Volkswagen,2007,59700,None reported,0,0
+Dodge,2018,19000,None reported,0,1
+Chevrolet,2002,17300,None reported,0,0
+Mercedes-Benz,2014,91140,None reported,0,0
+BMW,2015,33000,None reported,1,1
+Jeep,2019,52775,None reported,0,0
+Mitsubishi,2011,113000,None reported,0,0
+Porsche,2022,13000,None reported,1,1
+Mercedes-Benz,2009,77925,None reported,0,0
+Mazda,2018,15175,At least 1 accident or damage reported,0,0
+Audi,2017,137000,None reported,0,0
+BMW,2015,111000,At least 1 accident or damage reported,0,0
+Land,2019,49208,None reported,1,1
+Audi,2018,44000,None reported,0,0
+Porsche,2017,26000,None reported,0,1
+Chevrolet,2020,1800,None reported,1,1
+Maserati,2012,50000,None reported,0,0
+Subaru,2018,93000,At least 1 accident or damage reported,0,0
+Mazda,2016,119500,None reported,0,0
+Porsche,2016,50000,None reported,0,1
+Genesis,2019,48000,None reported,0,1
+Jeep,2021,11756,At least 1 accident or damage reported,0,0
+Audi,2018,50400,None reported,0,0
+BMW,2012,153600,None reported,0,0
+Dodge,2022,31917,None reported,1,1
+BMW,2016,56235,None reported,0,0
+Ford,2019,28724,At least 1 accident or damage reported,0,1
+Lincoln,2015,124400,At least 1 accident or damage reported,0,0
+Chevrolet,2020,137000,None reported,0,0
+Ford,2022,6600,At least 1 accident or damage reported,1,1
+Mercedes-Benz,2007,67200,None reported,0,0
+Porsche,2021,16554,None reported,1,1
+BMW,2023,15736,None reported,1,1
+Mercedes-Benz,2005,153460,At least 1 accident or damage reported,0,0
+Acura,2012,70000,At least 1 accident or damage reported,0,0
+Hyundai,2011,143898,None reported,0,0
+Mercedes-Benz,2003,26190,None reported,0,0
+Toyota,2000,209193,None reported,0,0
+RAM,2018,27839,None reported,0,0
+Porsche,2022,20250,None reported,1,1
+Jeep,2022,18333,None reported,0,1
+Mercedes-Benz,2014,35000,None reported,0,0
+Dodge,2006,133255,None reported,0,0
+Porsche,2021,14526,None reported,1,1
+Mercedes-Benz,2014,43690,None reported,0,0
+Porsche,2020,29136,None reported,1,1
+Cadillac,2017,72060,None reported,0,0
+Toyota,2023,8800,None reported,1,1
+Nissan,2015,85768,At least 1 accident or damage reported,0,0
+Buick,2019,121521,None reported,0,0
+BMW,2013,124000,None reported,0,0
+Acura,2018,32260,None reported,0,0
+Lexus,2015,92000,None reported,0,0
+Toyota,2010,269885,At least 1 accident or damage reported,0,0
+Chevrolet,2008,51855,None reported,0,0
+Mazda,2015,124000,At least 1 accident or damage reported,0,0
+Jaguar,2015,26000,None reported,1,0
+Audi,2018,36500,At least 1 accident or damage reported,0,0
+Chevrolet,2022,1400,None reported,1,1
+Jeep,2018,17000,None reported,0,0
+Honda,2021,42750,None reported,0,0
+Porsche,2011,67998,None reported,0,0
+Ford,2008,64500,At least 1 accident or damage reported,0,0
+Toyota,2007,102000,None reported,0,0
+Land,2004,145000,None reported,0,0
+Porsche,2018,50000,At least 1 accident or damage reported,1,0
+Chevrolet,2004,37622,None reported,0,0
+Toyota,2006,89987,None reported,0,0
+INFINITI,2015,136390,None reported,0,0
+Chevrolet,2015,27000,None reported,0,1
+Jeep,2004,144770,At least 1 accident or damage reported,0,0
+Toyota,2011,157000,None reported,0,0
+BMW,2010,132000,At least 1 accident or damage reported,0,0
+Ford,2002,137000,None reported,0,0
+Lexus,2018,50992,At least 1 accident or damage reported,0,0
+Cadillac,2010,105760,None reported,0,0
+Lexus,2018,29800,None reported,1,1
+BMW,2019,21000,At least 1 accident or damage reported,0,1
+Chevrolet,1998,152195,None reported,0,0
+Hummer,2006,169900,At least 1 accident or damage reported,0,0
+Volvo,2008,196000,None reported,0,0
+Jeep,2009,180036,At least 1 accident or damage reported,0,0
+Land,2017,57918,None reported,0,0
+BMW,2017,98600,None reported,0,0
+Ford,2018,120000,At least 1 accident or damage reported,1,0
+BMW,2022,14269,None reported,1,1
+Lexus,2022,6875,None reported,1,1
+Honda,2019,55100,None reported,0,0
+BMW,2009,74600,None reported,0,0
+Audi,2019,45900,At least 1 accident or damage reported,0,0
+Ford,2021,88883,None reported,0,0
+Dodge,2013,43000,None reported,0,0
+Ford,2018,33700,At least 1 accident or damage reported,0,0
+RAM,2016,95115,None reported,0,0
+Chevrolet,2007,20200,None reported,0,0
+Audi,2013,104457,None reported,0,0
+Chevrolet,2017,76000,None reported,0,0
+Chevrolet,2020,56247,None reported,0,0
+Acura,2016,61000,At least 1 accident or damage reported,0,0
+Chevrolet,2019,9111,None reported,0,1
+Lexus,2015,100900,None reported,0,0
+Ford,2021,24207,None reported,0,1
+Tesla,2022,9411,None reported,0,1
+Chevrolet,2006,21000,None reported,0,0
+Cadillac,2019,136150,At least 1 accident or damage reported,0,0
+BMW,2009,78414,At least 1 accident or damage reported,0,0
+Mazda,2019,60800,None reported,0,0
+Ford,2022,16400,None reported,0,1
+Toyota,2018,62200,None reported,0,0
+BMW,2021,72903,At least 1 accident or damage reported,1,0
+Lincoln,2003,142215,None reported,0,0
+Mercedes-Benz,2007,150000,None reported,0,0
+Ford,1998,49170,None reported,0,0
+Chevrolet,2015,167500,None reported,0,0
+Ford,2016,110450,None reported,0,0
+Audi,2014,106000,At least 1 accident or damage reported,0,0
+Chevrolet,2017,92728,None reported,0,0
+Ford,2022,17000,None reported,0,1
+Ford,2016,75200,None reported,0,0
+Dodge,2015,1800,None reported,1,0
+Toyota,2019,36283,None reported,0,0
+Audi,2023,6682,None reported,0,1
+Jeep,2018,23399,None reported,0,0
+Genesis,2017,29720,None reported,0,1
+Mercedes-Benz,2009,56000,None reported,0,0
+Lexus,2020,59419,None reported,1,0
+Kia,2018,69100,None reported,0,0
+Chevrolet,2008,29586,None reported,0,0
+Chevrolet,2021,63866,None reported,0,0
+Mercedes-Benz,2014,78500,At least 1 accident or damage reported,0,0
+Volkswagen,2022,1067,None reported,0,0
+Ford,2017,152000,None reported,0,0
+Honda,2011,185000,None reported,0,0
+Dodge,2007,97724,None reported,0,0
+Honda,2016,111000,None reported,0,0
+Ford,2019,32268,None reported,0,1
+Nissan,2019,122009,None reported,0,0
+Land,2020,57785,None reported,1,1
+BMW,2002,204884,At least 1 accident or damage reported,0,0
+Hummer,2003,179400,At least 1 accident or damage reported,0,0
+Mazda,2009,57000,None reported,0,0
+Lexus,2021,25997,None reported,1,1
+Chevrolet,2022,36555,None reported,1,1
+Chevrolet,2007,28514,None reported,0,0
+Ford,2019,10400,None reported,0,1
+Chevrolet,2020,51133,At least 1 accident or damage reported,0,0
+Chevrolet,1999,58800,None reported,0,0
+Land,2018,85000,None reported,0,0
+Jeep,2000,95200,None reported,0,0
+Toyota,2015,68575,At least 1 accident or damage reported,0,0
+Chevrolet,2011,12300,None reported,0,0
+Chevrolet,2018,13900,None reported,1,1
+Mercedes-Benz,2001,58800,None reported,0,0
+Nissan,2016,30700,At least 1 accident or damage reported,0,0
+Porsche,2005,104000,None reported,0,0
+Chevrolet,2019,139116,At least 1 accident or damage reported,0,0
+Porsche,2019,36700,At least 1 accident or damage reported,0,1
+Mercedes-Benz,2022,24500,None reported,1,1
+Toyota,2017,65000,At least 1 accident or damage reported,1,0
+BMW,2021,27654,None reported,1,1
+Rivian,2023,542,None reported,1,1
+Toyota,2020,41000,None reported,0,0
+Mercedes-Benz,2011,47400,At least 1 accident or damage reported,0,0
+Ford,2002,40110,None reported,0,0
+RAM,2014,124700,None reported,0,0
+Ford,2013,31000,At least 1 accident or damage reported,0,0
+Toyota,2022,7100,None reported,0,1
+Jeep,2018,91677,None reported,0,0
+Ford,2009,107500,None reported,0,0
+Chevrolet,2023,5200,None reported,1,1
+Ford,1999,48054,None reported,0,0
+Porsche,2018,87500,None reported,0,0
+Acura,2012,106335,None reported,0,0
+Chevrolet,2017,133598,At least 1 accident or damage reported,0,0
+Chevrolet,2018,68455,None reported,0,0
+Mercedes-Benz,2018,28690,None reported,0,1
+BMW,2012,83000,At least 1 accident or damage reported,0,0
+Ford,2019,38600,None reported,1,1
+Toyota,2019,92000,At least 1 accident or damage reported,0,0
+Saturn,2009,134000,At least 1 accident or damage reported,0,0
+Lexus,2012,103000,None reported,0,0
+Honda,2004,176261,None reported,0,0
+Ford,2010,58500,At least 1 accident or damage reported,0,0
+Ford,2018,64000,None reported,1,0
+Porsche,2016,24881,At least 1 accident or damage reported,0,1
+Chevrolet,1998,134000,None reported,0,0
+Ford,2013,82900,At least 1 accident or damage reported,0,0
+BMW,2008,59257,None reported,0,0
+Lexus,2016,81400,At least 1 accident or damage reported,0,0
+Hyundai,2022,5100,None reported,0,0
+Ford,2020,67072,None reported,0,0
+BMW,2016,65000,None reported,0,0
+Ford,2014,80800,None reported,0,0
+Ford,2020,53401,None reported,0,0
+Ford,2021,15555,None reported,1,1
+Dodge,2006,201509,At least 1 accident or damage reported,0,0
+Honda,2013,107000,None reported,0,0
+Land,2020,30500,None reported,0,1
+Toyota,2011,36000,None reported,0,0
+Ford,2019,38514,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2022,4590,None reported,1,1
+RAM,2019,97000,At least 1 accident or damage reported,0,0
+BMW,2011,110000,At least 1 accident or damage reported,0,0
+Ford,2017,53000,At least 1 accident or damage reported,0,0
+Chevrolet,2016,110000,None reported,0,0
+Mazda,2006,218000,At least 1 accident or damage reported,0,0
+INFINITI,2003,106500,None reported,0,0
+Chevrolet,2012,140500,None reported,0,0
+Ford,2010,144200,None reported,0,0
+Chevrolet,2022,21400,None reported,1,1
+Mercedes-Benz,2015,130000,None reported,0,0
+Ford,2012,108045,None reported,0,0
+Subaru,2022,10000,None reported,0,0
+Hyundai,2011,75000,At least 1 accident or damage reported,0,0
+Chrysler,2009,73500,At least 1 accident or damage reported,0,0
+Porsche,2018,29850,None reported,1,1
+Honda,2016,135350,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2022,16983,None reported,0,1
+Audi,2019,35580,None reported,0,1
+Ford,2020,71200,None reported,0,0
+Dodge,2022,24778,At least 1 accident or damage reported,0,1
+BMW,2015,109330,None reported,0,0
+Alfa,2023,6645,None reported,0,1
+Mercedes-Benz,2007,90400,None reported,0,0
+Ford,2002,192100,At least 1 accident or damage reported,0,0
+BMW,2018,32000,None reported,1,1
+Volkswagen,2022,6400,None reported,0,0
+Toyota,2021,36180,None reported,0,1
+GMC,2014,142400,At least 1 accident or damage reported,0,0
+Cadillac,2016,83000,None reported,0,0
+Nissan,2012,80000,None reported,0,0
+Ford,2021,32437,None reported,0,1
+BMW,2011,67500,None reported,0,0
+Toyota,2021,25882,None reported,0,1
+Toyota,2005,170000,At least 1 accident or damage reported,0,0
+Ford,2023,3763,None reported,1,1
+Land,2018,46000,None reported,0,1
+Ford,2008,190321,None reported,0,0
+Porsche,2018,40950,None reported,0,1
+Mercedes-Benz,2014,42000,None reported,0,0
+Nissan,2014,135000,None reported,0,0
+Ford,2019,33000,None reported,1,1
+Ford,2016,68000,None reported,0,0
+Honda,2013,405000,None reported,0,0
+BMW,2018,117000,None reported,0,0
+Acura,2007,183455,At least 1 accident or damage reported,0,0
+Chevrolet,2021,51890,None reported,1,1
+Chevrolet,2021,59528,None reported,1,0
+Cadillac,2006,123000,None reported,0,0
+Kia,2022,20000,None reported,0,0
+BMW,2021,38352,None reported,0,1
+Porsche,2021,13344,At least 1 accident or damage reported,1,1
+Honda,2008,44300,None reported,1,0
+Lexus,2010,123500,At least 1 accident or damage reported,0,0
+Lincoln,2013,134000,None reported,0,0
+Ford,2020,57000,At least 1 accident or damage reported,0,0
+Kia,2021,100312,None reported,0,0
+Tesla,2012,61000,None reported,0,0
+BMW,2014,15889,None reported,0,1
+BMW,2015,125500,At least 1 accident or damage reported,0,0
+Ford,2013,163500,None reported,0,0
+Buick,2015,89726,None reported,0,0
+Mercedes-Benz,2005,93000,None reported,0,0
+MINI,2012,128000,None reported,0,0
+Porsche,2017,70800,None reported,1,0
+Saturn,2009,115000,None reported,0,0
+RAM,2018,98650,None reported,1,0
+RAM,2019,87768,None reported,0,0
+Chevrolet,2023,6000,None reported,0,1
+Lexus,2021,28262,None reported,0,1
+Mazda,2023,16200,None reported,0,0
+Cadillac,2012,87500,None reported,0,0
+FIAT,2013,85458,None reported,0,0
+Mercedes-Benz,2022,16500,None reported,1,1
+MINI,2009,83853,At least 1 accident or damage reported,0,0
+BMW,2022,22500,At least 1 accident or damage reported,1,1
+Lexus,2013,99524,At least 1 accident or damage reported,0,0
+Genesis,2023,8100,None reported,1,1
+MINI,2016,43073,None reported,0,0
+Land,2023,12425,None reported,1,1
+BMW,2020,23195,None reported,0,1
+Jeep,2011,118000,At least 1 accident or damage reported,0,0
+Toyota,2018,65290,At least 1 accident or damage reported,0,0
+Jeep,2020,13000,None reported,0,1
+Dodge,2018,29475,None reported,1,1
+Jeep,2017,78717,None reported,0,0
+Ford,2021,9142,None reported,1,1
+Jaguar,2011,106000,At least 1 accident or damage reported,0,0
+RAM,2022,3521,None reported,1,1
+Volkswagen,2016,90000,None reported,0,0
+Porsche,2016,46000,None reported,0,1
+BMW,2020,18362,None reported,1,1
+Lexus,2013,164500,At least 1 accident or damage reported,0,0
+GMC,2020,55018,At least 1 accident or damage reported,0,0
+Nissan,2022,36466,None reported,0,0
+Volvo,2022,14280,None reported,0,1
+Subaru,2013,116000,At least 1 accident or damage reported,0,0
+RAM,2022,16184,None reported,0,1
+Ford,2020,45000,None reported,0,1
+Ford,2013,102000,None reported,0,0
+Ford,2004,163000,At least 1 accident or damage reported,0,0
+Porsche,2016,42526,None reported,1,1
+Mazda,2012,144900,None reported,0,0
+GMC,2016,85000,None reported,0,0
+Mercedes-Benz,2011,93000,At least 1 accident or damage reported,0,0
+RAM,2022,11468,None reported,0,1
+Lexus,2019,25470,None reported,0,1
+BMW,2014,90347,None reported,0,0
+GMC,2017,96000,None reported,0,0
+Honda,2016,80500,None reported,0,0
+Audi,2021,35000,None reported,0,1
+Honda,2020,121212,At least 1 accident or damage reported,0,0
+Porsche,2022,13500,None reported,1,1
+BMW,2019,33214,None reported,0,1
+Ford,2017,29719,None reported,0,1
+Lincoln,2022,4520,None reported,0,1
+Hyundai,2017,84129,None reported,0,0
+Nissan,2019,72150,At least 1 accident or damage reported,0,0
+GMC,2015,94500,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2017,88454,None reported,0,0
+Cadillac,2010,81696,At least 1 accident or damage reported,0,0
+Cadillac,2005,94100,None reported,0,0
+Ford,2022,17500,None reported,0,1
+Acura,2016,132252,None reported,0,0
+Toyota,2022,4437,None reported,0,1
+Volkswagen,2018,70500,None reported,0,0
+Toyota,2008,170000,None reported,0,0
+Honda,2008,122000,None reported,0,0
+Hyundai,2010,120321,None reported,0,0
+BMW,2004,178000,None reported,0,0
+BMW,2002,60255,None reported,0,0
+Land,2019,77690,None reported,0,0
+Chevrolet,2009,18000,None reported,1,0
+Honda,2001,125000,None reported,0,0
+Lexus,2021,6449,At least 1 accident or damage reported,0,0
+Volkswagen,2019,33000,None reported,0,0
+Nissan,2009,87130,None reported,0,0
+Lexus,1998,165000,None reported,0,0
+Toyota,2008,73000,At least 1 accident or damage reported,0,0
+Porsche,2020,22354,None reported,1,1
+Tesla,2023,6188,None reported,1,1
+GMC,2019,60807,At least 1 accident or damage reported,0,0
+Jeep,2014,105000,None reported,0,0
+Audi,2018,63400,None reported,0,0
+Ford,2022,4500,None reported,1,1
+Jeep,2020,8025,None reported,0,1
+Tesla,2017,100346,None reported,0,0
+Mercedes-Benz,2016,62285,At least 1 accident or damage reported,0,0
+Lexus,2021,5040,At least 1 accident or damage reported,0,0
+RAM,2022,12940,At least 1 accident or damage reported,0,0
+Mitsubishi,2015,98385,At least 1 accident or damage reported,0,0
+Hyundai,2013,43903,At least 1 accident or damage reported,0,0
+Ford,2017,41650,None reported,0,0
+BMW,2022,31850,None reported,1,1
+Hyundai,2013,96419,At least 1 accident or damage reported,0,0
+Honda,2007,170000,None reported,0,0
+Chevrolet,2009,139000,None reported,0,0
+Buick,2016,134655,None reported,0,0
+BMW,2015,81000,None reported,0,0
+Kia,2022,46347,None reported,0,0
+Chevrolet,2007,4048,None reported,0,0
+Mercedes-Benz,2015,79876,None reported,0,0
+Toyota,2021,44000,None reported,0,0
+Land,2019,65019,None reported,0,0
+Nissan,2009,133409,At least 1 accident or damage reported,0,0
+BMW,2018,74381,At least 1 accident or damage reported,0,0
+Porsche,2023,2925,None reported,1,1
+BMW,2013,67874,None reported,0,0
+Mercedes-Benz,2018,71500,None reported,1,0
+Jeep,2014,71000,None reported,0,0
+Ford,2018,64517,None reported,0,0
+Dodge,2004,55000,None reported,0,0
+BMW,2019,7580,None reported,1,1
+Hyundai,2010,135000,None reported,0,0
+Honda,2019,62200,At least 1 accident or damage reported,0,0
+Cadillac,2014,69001,None reported,0,0
+Toyota,2021,28567,None reported,0,1
+Jaguar,2006,78049,None reported,0,0
+Chevrolet,2021,23292,None reported,1,1
+Chevrolet,2010,162671,None reported,0,0
+Land,2010,100472,None reported,0,0
+Subaru,2017,73120,At least 1 accident or damage reported,0,0
+Ford,2022,23300,None reported,1,1
+Honda,2018,71000,At least 1 accident or damage reported,0,0
+RAM,2022,16648,None reported,1,1
+Chevrolet,2011,240000,None reported,0,0
+Lexus,2013,119755,None reported,0,0
+Mercedes-Benz,2015,88000,None reported,0,0
+BMW,2021,41000,None reported,0,1
+Chevrolet,2022,7458,None reported,0,1
+Jeep,2022,23000,None reported,0,1
+Land,1998,149437,None reported,0,0
+Ford,2017,244000,None reported,0,0
+RAM,2019,46000,None reported,0,0
+Audi,2022,13133,None reported,0,1
+RAM,2017,45000,None reported,0,0
+Mazda,2021,18385,None reported,0,0
+BMW,2020,25793,None reported,1,1
+Porsche,2005,44400,None reported,0,0
+Chevrolet,2016,104000,None reported,0,0
+MINI,2007,45000,None reported,0,0
+Jeep,2022,24500,None reported,1,1
+Buick,2020,35569,None reported,0,0
+Toyota,2020,35000,None reported,0,0
+Acura,2003,165000,At least 1 accident or damage reported,0,0
+Land,2021,15000,None reported,1,1
+BMW,2014,119750,None reported,0,0
+Nissan,2007,90000,At least 1 accident or damage reported,0,0
+Ford,2015,112000,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2008,150000,None reported,0,0
+Hyundai,2015,82900,At least 1 accident or damage reported,0,0
+Audi,2004,79500,None reported,0,0
+Volvo,2019,60000,None reported,0,0
+RAM,2021,41800,None reported,0,0
+Chevrolet,2021,71536,None reported,0,0
+Ford,2014,127558,None reported,0,0
+Ford,2023,13232,None reported,0,1
+Chevrolet,2017,39000,None reported,0,1
+Ford,2023,11500,None reported,1,1
+Chrysler,2020,22200,None reported,0,0
+Tesla,2023,7414,None reported,1,1
+RAM,2021,32000,None reported,0,1
+Toyota,2020,14700,None reported,0,1
+BMW,2016,79995,None reported,0,0
+GMC,2018,76000,None reported,0,0
+Honda,2014,62000,At least 1 accident or damage reported,0,0
+Maserati,2017,53500,None reported,0,0
+Hyundai,2022,9400,None reported,0,0
+BMW,2014,86500,None reported,0,0
+Mercedes-Benz,2011,148000,At least 1 accident or damage reported,0,0
+GMC,2014,100080,None reported,0,0
+BMW,2023,3099,None reported,1,1
+Dodge,2020,78000,At least 1 accident or damage reported,0,0
+Ford,2022,16700,None reported,0,1
+Honda,2015,51300,None reported,0,0
+Ford,2018,8237,None reported,1,1
+Volkswagen,2010,99000,At least 1 accident or damage reported,0,0
+Mazda,2021,62377,None reported,0,0
+Jeep,2009,130000,None reported,0,0
+Ford,2016,94300,At least 1 accident or damage reported,0,0
+Tesla,2022,24115,None reported,0,1
+BMW,2016,82000,At least 1 accident or damage reported,0,0
+Kia,2021,67686,None reported,0,0
+Tesla,2014,96800,None reported,0,0
+Jeep,1997,131000,At least 1 accident or damage reported,0,0
+Tesla,2020,23097,None reported,0,1
+BMW,2021,28898,None reported,1,1
+Mazda,2022,7250,None reported,0,0
+Ford,2014,59459,At least 1 accident or damage reported,0,0
+Jeep,2012,78000,At least 1 accident or damage reported,0,0
+RAM,2021,24213,None reported,0,1
+RAM,2020,21165,None reported,0,1
+GMC,2016,107750,None reported,0,0
+Ford,2016,117000,None reported,0,0
+Chevrolet,2006,39132,None reported,0,0
+BMW,2004,94500,None reported,0,0
+Subaru,2017,50011,At least 1 accident or damage reported,0,0
+Lexus,2004,215000,At least 1 accident or damage reported,0,0
+RAM,2022,16616,None reported,0,1
+Ford,2022,33818,None reported,0,1
+Jeep,2022,9099,None reported,1,1
+Volkswagen,2008,95798,None reported,0,0
+Mercedes-Benz,2016,35943,None reported,1,0
+Mazda,2008,106000,None reported,0,0
+Kia,2023,10400,None reported,0,0
+Chevrolet,2022,2894,None reported,1,1
+Dodge,2022,15592,None reported,0,1
+Mercedes-Benz,2020,33548,None reported,1,1
+BMW,2016,185000,At least 1 accident or damage reported,0,0
+Porsche,2023,6483,None reported,1,1
+Mercedes-Benz,2020,26293,None reported,0,1
+Chevrolet,2017,62000,None reported,0,0
+Jaguar,2017,101453,At least 1 accident or damage reported,0,0
+RAM,2013,106385,At least 1 accident or damage reported,0,0
+BMW,2012,86629,None reported,0,0
+Audi,2018,61258,None reported,0,0
+Chrysler,2014,121500,None reported,0,0
+GMC,2022,100,None reported,1,1
+Chrysler,2015,170000,At least 1 accident or damage reported,0,0
+Ford,2010,232000,None reported,0,0
+MINI,2006,95000,None reported,0,0
+Toyota,2013,103466,At least 1 accident or damage reported,0,0
+Toyota,2011,133121,At least 1 accident or damage reported,0,0
+Chevrolet,2012,162731,None reported,0,0
+Ford,2021,568,None reported,1,1
+Lexus,1999,249083,At least 1 accident or damage reported,0,0
+Porsche,2015,80300,None reported,0,0
+Ford,2004,187000,None reported,0,0
+Subaru,2009,181870,None reported,0,0
+BMW,2020,37000,At least 1 accident or damage reported,0,1
+Porsche,2022,9728,None reported,1,1
+Lexus,2006,152000,At least 1 accident or damage reported,0,0
+Ford,2004,60260,At least 1 accident or damage reported,0,0
+Mazda,2004,33362,At least 1 accident or damage reported,0,0
+GMC,2021,47907,None reported,0,1
+Mercedes-Benz,2016,17340,None reported,0,1
+Ford,2011,195500,None reported,0,0
+Chevrolet,2000,74000,None reported,0,0
+RAM,2015,140500,At least 1 accident or damage reported,0,0
+Jeep,2006,212500,None reported,0,0
+Lexus,2010,77400,At least 1 accident or damage reported,0,0
+Ford,2017,118000,None reported,0,0
+Cadillac,2016,146200,None reported,0,0
+Tesla,2020,39000,None reported,0,1
+Chevrolet,2005,130000,None reported,0,0
+Ford,2021,33080,None reported,0,1
+Mercedes-Benz,2023,1219,None reported,0,1
+Jeep,2016,41000,None reported,0,0
+Nissan,2004,110897,At least 1 accident or damage reported,0,0
+Chevrolet,2016,49000,None reported,1,0
+Pontiac,2007,47000,None reported,0,0
+Hyundai,2018,57690,At least 1 accident or damage reported,0,0
+Lincoln,2018,54000,At least 1 accident or damage reported,0,0
+Nissan,2007,101600,None reported,0,0
+Ford,2021,89000,None reported,0,0
+Tesla,2021,18000,None reported,0,1
+Jaguar,2017,55000,None reported,0,0
+Lincoln,2017,71964,None reported,0,0
+Cadillac,2020,92000,None reported,0,0
+Ford,2012,160000,None reported,0,0
+Mercedes-Benz,2012,95816,None reported,0,0
+Jeep,2014,132600,At least 1 accident or damage reported,0,0
+Jeep,2010,149460,None reported,0,0
+Jeep,2011,109646,None reported,0,0
+Acura,2019,90605,None reported,0,0
+Volkswagen,2019,59000,None reported,0,0
+Chevrolet,2002,48000,None reported,0,0
+Chevrolet,2016,41500,None reported,1,0
+Porsche,2012,54000,None reported,1,0
+Porsche,2018,70455,None reported,0,0
+Subaru,2018,84054,None reported,0,0
+BMW,2007,114528,None reported,0,0
+Jeep,2013,111850,At least 1 accident or damage reported,0,0
+GMC,2020,52673,None reported,1,1
+BMW,2021,31500,None reported,1,1
+BMW,2011,73000,None reported,0,0
+Jeep,2019,59692,None reported,0,0
+Toyota,2016,68364,None reported,0,0
+Land,2017,47200,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2021,18000,At least 1 accident or damage reported,1,1
+Ford,2012,158366,At least 1 accident or damage reported,0,0
+BMW,2017,49700,None reported,0,1
+GMC,2010,81500,None reported,0,0
+BMW,2019,16975,None reported,0,1
+Ford,2003,16100,None reported,0,0
+Land,2020,54225,None reported,1,1
+RAM,2016,89500,None reported,0,0
+Ford,2013,87501,At least 1 accident or damage reported,0,0
+MINI,2018,12370,None reported,0,0
+RAM,2019,12466,None reported,0,1
+Volvo,2011,199000,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2007,78200,At least 1 accident or damage reported,0,0
+Toyota,2018,22000,None reported,0,0
+GMC,2016,100795,At least 1 accident or damage reported,0,0
+Chevrolet,2019,99941,None reported,0,0
+Jeep,2003,103000,None reported,0,0
+Jaguar,2009,91491,None reported,0,0
+Honda,2020,23131,At least 1 accident or damage reported,0,0
+Subaru,2019,77000,At least 1 accident or damage reported,0,0
+Land,2019,20500,None reported,1,1
+Tesla,2022,500,None reported,0,1
+Lexus,2019,49810,At least 1 accident or damage reported,0,0
+Honda,2022,20229,None reported,0,0
+Alfa,2021,10558,None reported,1,1
+BMW,2005,59300,None reported,0,0
+Maybach,2004,34254,None reported,1,0
+Lexus,2021,24364,None reported,0,1
+Mercedes-Benz,2016,139200,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2012,82046,None reported,0,0
+Dodge,1997,285000,None reported,0,0
+RAM,2017,26269,At least 1 accident or damage reported,0,0
+Mazda,2016,127131,At least 1 accident or damage reported,0,0
+BMW,2021,27000,None reported,0,1
+Jeep,2015,93400,None reported,0,0
+BMW,2021,9200,At least 1 accident or damage reported,1,1
+Mercedes-Benz,2014,76850,At least 1 accident or damage reported,0,0
+Bentley,2016,61160,At least 1 accident or damage reported,1,0
+Jeep,2005,146000,At least 1 accident or damage reported,0,0
+Tesla,2017,38957,None reported,0,1
+Volkswagen,2017,33850,None reported,0,0
+Jeep,2020,61830,At least 1 accident or damage reported,0,0
+Kia,2017,108559,None reported,0,0
+Lexus,2006,192000,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2014,83112,None reported,0,0
+Tesla,2016,52000,None reported,1,1
+RAM,2020,57300,None reported,0,0
+MINI,2008,104500,At least 1 accident or damage reported,0,0
+Jeep,1996,170552,At least 1 accident or damage reported,0,0
+Ford,2013,18000,None reported,0,0
+Lincoln,2019,39000,None reported,1,0
+Jeep,2020,38000,None reported,0,0
+Honda,2012,167506,None reported,0,0
+Jeep,2012,166000,At least 1 accident or damage reported,0,0
+Ford,2021,19200,None reported,1,1
+Land,2022,46000,None reported,1,1
+Hummer,2007,201000,At least 1 accident or damage reported,0,0
+Kia,2014,87000,At least 1 accident or damage reported,0,0
+GMC,2015,145000,None reported,0,0
+Jeep,2020,33060,None reported,0,0
+Tesla,2021,10550,None reported,1,1
+Audi,2014,89500,None reported,0,0
+Jeep,2021,27000,None reported,0,1
+Jeep,2010,87250,None reported,0,0
+Volkswagen,2016,76495,At least 1 accident or damage reported,0,0
+Cadillac,2016,70503,None reported,0,0
+Porsche,2009,41965,At least 1 accident or damage reported,0,0
+Toyota,1999,267000,At least 1 accident or damage reported,0,0
+Mitsubishi,2003,146000,At least 1 accident or damage reported,0,0
+Chevrolet,2023,9000,None reported,1,1
+Toyota,2022,1050,None reported,0,1
+Land,2021,22270,None reported,1,1
+Ford,2012,19900,None reported,0,0
+Tesla,2020,19800,None reported,0,1
+RAM,2012,113500,None reported,0,0
+INFINITI,2022,3300,None reported,1,0
+Volkswagen,2016,41615,None reported,0,0
+Tesla,2022,11860,None reported,1,1
+BMW,2015,27000,None reported,1,1
+Kia,2022,22101,At least 1 accident or damage reported,0,0
+Subaru,2013,46452,None reported,0,0
+Lincoln,2019,36000,None reported,0,0
+Chevrolet,2019,13100,None reported,1,1
+Audi,2019,50000,At least 1 accident or damage reported,0,0
+Mazda,2018,19500,None reported,0,0
+Ford,2016,36000,At least 1 accident or damage reported,0,0
+Chevrolet,2022,6640,None reported,1,1
+BMW,2016,74850,At least 1 accident or damage reported,0,0
+Nissan,2014,117000,At least 1 accident or damage reported,0,0
+INFINITI,2022,6000,None reported,1,0
+Mitsubishi,2006,128000,None reported,0,0
+BMW,2021,15000,None reported,0,1
+Toyota,2016,119000,None reported,0,0
+Lincoln,2006,87500,At least 1 accident or damage reported,0,0
+Ford,2011,149000,None reported,0,0
+Audi,2015,54700,At least 1 accident or damage reported,0,0
+Ford,2021,45979,None reported,0,1
+Lincoln,2017,56846,None reported,0,0
+Tesla,2017,94100,At least 1 accident or damage reported,0,0
+Jeep,2017,80150,At least 1 accident or damage reported,0,0
+GMC,2013,11563,At least 1 accident or damage reported,0,0
+Tesla,2022,7500,None reported,1,1
+Mercedes-Benz,2021,15615,None reported,1,1
+Subaru,2013,113000,At least 1 accident or damage reported,0,0
+Kia,2018,74000,None reported,0,0
+Mercedes-Benz,2011,99200,None reported,0,0
+Volkswagen,2018,36824,None reported,0,0
+Acura,2005,186040,At least 1 accident or damage reported,0,0
+GMC,2020,58000,None reported,0,0
+Ford,2020,31250,None reported,0,1
+Jeep,2020,43000,None reported,0,0
+Toyota,2020,41199,None reported,0,0
+Kia,2022,22000,None reported,0,0
+Genesis,2022,12900,None reported,1,1
+MINI,2020,74725,None reported,0,0
+Mazda,2021,61117,None reported,0,0
+BMW,2003,142000,At least 1 accident or damage reported,0,0
+Toyota,2012,129355,At least 1 accident or damage reported,0,0
+Chevrolet,2010,204000,At least 1 accident or damage reported,0,0
+Lincoln,2016,115600,None reported,0,0
+Jeep,2023,1563,None reported,1,1
+Bentley,2007,72166,At least 1 accident or damage reported,0,0
+Lexus,2018,26100,None reported,0,1
+BMW,2017,58880,None reported,0,0
+Honda,2008,190640,At least 1 accident or damage reported,0,0
+Porsche,2020,37500,None reported,1,1
+Ford,2022,13856,None reported,1,1
+Cadillac,2013,225000,None reported,0,0
+Lexus,2014,123256,None reported,0,0
+Cadillac,2021,11459,None reported,1,1
+Mercedes-Benz,2016,67289,None reported,0,0
+Hyundai,2013,56837,At least 1 accident or damage reported,0,0
+Chevrolet,2002,44168,None reported,0,0
+Mercedes-Benz,2019,59766,None reported,0,0
+Kia,2018,56300,None reported,0,0
+Volvo,2004,167000,None reported,0,0
+Chevrolet,2015,122770,None reported,0,0
+Land,2019,59271,None reported,1,0
+GMC,2015,102000,At least 1 accident or damage reported,0,0
+Chevrolet,2020,40929,At least 1 accident or damage reported,0,0
+Chevrolet,2022,19200,None reported,1,1
+Land,2011,105000,None reported,0,0
+Ford,2016,122650,None reported,0,0
+Subaru,2022,14000,None reported,0,0
+Lexus,2008,100868,None reported,0,0
+Land,2013,111000,At least 1 accident or damage reported,0,0
+Cadillac,2021,38500,At least 1 accident or damage reported,1,1
+Nissan,2020,41250,None reported,0,0
+MINI,2006,99600,None reported,0,0
+Acura,2013,198000,At least 1 accident or damage reported,0,0
+Lexus,2021,20598,At least 1 accident or damage reported,0,0
+Porsche,2013,52044,None reported,1,0
+MINI,2022,23777,None reported,0,0
+Ford,2018,60660,At least 1 accident or damage reported,0,0
+BMW,2015,26000,None reported,0,1
+Mazda,2018,61000,None reported,0,0
+Lexus,2020,53750,None reported,0,0
+BMW,2023,13735,None reported,1,1
+Mercedes-Benz,2019,32580,None reported,0,1
+Porsche,2006,96275,At least 1 accident or damage reported,1,0
+Ford,2015,162000,None reported,0,0
+BMW,2019,92040,None reported,0,0
+RAM,2017,73690,At least 1 accident or damage reported,0,0
+Toyota,2009,48750,None reported,0,0
+Cadillac,2011,124542,None reported,0,0
+Ford,2010,69000,None reported,0,0
+Dodge,2004,148000,None reported,0,0
+BMW,2006,122141,None reported,0,0
+Subaru,2012,106000,None reported,0,0
+Ford,2017,113294,At least 1 accident or damage reported,0,0
+Kia,2021,24423,None reported,0,0
+Tesla,2022,28000,None reported,1,1
+RAM,2018,54800,At least 1 accident or damage reported,0,0
+Ford,2017,161000,None reported,0,0
+Mercedes-Benz,2019,28755,None reported,1,1
+Audi,2016,52105,At least 1 accident or damage reported,0,0
+Nissan,2018,119950,None reported,0,0
+Mercedes-Benz,2003,80081,None reported,0,0
+Jeep,2021,4100,None reported,1,1
+Dodge,2017,63250,None reported,0,0
+Lincoln,2017,69431,None reported,0,0
+Toyota,2015,108044,None reported,0,0
+BMW,2008,98000,None reported,0,0
+BMW,2019,52253,None reported,0,1
+Mercedes-Benz,2015,1500,None reported,0,0
+Dodge,2021,40000,None reported,0,1
+Audi,2012,38718,None reported,0,0
+Toyota,2018,84184,None reported,0,0
+Mercedes-Benz,2021,13344,None reported,1,1
+INFINITI,2018,51850,None reported,0,0
+Porsche,2002,119500,At least 1 accident or damage reported,0,0
+Ford,2021,30918,None reported,1,1
+Chevrolet,2023,1100,None reported,1,1
+Mercedes-Benz,2019,40000,None reported,0,1
+Jeep,2005,100500,None reported,0,0
+Dodge,2020,54320,At least 1 accident or damage reported,1,0
+Mercedes-Benz,2018,49000,None reported,0,0
+Cadillac,2007,130000,At least 1 accident or damage reported,0,0
+Maserati,2023,3721,None reported,1,1
+Mercedes-Benz,2016,78101,None reported,0,0
+Chevrolet,2017,54000,At least 1 accident or damage reported,0,0
+Nissan,2011,185000,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2015,49000,None reported,0,0
+GMC,2024,2043,None reported,1,1
+Lexus,2016,71750,None reported,0,0
+Chevrolet,2020,5194,None reported,1,1
+BMW,2019,42200,None reported,0,1
+Mercedes-Benz,2020,42717,None reported,0,1
+Tesla,2016,102260,None reported,0,0
+Chevrolet,2022,11089,None reported,1,1
+Jaguar,2018,37777,None reported,0,0
+Ford,2021,35921,None reported,0,1
+Scion,2014,163019,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2020,14220,None reported,0,1
+Chevrolet,2019,48879,None reported,0,1
+BMW,2002,117200,None reported,0,0
+Ford,2016,25000,None reported,1,1
+BMW,2014,74500,None reported,0,0
+INFINITI,2013,33300,None reported,0,0
+Ford,2007,123921,None reported,0,0
+BMW,2021,12800,None reported,0,1
+Aston,2015,21100,None reported,1,0
+Chevrolet,2009,104733,None reported,0,0
+Ford,2020,53000,At least 1 accident or damage reported,0,0
+Lexus,2021,17570,None reported,0,1
+RAM,2020,63875,At least 1 accident or damage reported,0,0
+Ford,2023,12500,None reported,0,1
+BMW,2001,103990,None reported,0,0
+Chevrolet,2022,7000,None reported,0,1
+Chevrolet,2023,9000,None reported,1,1
+Pontiac,2007,7800,None reported,0,0
+Cadillac,2017,69289,At least 1 accident or damage reported,0,0
+Toyota,2011,106000,At least 1 accident or damage reported,0,0
+Lincoln,2020,68000,At least 1 accident or damage reported,1,0
+Toyota,2019,13828,None reported,0,1
+Audi,2018,39600,None reported,0,1
+Jeep,2003,92000,None reported,0,0
+Toyota,2022,5020,None reported,0,1
+Chevrolet,2007,107800,At least 1 accident or damage reported,0,0
+Audi,2019,23827,None reported,0,1
+Audi,2020,25300,None reported,0,1
+Mercedes-Benz,2016,399000,At least 1 accident or damage reported,0,0
+Porsche,2005,46200,None reported,0,0
+Chevrolet,2022,3158,None reported,1,1
+GMC,2021,26000,None reported,0,1
+Chevrolet,2007,123500,At least 1 accident or damage reported,0,0
+Ford,2018,26840,None reported,0,1
+Ford,2021,17836,None reported,0,1
+Cadillac,2012,114500,None reported,0,0
+Chevrolet,2022,5400,None reported,1,1
+Toyota,2016,17500,None reported,0,0
+Chevrolet,2017,56000,None reported,0,0
+Chevrolet,2020,20800,None reported,0,1
+Volkswagen,2015,107543,None reported,0,0
+Nissan,2012,206000,None reported,0,0
+Ford,2018,37100,None reported,0,1
+Land,2019,19813,None reported,1,1
+Kia,2010,208321,None reported,0,0
+Lexus,2012,2.00E+05,At least 1 accident or damage reported,0,0
+MINI,2012,66000,None reported,0,0
+Volvo,2019,20623,None reported,0,1
+Ford,2018,86000,None reported,0,0
+Mercedes-Benz,2016,51354,None reported,1,0
+Jeep,2021,38000,None reported,1,0
+Toyota,2015,161000,None reported,0,0
+Nissan,2012,74750,None reported,0,0
+Porsche,2013,67522,At least 1 accident or damage reported,1,0
+MINI,2012,152000,None reported,0,0
+Subaru,2019,71273,None reported,0,0
+Subaru,2017,37800,None reported,0,0
+Land,2019,42000,None reported,0,1
+Kia,2022,10101,None reported,0,0
+Chevrolet,2022,7900,None reported,1,1
+Tesla,2020,45468,None reported,0,1
+Nissan,2017,187141,None reported,0,0
+Porsche,2014,99100,None reported,0,0
+Subaru,2021,33500,None reported,0,0
+Acura,2016,102665,None reported,0,0
+Ford,2001,52675,None reported,0,0
+BMW,2017,59203,None reported,0,0
+Mercedes-Benz,2009,60100,None reported,0,0
+Audi,2021,43238,None reported,1,1
+MINI,2007,118000,None reported,0,0
+Ford,2021,17300,None reported,0,1
+Audi,2016,64800,None reported,0,0
+Mercedes-Benz,2022,1408,None reported,0,1
+Volkswagen,2015,15167,None reported,0,0
+Porsche,2016,64600,None reported,0,0
+Jeep,2022,31112,None reported,1,1
+Tesla,2018,23250,None reported,1,1
+MINI,2011,63500,None reported,0,0
+RAM,2022,13464,None reported,0,1
+Chevrolet,2001,64776,None reported,0,0
+Jeep,2022,9601,None reported,0,1
+BMW,2013,135000,At least 1 accident or damage reported,0,0
+Volvo,2013,208864,At least 1 accident or damage reported,0,0
+INFINITI,2016,49872,At least 1 accident or damage reported,0,0
+MINI,2009,90367,None reported,0,0
+Porsche,2014,36670,None reported,1,1
+Jeep,2023,3752,None reported,1,1
+Lexus,2021,30761,None reported,0,1
+RAM,2022,13438,None reported,0,1
+Jeep,2020,9100,None reported,0,1
+Ford,2011,223824,At least 1 accident or damage reported,0,0
+Audi,2016,96000,None reported,0,0
+Chevrolet,2004,185000,At least 1 accident or damage reported,0,0
+Porsche,2021,6900,None reported,1,1
+Honda,2017,96400,At least 1 accident or damage reported,0,0
+RAM,2018,67865,None reported,0,0
+Land,2015,64300,None reported,0,0
+Chevrolet,2018,76500,None reported,0,0
+GMC,2017,96343,At least 1 accident or damage reported,1,0
+Subaru,2018,74600,None reported,0,0
+Subaru,2014,157530,At least 1 accident or damage reported,0,0
+Tesla,2022,15000,None reported,1,1
+Jeep,2012,80000,None reported,0,0
+Tesla,2018,83424,None reported,0,0
+Mercedes-Benz,2021,19000,None reported,0,1
+Porsche,2013,64000,At least 1 accident or damage reported,1,0
+Mercedes-Benz,2019,34068,None reported,0,1
+Buick,2021,20104,None reported,0,0
+Nissan,2022,8400,None reported,1,0
+Chevrolet,2021,24670,None reported,1,1
+Ford,2013,16478,None reported,1,0
+Ford,2018,52500,None reported,0,0
+Porsche,2004,92500,None reported,0,0
+Mitsubishi,2008,62930,At least 1 accident or damage reported,0,0
+Lexus,2007,116600,None reported,0,0
+Dodge,2010,172024,At least 1 accident or damage reported,0,0
+Jeep,2012,57237,None reported,0,0
+Subaru,2020,44600,None reported,0,0
+Jeep,2013,181830,None reported,0,0
+Subaru,2021,39948,None reported,0,0
+Ford,2017,156453,None reported,0,0
+Porsche,2014,156193,None reported,0,0
+BMW,2020,27989,None reported,0,1
+Toyota,2014,146700,At least 1 accident or damage reported,0,0
+GMC,2019,88450,At least 1 accident or damage reported,0,0
+Toyota,2020,14065,At least 1 accident or damage reported,0,0
+Subaru,2020,36844,At least 1 accident or damage reported,0,0
+Chevrolet,2020,49000,None reported,0,1
+BMW,2013,58000,None reported,0,0
+Audi,2021,22800,None reported,1,1
+Subaru,2014,78007,None reported,0,0
+Ford,2020,36500,None reported,1,1
+Honda,2004,156350,At least 1 accident or damage reported,0,0
+Lexus,2021,17710,None reported,1,1
+Ford,2013,149000,At least 1 accident or damage reported,0,0
+Subaru,2015,90000,None reported,0,0
+Ford,2022,9990,None reported,1,1
+Mercedes-Benz,2019,28663,None reported,0,1
+Lexus,2015,124250,At least 1 accident or damage reported,0,0
+Ford,2017,50780,None reported,1,0
+Tesla,2022,22457,None reported,0,1
+Toyota,2022,19361,None reported,0,1
+BMW,2017,43000,None reported,0,1
+Mercedes-Benz,2005,131000,None reported,0,0
+Toyota,2022,31000,None reported,0,1
+Volvo,2021,24158,None reported,0,1
+Audi,2016,72865,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2014,89563,None reported,0,0
+Nissan,2012,72639,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2012,79000,None reported,0,0
+Audi,2012,111564,None reported,0,0
+Lexus,2018,75000,At least 1 accident or damage reported,0,0
+Ford,2007,169613,At least 1 accident or damage reported,0,0
+Honda,2011,175000,None reported,0,0
+BMW,2017,98500,None reported,0,0
+Chrysler,2012,53000,At least 1 accident or damage reported,0,0
+RAM,2015,72200,None reported,1,0
+Acura,2005,151600,None reported,0,0
+Lotus,2011,20000,None reported,0,0
+Chevrolet,2010,170000,At least 1 accident or damage reported,0,0
+Ford,2019,69800,None reported,0,0
+Toyota,2020,26300,At least 1 accident or damage reported,0,0
+Honda,2007,156111,At least 1 accident or damage reported,0,0
+Chevrolet,2016,172600,At least 1 accident or damage reported,0,0
+Honda,2010,145000,None reported,0,0
+Ford,2001,64309,None reported,0,0
+RAM,2021,15183,None reported,1,1
+Buick,2020,28548,None reported,0,0
+Volkswagen,2022,14000,None reported,0,0
+Mercedes-Benz,2019,67000,None reported,0,0
+Jeep,2017,84786,None reported,0,0
+Mercedes-Benz,2008,93000,None reported,0,0
+Hyundai,2010,127500,At least 1 accident or damage reported,0,0
+Ford,2022,8000,None reported,1,1
+GMC,2022,16500,None reported,0,1
+Jaguar,2013,55700,None reported,0,0
+Ford,2021,42245,None reported,1,1
+Toyota,2009,78500,None reported,0,0
+Ford,2018,48619,None reported,1,0
+Jeep,2021,51105,None reported,0,0
+Ford,2016,25880,None reported,0,1
+Tesla,2021,20100,None reported,1,1
+Toyota,2018,25083,At least 1 accident or damage reported,0,0
+Audi,2002,69300,At least 1 accident or damage reported,0,0
+Toyota,2019,46000,None reported,0,0
+Jeep,2008,141485,At least 1 accident or damage reported,0,0
+Toyota,2018,63990,At least 1 accident or damage reported,0,0
+Ford,2020,19400,None reported,1,1
+Subaru,2013,129858,At least 1 accident or damage reported,0,0
+Volvo,2012,102000,None reported,0,0
+Subaru,2010,8700,None reported,0,0
+Chevrolet,2018,49279,None reported,0,0
+Chevrolet,2004,148800,None reported,0,0
+Cadillac,2012,160249,None reported,0,0
+Chrysler,2004,45000,None reported,0,0
+Chevrolet,2006,169000,None reported,0,0
+Mercedes-Benz,2017,46000,None reported,1,0
+Acura,2015,38000,None reported,0,0
+Chevrolet,2006,42000,None reported,0,0
+Lexus,2024,300,None reported,0,1
+Mercedes-Benz,2008,120800,None reported,0,0
+Jeep,2020,76313,None reported,0,0
+Chevrolet,2012,104000,At least 1 accident or damage reported,0,0
+Lexus,2010,97097,At least 1 accident or damage reported,0,0
+Jeep,2008,136731,None reported,0,0
+RAM,2017,40200,At least 1 accident or damage reported,0,0
+Ford,2021,39105,None reported,0,1
+BMW,2021,12500,At least 1 accident or damage reported,1,1
+Chevrolet,2019,38900,None reported,0,1
+Lincoln,2016,84272,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2016,58375,None reported,0,0
+Ford,2007,7346,None reported,0,0
+Dodge,2008,98231,At least 1 accident or damage reported,0,0
+Jaguar,2007,56000,None reported,0,0
+Honda,2020,13935,None reported,0,0
+Subaru,2019,30000,At least 1 accident or damage reported,0,0
+Saab,2009,106000,None reported,0,0
+BMW,2014,82978,None reported,0,0
+Jeep,2018,58500,None reported,0,0
+Ford,2015,92421,None reported,1,0
+Mazda,2020,9927,None reported,0,0
+Jeep,2000,122945,None reported,0,0
+Lexus,2006,110250,None reported,0,0
+INFINITI,2011,103010,None reported,0,0
+Hyundai,2017,55359,None reported,0,0
+Chevrolet,2002,118500,At least 1 accident or damage reported,0,0
+Rivian,2022,7800,None reported,1,1
+Land,2020,41500,None reported,1,1
+BMW,2020,28000,None reported,1,1
+Mercedes-Benz,2014,53500,None reported,0,0
+Honda,2021,33523,None reported,0,0
+Toyota,2016,86300,At least 1 accident or damage reported,0,0
+Subaru,2022,7738,At least 1 accident or damage reported,0,0
+Ford,2022,14361,None reported,1,1
+Chevrolet,2016,98000,At least 1 accident or damage reported,0,0
+Chevrolet,2022,30455,None reported,0,1
+Ford,2020,64552,At least 1 accident or damage reported,0,0
+Lexus,2017,103866,At least 1 accident or damage reported,0,0
+Land,2019,35650,At least 1 accident or damage reported,1,1
+Ford,2021,64957,None reported,0,0
+Chevrolet,2012,96653,At least 1 accident or damage reported,0,0
+Dodge,2022,29500,None reported,0,1
+Volvo,2012,69000,At least 1 accident or damage reported,0,0
+Lexus,2005,198000,At least 1 accident or damage reported,0,0
+Volvo,2008,170000,None reported,0,0
+Nissan,2008,76500,At least 1 accident or damage reported,0,0
+Porsche,2007,73500,None reported,1,0
+Land,2020,29000,None reported,1,1
+Porsche,2017,69404,At least 1 accident or damage reported,0,0
+Lexus,2007,103000,At least 1 accident or damage reported,0,0
+Porsche,2015,70500,At least 1 accident or damage reported,0,0
+Land,2016,64000,None reported,0,0
+GMC,2018,63460,None reported,0,0
+Toyota,2018,32199,None reported,0,0
+Hyundai,2020,69487,None reported,0,0
+GMC,2015,86000,None reported,0,0
+Genesis,2022,8730,None reported,0,1
+Dodge,2002,70000,At least 1 accident or damage reported,0,0
+Chevrolet,2017,70000,At least 1 accident or damage reported,0,0
+Audi,2015,83420,At least 1 accident or damage reported,0,0
+Nissan,2003,189000,At least 1 accident or damage reported,0,0
+Porsche,2017,31500,None reported,1,1
+BMW,2015,85766,None reported,0,0
+GMC,2018,92800,None reported,0,0
+Land,2021,13970,None reported,1,1
+Toyota,2000,265000,None reported,0,0
+Scion,2011,95426,None reported,0,0
+Honda,2001,119900,At least 1 accident or damage reported,0,0
+Mazda,2020,23162,None reported,0,0
+BMW,2023,3950,None reported,1,1
+Porsche,2006,80000,None reported,0,0
+Ford,2015,94634,At least 1 accident or damage reported,0,0
+Chevrolet,2007,65000,At least 1 accident or damage reported,0,0
+Lexus,2008,1.00E+05,At least 1 accident or damage reported,0,0
+Toyota,2023,500,None reported,1,1
+Audi,2011,181000,None reported,0,0
+Mercedes-Benz,2018,48700,None reported,0,0
+Toyota,2017,87500,None reported,0,0
+Jaguar,2000,45000,None reported,0,0
+Chevrolet,1996,85760,None reported,0,0
+Tesla,2018,36187,None reported,0,1
+Hyundai,2022,13666,None reported,0,0
+Porsche,2007,50500,None reported,1,0
+Lincoln,2021,19291,None reported,0,1
+Ford,2012,1295,None reported,0,0
+Cadillac,2017,55000,At least 1 accident or damage reported,0,0
+MINI,2010,74000,None reported,0,0
+Dodge,2022,14976,None reported,0,1
+BMW,2018,25348,At least 1 accident or damage reported,0,1
+Chevrolet,2010,23133,None reported,0,0
+Jaguar,2018,34322,None reported,0,0
+Dodge,2021,39960,At least 1 accident or damage reported,0,0
+BMW,2016,76400,At least 1 accident or damage reported,0,0
+Ford,2022,18533,None reported,0,1
+GMC,2023,7500,None reported,1,1
+INFINITI,2022,26520,At least 1 accident or damage reported,1,0
+Land,2014,59500,None reported,0,0
+Honda,2020,44000,None reported,0,0
+Pontiac,2001,111000,None reported,0,0
+Toyota,2016,82260,None reported,0,0
+Porsche,2006,52744,At least 1 accident or damage reported,0,0
+BMW,2019,28200,At least 1 accident or damage reported,1,1
+Nissan,2000,194277,At least 1 accident or damage reported,0,0
+Pontiac,2001,91812,None reported,0,0
+Chevrolet,2018,84224,None reported,0,0
+BMW,2018,66690,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2018,41500,At least 1 accident or damage reported,0,0
+BMW,2014,85095,At least 1 accident or damage reported,0,0
+Volvo,2015,39000,At least 1 accident or damage reported,0,0
+Tesla,2022,20500,None reported,0,1
+Ford,2019,112000,None reported,1,0
+Volkswagen,2023,1716,None reported,0,0
+Audi,2016,90360,At least 1 accident or damage reported,0,0
+Ford,2020,82146,None reported,0,0
+Ford,2020,16850,At least 1 accident or damage reported,0,1
+Honda,2003,101000,None reported,0,0
+BMW,2015,68750,None reported,0,0
+Dodge,2004,143000,None reported,0,0
+Nissan,2005,152270,At least 1 accident or damage reported,0,0
+Kia,2021,19605,None reported,0,0
+Chevrolet,2020,19200,None reported,1,1
+Chevrolet,2004,64500,None reported,0,0
+Toyota,2011,149000,None reported,0,0
+Pontiac,1997,134033,At least 1 accident or damage reported,0,0
+Kia,2019,37226,None reported,0,0
+Ford,2017,71924,None reported,0,0
+Jeep,2014,122200,At least 1 accident or damage reported,0,0
+Land,2020,37248,None reported,1,1
+Chevrolet,1999,88750,None reported,0,0
+Ford,2014,112180,None reported,0,0
+RAM,2015,149130,At least 1 accident or damage reported,0,0
+Tesla,2020,88000,None reported,0,0
+Toyota,2018,74000,None reported,0,0
+Ford,2019,44460,None reported,0,1
+GMC,2015,96000,None reported,0,0
+Dodge,2014,95000,None reported,0,0
+Land,2016,49799,None reported,0,0
+Ford,2006,27407,None reported,0,0
+Tesla,2016,74122,None reported,0,0
+Jaguar,1997,50000,None reported,0,0
+Mercedes-Benz,2021,14745,None reported,0,1
+Chevrolet,2021,2700,None reported,1,1
+Buick,2012,190000,At least 1 accident or damage reported,0,0
+Audi,2014,90236,None reported,0,0
+Jeep,2020,4000,None reported,0,1
+GMC,2017,124000,At least 1 accident or damage reported,0,0
+Ford,2019,45163,None reported,0,1
+Volkswagen,2020,49400,None reported,0,0
+Chevrolet,2021,13700,None reported,1,1
+Land,2011,174678,None reported,0,0
+Lexus,2022,1600,None reported,1,1
+Ford,2020,69849,None reported,0,0
+Toyota,2008,160000,At least 1 accident or damage reported,0,0
+Toyota,2016,40000,None reported,0,0
+Ford,2007,228000,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2015,102000,None reported,0,0
+Cadillac,2016,48000,At least 1 accident or damage reported,0,0
+Chrysler,2012,163500,None reported,0,0
+Ford,2018,66281,None reported,1,0
+Ford,2021,18000,None reported,0,1
+Ford,2014,27300,None reported,0,0
+Mazda,2020,19319,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2016,32936,At least 1 accident or damage reported,1,0
+BMW,2017,30450,None reported,1,1
+Jeep,2017,38200,None reported,0,0
+Jeep,2020,26315,None reported,0,1
+Chevrolet,2003,110000,None reported,0,0
+MINI,2014,19700,None reported,0,0
+Honda,2008,192000,At least 1 accident or damage reported,0,0
+Subaru,2008,98313,None reported,0,0
+Cadillac,2021,66500,None reported,0,0
+Nissan,2022,19877,None reported,0,0
+Kia,2021,16100,None reported,0,0
+GMC,2016,83858,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2020,24108,None reported,1,1
+Ford,2020,42609,At least 1 accident or damage reported,0,0
+Subaru,2017,160000,At least 1 accident or damage reported,0,0
+INFINITI,2017,121525,At least 1 accident or damage reported,0,0
+Kia,2023,6423,None reported,0,0
+Pontiac,2007,62310,None reported,0,0
+Mazda,2021,21444,None reported,0,0
+Ford,2015,112000,At least 1 accident or damage reported,0,0
+Hyundai,2013,60000,None reported,0,0
+Dodge,2013,153250,None reported,0,0
+Jeep,2019,57000,None reported,0,0
+Chevrolet,2011,140401,At least 1 accident or damage reported,0,0
+Ford,2023,5500,None reported,1,1
+Chevrolet,2022,2010,None reported,1,1
+Tesla,2018,24360,None reported,0,1
+Audi,2013,96800,At least 1 accident or damage reported,0,0
+Cadillac,2014,34988,None reported,0,0
+Nissan,2012,65750,At least 1 accident or damage reported,0,0
+Chevrolet,2019,56654,None reported,0,0
+Lincoln,2016,140200,None reported,0,0
+Chevrolet,2016,122971,At least 1 accident or damage reported,0,0
+Nissan,2008,227010,None reported,0,0
+Ford,2004,271000,At least 1 accident or damage reported,0,0
+Dodge,2001,171079,None reported,0,0
+Chevrolet,2021,24915,None reported,0,1
+Nissan,2022,15577,None reported,0,0
+Audi,2014,102370,None reported,0,0
+Mercedes-Benz,2012,122000,None reported,0,0
+FIAT,2016,48500,None reported,0,0
+Ford,2018,53500,At least 1 accident or damage reported,0,0
+Ford,2004,315000,None reported,0,0
+Ford,2006,158000,At least 1 accident or damage reported,0,0
+Kia,2019,43850,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2015,73500,None reported,0,0
+Nissan,2014,153350,At least 1 accident or damage reported,0,0
+Volkswagen,2019,74000,None reported,0,0
+BMW,2013,52000,None reported,0,0
+Audi,2022,250,None reported,1,1
+Nissan,2017,145000,At least 1 accident or damage reported,0,0
+Subaru,2020,40971,None reported,0,0
+Ford,2010,248000,At least 1 accident or damage reported,0,0
+BMW,2018,38000,None reported,1,1
+Acura,2016,128000,None reported,0,0
+Chevrolet,2022,7455,None reported,1,1
+Jeep,1999,137790,None reported,0,0
+Ford,2016,92000,None reported,0,0
+Porsche,2001,21450,None reported,0,0
+Nissan,2021,43875,At least 1 accident or damage reported,0,0
+Pontiac,2009,81327,None reported,0,0
+Mercedes-Benz,2021,72836,None reported,0,0
+Jeep,2007,161900,At least 1 accident or damage reported,0,0
+Audi,2022,24500,None reported,0,1
+BMW,2018,14993,None reported,0,1
+Volkswagen,2019,96000,At least 1 accident or damage reported,0,0
+Cadillac,2019,35566,At least 1 accident or damage reported,0,1
+Lexus,2008,113000,At least 1 accident or damage reported,0,0
+Ford,2022,20678,None reported,0,1
+Buick,2012,19079,None reported,0,0
+Mazda,2008,155500,At least 1 accident or damage reported,0,0
+Ford,2019,35500,None reported,0,1
+Mazda,2021,52253,At least 1 accident or damage reported,0,0
+Ford,2004,110000,At least 1 accident or damage reported,0,0
+Volkswagen,2016,59250,None reported,0,0
+Hummer,2008,155000,At least 1 accident or damage reported,0,0
+BMW,2017,39250,None reported,0,1
+BMW,2020,23647,None reported,0,1
+Hyundai,2014,127941,None reported,0,0
+RAM,2014,124000,None reported,0,0
+Ford,2023,1500,None reported,1,1
+MINI,2014,70700,None reported,0,0
+Cadillac,2013,113395,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2022,18815,None reported,1,1
+Toyota,2014,65000,None reported,0,0
+Audi,2019,23350,None reported,0,1
+Lexus,2019,39000,At least 1 accident or damage reported,0,0
+Toyota,2019,48842,At least 1 accident or damage reported,0,0
+FIAT,2015,47800,At least 1 accident or damage reported,0,0
+Ford,2022,52000,None reported,0,1
+Ford,2006,16000,None reported,0,0
+Jeep,2023,7102,None reported,0,1
+Jeep,2015,157000,None reported,0,0
+Ford,2023,9095,None reported,1,1
+Jeep,2010,179700,At least 1 accident or damage reported,0,0
+Lexus,2006,170000,None reported,0,0
+BMW,2011,110000,At least 1 accident or damage reported,0,0
+Porsche,2016,22500,None reported,1,1
+Ford,2013,20800,None reported,0,0
+Lexus,2018,100868,At least 1 accident or damage reported,0,0
+Volkswagen,2012,131986,At least 1 accident or damage reported,0,0
+Volkswagen,2016,127770,None reported,0,0
+Porsche,2013,56985,None reported,1,0
+Toyota,2014,106000,At least 1 accident or damage reported,0,0
+Ford,2019,92671,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2019,49500,None reported,1,0
+Ford,2011,133504,None reported,0,0
+Cadillac,2019,20296,None reported,0,1
+Volkswagen,2019,55234,None reported,0,0
+Jeep,2005,162482,None reported,0,0
+Lincoln,2002,42000,At least 1 accident or damage reported,0,0
+Ford,2022,470,None reported,1,1
+Mercedes-Benz,2006,98300,At least 1 accident or damage reported,0,0
+BMW,2013,82849,None reported,0,0
+Porsche,2009,25500,None reported,1,0
+Kia,2020,53452,At least 1 accident or damage reported,0,0
+Chevrolet,2004,40011,None reported,0,0
+Hyundai,2018,45800,At least 1 accident or damage reported,0,0
+RAM,2022,15741,None reported,0,1
+Kia,2023,11100,None reported,0,0
+Ford,2020,36000,None reported,0,1
+BMW,2013,69750,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2021,19162,None reported,0,1
+Audi,2023,6046,None reported,1,1
+Ford,2020,17000,At least 1 accident or damage reported,0,1
+Audi,2019,10832,None reported,0,1
+Toyota,2004,173452,At least 1 accident or damage reported,0,0
+Kia,2017,103338,At least 1 accident or damage reported,0,0
+Ford,2022,28000,None reported,1,1
+Audi,2019,51984,None reported,0,0
+Chevrolet,2020,8974,At least 1 accident or damage reported,1,1
+Scion,2014,99999,None reported,0,0
+Mercedes-Benz,2017,59400,At least 1 accident or damage reported,0,0
+Nissan,2020,47147,None reported,0,0
+Ford,2018,53782,At least 1 accident or damage reported,0,0
+Ford,2011,160000,None reported,0,0
+Chevrolet,2015,500,At least 1 accident or damage reported,0,0
+Dodge,2018,64000,None reported,0,0
+Hyundai,2021,28600,None reported,0,0
+GMC,2019,26339,At least 1 accident or damage reported,0,1
+Subaru,2008,148740,At least 1 accident or damage reported,0,0
+GMC,2021,16919,At least 1 accident or damage reported,1,1
+Chevrolet,2005,170000,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2013,130000,At least 1 accident or damage reported,0,0
+Ford,2022,1889,None reported,0,1
+Dodge,2018,62197,None reported,0,0
+Ford,2016,71000,At least 1 accident or damage reported,0,0
+Lexus,2016,83400,At least 1 accident or damage reported,0,0
+Cadillac,2019,74414,None reported,0,0
+Ford,2010,29816,None reported,0,0
+Ford,2015,68749,None reported,0,0
+BMW,2005,190395,None reported,0,0
+Toyota,2007,98528,At least 1 accident or damage reported,0,0
+BMW,2011,91500,At least 1 accident or damage reported,0,0
+Chevrolet,2017,50850,None reported,0,0
+Mazda,1999,130000,At least 1 accident or damage reported,0,0
+Toyota,2005,199400,At least 1 accident or damage reported,0,0
+RAM,2013,84220,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2016,67280,None reported,0,0
+Volkswagen,2021,16538,None reported,0,0
+Toyota,2018,66000,None reported,0,0
+Cadillac,2018,53450,None reported,0,0
+Volkswagen,2018,63277,None reported,0,0
+Nissan,2020,30900,None reported,0,0
+Mercedes-Benz,2019,60854,None reported,0,0
+Ford,2015,85000,None reported,0,0
+Toyota,2016,108130,None reported,0,0
+Toyota,2023,11400,None reported,0,1
+Mercedes-Benz,2013,63300,None reported,0,0
+Tesla,2020,27500,None reported,0,1
+BMW,2012,122600,At least 1 accident or damage reported,0,0
+Dodge,2006,145565,At least 1 accident or damage reported,0,0
+Ford,2016,66500,None reported,0,0
+BMW,2017,75000,None reported,0,0
+BMW,2013,67000,At least 1 accident or damage reported,0,0
+Audi,2019,24500,None reported,0,1
+Audi,2013,37500,None reported,0,0
+Nissan,2013,101000,None reported,1,0
+Tesla,2020,25000,None reported,0,1
+Toyota,2000,245000,At least 1 accident or damage reported,0,0
+Tesla,2021,49252,None reported,0,1
+Buick,2016,103814,At least 1 accident or damage reported,0,0
+Toyota,2021,27000,None reported,0,1
+BMW,2021,60942,None reported,0,0
+BMW,2011,100780,At least 1 accident or damage reported,0,0
+Tesla,2018,65000,None reported,0,0
+Lexus,2012,167000,At least 1 accident or damage reported,0,0
+Chevrolet,2008,161000,At least 1 accident or damage reported,0,0
+Subaru,2005,90200,None reported,0,0
+Volkswagen,2012,159870,At least 1 accident or damage reported,0,0
+Audi,2022,14550,None reported,0,1
+INFINITI,2018,38000,None reported,0,0
+Chevrolet,2002,35515,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2008,33300,None reported,0,0
+Mercedes-Benz,2016,90189,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2001,59500,None reported,0,0
+Ford,2017,134000,None reported,0,0
+Buick,2014,86281,None reported,0,0
+Porsche,2020,34580,None reported,1,1
+Hyundai,2007,145000,At least 1 accident or damage reported,0,0
+Mazda,2021,11737,None reported,0,0
+Tesla,2020,25535,None reported,1,1
+Jeep,2016,67499,None reported,0,0
+Toyota,2004,220450,None reported,0,0
+Chevrolet,2018,20200,At least 1 accident or damage reported,0,1
+Jaguar,2000,40000,None reported,0,0
+Mercedes-Benz,2015,80300,At least 1 accident or damage reported,0,0
+BMW,2017,63150,None reported,0,0
+Volkswagen,2018,48210,None reported,0,0
+Nissan,2012,115359,None reported,0,0
+Subaru,2018,90601,None reported,0,0
+BMW,2000,132200,None reported,0,0
+Mercedes-Benz,2023,4000,None reported,1,1
+Volkswagen,2019,32000,None reported,0,0
+MINI,2016,95070,None reported,0,0
+Nissan,2017,148000,None reported,0,0
+Lexus,2014,125519,At least 1 accident or damage reported,0,0
+INFINITI,2013,90000,None reported,0,0
+Audi,2018,49650,At least 1 accident or damage reported,0,0
+Nissan,2015,149800,At least 1 accident or damage reported,0,0
+Chevrolet,2019,37161,None reported,0,1
+Ford,2016,111700,None reported,0,0
+Mercedes-Benz,2016,72784,None reported,0,0
+Cadillac,2007,150000,None reported,0,0
+Ford,2012,140450,At least 1 accident or damage reported,0,0
+Lexus,2010,132700,At least 1 accident or damage reported,0,0
+Dodge,2020,49000,None reported,0,0
+Jeep,2019,23442,None reported,0,0
+Tesla,2021,23749,None reported,0,1
+Toyota,2021,35048,None reported,1,1
+INFINITI,2016,91239,None reported,0,0
+Ford,2019,59678,None reported,0,0
+BMW,2022,2010,None reported,1,1
+Toyota,2014,80354,At least 1 accident or damage reported,0,0
+Ford,2018,105674,None reported,0,0
+Toyota,2013,92700,At least 1 accident or damage reported,0,0
+Ford,2016,101387,At least 1 accident or damage reported,0,0
+Buick,2021,36544,None reported,0,0
+Audi,2019,41000,None reported,0,1
+Chrysler,2013,115872,None reported,0,0
+Chevrolet,2011,135603,None reported,0,0
+Ford,2020,26540,None reported,0,1
+Jaguar,2011,35134,At least 1 accident or damage reported,0,0
+Jeep,2020,49990,None reported,1,0
+Ford,2011,153818,At least 1 accident or damage reported,0,0
+Jaguar,2017,58060,At least 1 accident or damage reported,0,0
+Porsche,2015,36000,None reported,1,1
+Ford,2022,17000,None reported,1,1
+Suzuki,2013,99982,At least 1 accident or damage reported,0,0
+Ford,2019,106000,At least 1 accident or damage reported,0,0
+Honda,2014,82500,None reported,0,0
+Mercedes-Benz,2018,41500,None reported,1,1
+BMW,2015,92984,At least 1 accident or damage reported,0,0
+Nissan,2007,120000,None reported,0,0
+Chevrolet,2015,25548,None reported,0,1
+Ford,2018,65441,None reported,0,0
+Porsche,2020,39611,None reported,1,1
+Toyota,2010,154860,None reported,0,0
+Lexus,2016,39750,None reported,0,0
+Chevrolet,2018,71312,None reported,0,0
+Porsche,2015,43500,None reported,1,1
+BMW,2020,34000,None reported,1,1
+Subaru,2021,32250,At least 1 accident or damage reported,0,0
+Volkswagen,2011,194000,At least 1 accident or damage reported,0,0
+Mercedes-Benz,2018,53705,At least 1 accident or damage reported,0,0
+Audi,2022,10900,None reported,1,1
+Porsche,2022,2116,None reported,1,1
+Ford,2020,33000,None reported,1,1
+BMW,2020,43000,At least 1 accident or damage reported,0,1

@@ -1,0 +1,122 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assessment</title>
+    <!-- Link Bootstrap CSS -->
+    <link rel="stylesheet" href="{% static 'Bootstrap/css/bootstrap.min.css' %}">
+    <!-- Link custom CSS -->
+    <link rel="stylesheet" href="{% static 'style.css' %}">
+</head>
+
+<body>
+    <!-- Navigation Bar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="#">Assessment App</a>
+            <!-- Navbar Toggler -->
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <!-- Navbar Collapse -->
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="http://127.0.0.1:8000/customer-summary/">Customer Summary</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="http://127.0.0.1:8000/technology-inventory/">Technology
+                            Inventory</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="http://127.0.0.1:8000/assessment/1/edit/">Assessment</a>
+                    </li>
+                </ul>
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link btn btn-primary" href="#" id="loginBtn">Login</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mt-4">
+
+        <!-- Customer Name and Customer Information -->
+        <div class="row">
+            <div class="col-md">
+                <h2 class="mt-4">Customer Name: Tech Solutions Inc.</h2>
+                <div class="logo-img">
+                    <img src="{% static 'logo.png' %}" alt="Logo" class="logo-img">
+                </div>
+            </div>
+        </div>
+        <!-- Table of Assessments -->
+        <div class="container mt-4">
+            <table id="inventory-table" class="table table-bordered table-striped table-rounded table-hover">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>Date</th>
+                        <th>Score</th>
+                        <th>Percent Complete</th>
+                        <th>Status</th>
+                        <th>Site Location</th>
+                        <th>Assessment Template</th>
+                        <th>Alignment Engineer</th>
+                        <!-- Add more table headers if needed -->
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for assessment in assessments %}
+                    <tr>
+                        <!-- Display Assessment Data -->
+                        <td>{{ assessment.date }}</td>
+                        <td>{{ assessment.score }}</td>
+                        <td>{{ assessment.percent_complete }}</td>
+                        <td>{{ assessment.status }}</td>
+                        <td>{{ assessment.site_location }}</td>
+                        <td>{{ assessment.assessment_template }}</td>
+                        <td>{{ assessment.alignment_engineer }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+
+        <!-- Dark Mode Toggle -->
+        <div class="form-check form-switch">
+            <input class="form-check-input" type="checkbox" id="darkModeToggle">
+            <label class="form-check-label" for="darkModeToggle">Dark Mode</label>
+        </div>
+
+    </div>
+
+    <!-- Bootstrap JS -->
+    <script src="{% static 'Bootstrap/js/bootstrap.min.js' %}"></script>
+
+    <!-- Dark Mode Toggle Script -->
+    <script>
+        const darkModeToggle = document.getElementById('darkModeToggle');
+        const body = document.body;
+
+        darkModeToggle.addEventListener('change', () => {
+            body.classList.toggle('dark-mode');
+        });
+    </script>
+    <!-- Login Button Script -->
+    <script>
+        document.getElementById('loginBtn').addEventListener('click', function () {
+            var email = prompt('This currently does not work but it would be cool if it did:');
+            var password = prompt('Enter your password:');
+        });
+    </script>
+
+</body>
+
+</html>

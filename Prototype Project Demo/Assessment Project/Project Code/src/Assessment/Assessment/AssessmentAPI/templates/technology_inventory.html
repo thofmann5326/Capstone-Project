@@ -1,0 +1,181 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Technology Inventory</title>
+    <!-- Link Bootstrap CSS -->
+    <link rel="stylesheet" href="{% static 'Bootstrap/css/bootstrap.min.css' %}">
+    <!-- Link custom CSS -->
+    <link rel="stylesheet" href="{% static 'style.css' %}">
+</head>
+
+<body>
+    <!-- Navigation bar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="#">Assessment App</a>
+            <!-- Toggle button for collapsed navigation links -->
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <!-- Collapsible navigation links -->
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <!-- Left-aligned navigation links -->
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="http://127.0.0.1:8000/customer-summary/">Customer Summary</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="http://127.0.0.1:8000/technology-inventory/">Technology
+                            Inventory</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="http://127.0.0.1:8000/assessment/1/edit/">Assessment</a>
+                    </li>
+                </ul>
+                <!-- Right-aligned navigation links -->
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link btn btn-primary" href="#" id="loginBtn">Login</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container mt-4">
+        <h2 class="text-center">Inventory List</h2>
+        <div class="table-responsive">
+            <table id="inventory-table" class="table table-bordered table-striped table-rounded table-hover">
+                <thead class="thead-dark">
+                    <tr>
+                        <th><input type="text" class="form-control" placeholder="Device Name"></th>
+                        <th><input type="text" class="form-control" placeholder="Site Location"></th>
+                        <th><input type="text" class="form-control" placeholder="Type"></th>
+                        <th><input type="text" class="form-control" placeholder="Make"></th>
+                        <th><input type="text" class="form-control" placeholder="Model"></th>
+                        <th><input type="text" class="form-control" placeholder="Serial Number"></th>
+                        <th><input type="text" class="form-control" placeholder="Operating System"></th>
+                        <th><input type="text" class="form-control" placeholder="Date Purchased"></th>
+                        <th><input type="text" class="form-control" placeholder="Date Warranty Expired"></th>
+                        <th><input type="text" class="form-control" placeholder="Age (Years)"></th>
+                        <th><input type="text" class="form-control" placeholder="Last Updated"></th>
+                        <th><input type="text" class="form-control" placeholder="Customer"></th>
+                    </tr>
+                    <tr>
+                        <th class="sortable" data-column="0">Device Name</th>
+                        <th class="sortable" data-column="1">Site Location</th>
+                        <th class="sortable" data-column="2">Type</th>
+                        <th class="sortable" data-column="3">Make</th>
+                        <th class="sortable" data-column="4">Model</th>
+                        <th class="sortable" data-column="5">Serial Number</th>
+                        <th class="sortable" data-column="6">Operating System</th>
+                        <th class="sortable" data-column="7">Date Purchased</th>
+                        <th class="sortable" data-column="8">Date Warranty Expired</th>
+                        <th class="sortable" data-column="9">Age (Years)</th>
+                        <th class="sortable" data-column="10">Last Updated</th>
+                        <th class="sortable" data-column="11">Customer</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Populate this table from Django view -->
+                    {% for item in technology_inventory %}
+                    <tr>
+                        <td>{{ item.device_name }}</td>
+                        <td>{{ item.site_location }}</td>
+                        <td>{{ item.type }}</td>
+                        <td>{{ item.make }}</td>
+                        <td>{{ item.model }}</td>
+                        <td>{{ item.serial_number }}</td>
+                        <td>{{ item.operating_system }}</td>
+                        <td>{{ item.date_purchased}}</td>
+                        <td>{{ item.date_warranty_expired}}</td>
+                        <td>{{ item.age_years }}</td>
+                        <td>{{ item.date_last_updated}}</td>
+                        <td>{{ item.customer }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+
+        </div>
+        <!-- Dark Mode Toggle -->
+        <div class="form-check form-switch">
+            <input class="form-check-input" type="checkbox" id="darkModeToggle">
+            <label class="form-check-label" for="darkModeToggle">Dark Mode</label>
+        </div>
+    </div>
+
+    <!-- Bootstrap JavaScript -->
+    <script src="{% static 'Bootstrap/js/bootstrap.min.js' %}"></script>
+
+    <script>
+        // JavaScript for dark mode toggle and table sorting/filtering
+        const darkModeToggle = document.getElementById('darkModeToggle');
+        const body = document.body;
+
+        // Toggle dark mode class on body
+        darkModeToggle.addEventListener('change', () => {
+            body.classList.toggle('dark-mode');
+        });
+
+        // Event listener for login button click
+        document.getElementById('loginBtn').addEventListener('click', function () {
+            var email = prompt('This currently does not work but it would be cool if it did:');
+            var password = prompt('Enter your password:');
+        });
+
+        // Column Filtering
+        document.querySelectorAll('#inventory-table input').forEach(input => {
+            input.addEventListener('input', () => {
+                // Get column index and search text
+                const columnIndex = input.parentNode.cellIndex;
+                const searchText = input.value.toLowerCase();
+                const rows = document.querySelectorAll('#inventory-table tbody tr');
+
+                // Filter rows based on search text
+                rows.forEach(row => {
+                    const cellText = row.cells[columnIndex].textContent.toLowerCase();
+                    row.style.display = cellText.includes(searchText) ? '' : 'none';
+                });
+            });
+        });
+
+        // Column Sorting
+        document.querySelectorAll('.sortable').forEach(th => {
+            th.addEventListener('click', () => {
+                // Get column index and rows
+                const columnIndex = th.cellIndex;
+                const rows = [...document.querySelectorAll('#inventory-table tbody tr')];
+                const isAscending = th.classList.contains('ascending');
+
+                // Toggle sorting direction class
+                th.classList.toggle('ascending');
+
+                // Sort rows based on column text content
+                rows.sort((a, b) => {
+                    const aValue = a.cells[columnIndex].textContent.trim();
+                    const bValue = b.cells[columnIndex].textContent.trim();
+
+                    if (aValue === bValue) return 0;
+
+                    if (isAscending) {
+                        return aValue.localeCompare(bValue);
+                    } else {
+                        return bValue.localeCompare(aValue);
+                    }
+                });
+
+                // Update table rows
+                const tbody = document.querySelector('#inventory-table tbody');
+                tbody.innerHTML = '';
+                rows.forEach(row => tbody.appendChild(row));
+            });
+        });
+    </script>
+</body>
+
+</html>

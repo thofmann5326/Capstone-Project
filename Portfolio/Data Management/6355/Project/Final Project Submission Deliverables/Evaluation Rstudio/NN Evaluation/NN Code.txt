@@ -1,0 +1,41 @@
+GroupData<-read.csv(file.choose(),header=T)
+install.packages("NeuralNetTools")
+library(NeuralNetTools)
+install.packages("nnet")
+library(nnet)
+GroupNN <- nnet(HighValueCar ~., data = GroupData, size = 8, maxit = 100000, decay = 0.01)
+plotnet(GroupNN)
+library("e1071")
+library("e1071")
+install.packages("caret")
+library("caret")
+library("caret")
+set.seed(123)
+smp_size <- floor(0.7 * nrow(GroupData))
+train_ind<-sample(seq_len(nrow(GroupData)), size = smp_size)
+train<-GroupData[train_ind, ]
+test<-GroupData[train_ind, ]
+nrow(train)/nrow(GroupData)
+LRmodel<-glm(HighValueCar, test, type="response")
+LRmodel<-glm(HighValueCar ~., family="binomial", train)
+LRp<-predict(LRmodel, test, type = "response")
+summary(LRp)
+LRpredict<-ifelse(LRp>0.20, 1, 0)
+table(LRpredict, test[["HighValueCar"]])
+LRp_class<-as.factor(LRpredict)
+confusionMatrix(LRp_class, as.factor(test[["HighValueCar"]]))
+
+# NN Evaluation (Calculate Accuracy, Precision, Recall, and F1-score)
+conf_matrix <- confusionMatrix(LRp_class, as.factor(test[["HighValueCar"]]))
+
+# Extracting relevant metrics
+accuracy <- conf_matrix$overall["Accuracy"]
+precision <- conf_matrix$byClass["Pos Pred Value"]  # Precision for the positive class
+recall <- conf_matrix$byClass["Sensitivity"]        # Recall for the positive class
+f1_score <- conf_matrix$byClass["F1"]                # F1-score for the positive class
+
+# Print the results
+cat("Accuracy: ", accuracy, "\n")
+cat("Precision: ", precision, "\n")
+cat("Recall: ", recall, "\n")
+cat("F1-score: ", f1_score, "\n")

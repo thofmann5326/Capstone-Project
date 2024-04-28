@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <title>Assignment 01: Establish Problem Domain</title>
+</head>
+
+<body>
+    <h1>Assignment 01: Establish Problem Domain</h1>
+    <h2>Step 1: Find your Data Domain</h2>
+
+    <p>
+        <a href="https://discosweb.esoc.esa.int/">The European Space Agency Database and Information System
+            Characterizing Objects in
+            Space
+        </a>
+    </p>
+    <h2>Step 2: Why is this Domain Important</h2>
+    <p>
+        The European Space Agency’s DISCOS database that serves as a single-source reference for over 40000 objects in
+        orbit of
+        earth. Their primary purpose is bringing together multiple sources for tracking objects in orbit and then using
+        that
+        data to assist satellite operators in collision avoidance. They even have an API that can be linked into a
+        satellite
+        operators automated collision avoidance system called DISCOSweb Operations AP. The international space station
+        is one
+        major user of this data. When there is even a small chance of an object coming with an area around the station
+        if it is
+        a satellite the owners are contacted and told to make corrections. If it is an uncontrolled object, they
+        calculate the
+        risk of the object hitting the station and even at a very low risk they will most likely make an obit correction
+        to
+        avoid the object.
+    </p>
+    <p>
+        Being aware of the objects in space is extremely important from many levels. Like helping companies and
+        governments
+        avoid colliding their satellites or spacecraft with other objects. Besides losing a satellite or space craft, a
+        collision could lead to the loss of all other satellites in orbit. One collision could create so much debris
+        that it
+        causes a domino effect and a total loss of the ability to send things into orbit. It crucial to have accurate
+        and as up
+        to date as possible data on every possible object in orbit.
+    </p>
+    <p>
+        It is also important to be able to present this data both for reference and awareness. Governments and companies
+        need to
+        be able to look up all the info on an object, but they also need to be aware of how big of an issue leaving any
+        debris
+        in orbit can be.
+    </p>
+    <h2>Step 3: Planning for a BI/DSS Project based on this Data</h2>
+    <p>
+        The European Space Agency’s DISCOS database can be accessed via their free API. I’ve already created an account
+        and
+        verified I could create the API keys. They also have a large amount of documentation available on their website
+        that is
+        accessible after you register and set up an account. It guides you through using the request package within
+        python to
+        access the API and pull-down data. Once data is pulled down a dashboard could be made with the data. Some of the
+        charts
+        that could be included in the dashboard are a bar graph of the different types of objects, how many objects are
+        controlled vs, uncontrolled, and a live bar graph of what objects are within a curtain distance of the
+        international
+        space station. It could also include a animation of the top few hundred objects by size on a live map.
+    </p>
+    <p>
+        It could also include a view with the running list of all tracked objects and filter through the list and select
+        specific objects. When viewing specific objects, it should show the other objects within a curtain distance of
+        that
+        object and rank them from closest to furthest. It could also show a live map of the specific object flying over
+        a map.
+        Or if live data is not available show its path on a map and list the objects it will come close to.
+    </p>
+</body>
+
+</html>

@@ -1,0 +1,7 @@
+setup.py
+barky.egg-info/PKG-INFO
+barky.egg-info/SOURCES.txt
+barky.egg-info/dependency_links.txt
+barky.egg-info/top_level.txt
+barky_Original/__init__.py
+barky_project/manage.py

@@ -1,0 +1,801 @@
+first_name,middle_name,last_name,sex,birth_date,birth_city,birth_country,death_date,death_city,death_country
+William,Michael,Garcia,M,1770-10-15,North Kenneth,Japan,1783-03-11,North Keithfurt,Portugal
+Christian,Christopher,White,F,1770-08-24,Smithfort,El Salvador,1853-08-26,Dianaport,Honduras
+Eric,Robert,Fisher,F,1685-12-02,South Brittneyfort,Angola,1755-03-13,South Derrick,Malaysia
+Christopher,Tanya,Pena,F,1756-07-24,New James,Afghanistan,1775-03-11,Byrdfurt,French Southern Territories
+William,Melissa,Weaver,M,1712-12-07,West Herbert,Uganda,1758-01-12,Johnfurt,French Guiana
+Eric,Elizabeth,Villanueva,M,1739-08-23,Lake Patricia,Belgium,1791-05-29,South Geraldmouth,Sao Tome and Principe
+Ernest,Crystal,Mcclain,M,1740-06-22,Nelsonton,Congo,1857-09-21,Kellychester,Guam
+Brian,Marcus,Hamilton,F,1771-08-12,Janicemouth,Palestinian Territory,1913-02-16,East Walter,French Southern Territories
+Jacob,Kyle,Jackson,M,1732-09-26,East Dennisport,Pitcairn Islands,1835-07-14,Kimberlyburgh,Croatia
+Isaac,Taylor,Brown,M,1711-05-10,Padillafort,Ethiopia,1712-06-30,North Michael,Lebanon
+Micheal,Valerie,Baker,M,1677-06-03,Port Christopherside,Botswana,1818-10-21,Jennifermouth,Guatemala
+Julian,Bryan,Dixon,M,1724-12-25,Tannertown,Korea,1868-08-28,South Shelbymouth,Poland
+Christopher,Elizabeth,Ball,M,1765-04-02,Courtneyfort,Guam,1780-12-18,Maloneshire,Liberia
+Gary,Kristen,Jones,M,1767-11-30,Robertland,Puerto Rico,1876-10-11,Port Williamside,Dominica
+Aaron,Monica,Castro,F,1758-01-14,Carlsonmouth,Estonia,1836-02-13,East Jennifer,Czech Republic
+John,Dustin,Blackwell,M,1689-08-20,Gonzalezfurt,Guam,1772-12-30,Hillstad,Sri Lanka
+Anthony,Robert,Anderson,F,1703-04-12,East Bruceborough,French Guiana,1730-12-17,Nathanielberg,United Arab Emirates
+Stephen,Dustin,Peterson,M,1704-08-13,Lopezbury,Syrian Arab Republic,1842-06-02,South Staceyborough,Libyan Arab Jamahiriya
+David,Benjamin,Strickland,F,1701-10-23,Nguyenburgh,French Southern Territories,1809-05-05,Albertbury,Philippines
+Matthew,Lucas,Myers,F,1733-04-17,West Gabriel,France,1815-10-27,Cooperfurt,Brunei Darussalam
+Andrew,Adrian,Patterson,M,1706-12-14,Ryanmouth,Cocos (Keeling) Islands,1826-10-06,Raymondchester,Tokelau
+David,Allison,Gillespie,M,1743-02-23,Wardstad,Guernsey,1758-11-09,Bentonport,Djibouti
+Ronald,Brittany,Brock,M,1772-05-09,Burnston,Cote d'Ivoire,1882-12-30,South Shawnmouth,British Indian Ocean Territory (Chagos Archipelago)
+Scott,Barry,Cisneros,F,1683-10-17,Lake Andrewshire,Senegal,1810-11-26,Thomasport,Mexico
+Robert,Travis,Gibbs,M,1699-05-12,South Anthony,Jordan,1801-01-26,Andreville,Montserrat
+Arthur,Meredith,Mills,F,1745-03-13,North Gabrielleport,Cote d'Ivoire,1750-09-09,South Roymouth,Equatorial Guinea
+Theodore,Cameron,Jackson,M,1765-11-28,Yuberg,Moldova,1837-08-02,New Kevin,Armenia
+Timothy,Emily,Robinson,M,1682-01-29,Marialand,Niue,1774-01-19,New Melissa,Togo
+Victor,Christopher,Smith,M,1719-03-09,Laurenborough,Macao,1761-06-30,North Chase,Romania
+Jared,Antonio,Salazar,M,1709-09-11,North Jeffrey,Seychelles,1857-01-30,New Joshua,French Guiana
+Steven,Anita,Collins,F,1714-10-02,North Jasminemouth,Spain,1788-08-29,Crystalland,Montserrat
+Jonathan,Andrew,Hansen,F,1742-12-02,New Josephside,Saint Martin,1803-04-03,East Benjaminport,Mayotte
+Edwin,Rachael,Fisher,F,1712-01-07,Alexandershire,Yemen,1764-08-28,West Kellyville,Finland
+Michael,Bonnie,Norris,F,1728-03-17,Reneeville,Cayman Islands,1827-03-23,Escobarview,Congo
+Cristian,Katie,Arias,M,1685-07-04,Pierceburgh,Italy,1717-03-02,Rebeccaborough,Philippines
+Andrew,David,Rodriguez,F,1718-07-18,Hahnside,Western Sahara,1834-08-29,Port Christophermouth,Macao
+Vernon,Jeffrey,Bowers,F,1742-02-05,South Thomas,Turks and Caicos Islands,1881-08-28,Lake Maxwellstad,Nauru
+Christian,William,Ortega,F,1710-12-31,East Natasha,Bangladesh,1842-10-16,Jenniferstad,Saint Lucia
+Paul,Anna,Lambert,F,1723-10-01,Michaelmouth,Canada,1807-08-18,Mirandafurt,Djibouti
+Michael,Kimberly,Hernandez,F,1722-08-16,Bensonside,Vanuatu,1725-11-16,Castilloport,Greece
+Clinton,Alicia,Smith,M,1676-10-22,Lake Kelsey,Nauru,1721-08-28,Johnsonport,South Africa
+Jeffrey,Robert,Andrews,M,1697-07-07,North Christopher,Romania,1729-09-05,Olsontown,Nauru
+Marvin,Charlene,Crawford,M,1740-09-25,Jenniferchester,Guadeloupe,1741-01-29,Garnerside,China
+Lawrence,Christine,Chavez,M,1705-05-02,Boonetown,Tanzania,1842-10-19,Millerchester,Solomon Islands
+Tommy,Sherry,Cruz,F,1727-07-14,North Christianstad,Vanuatu,1782-07-14,Mortonhaven,Turkey
+Gary,Jesse,Pollard,F,1732-06-13,Baldwinchester,Madagascar,1828-04-10,Macdonaldmouth,Latvia
+Joshua,Debra,Day,M,1730-09-25,Jasonview,Monaco,1742-10-23,South Tyroneberg,Myanmar
+Michael,John,King,F,1738-02-06,Thomashaven,French Guiana,1869-12-10,Brownchester,Christmas Island
+Brent,Kathleen,Cochran,M,1725-09-19,South Bradleytown,Maldives,1764-10-11,Brennanborough,Tanzania
+Ricardo,Brandon,Perry,M,1754-06-08,Kylebury,Peru,1901-06-09,Fuentesborough,Ukraine
+Timothy,Lori,Reynolds,F,1719-03-27,New Rhondaton,Tanzania,1850-10-04,West Ronaldland,Angola
+William,Vincent,Huynh,M,1709-12-18,Crystalburgh,Micronesia,1719-11-28,Palmerhaven,Saint Kitts and Nevis
+Cory,Patricia,Ward,M,1767-02-19,West Joseph,Hong Kong,1876-02-09,East Jasonbury,South Georgia and the South Sandwich Islands
+Brett,Jennifer,Erickson,M,1732-03-30,Susanberg,Norfolk Island,1861-06-25,Leonardport,Turkmenistan
+Patrick,Lydia,Hamilton,M,1751-02-27,Rosestad,Tuvalu,1836-01-07,New Jeffreychester,Croatia
+Edwin,Kevin,Chavez,M,1701-04-25,Smithtown,Canada,1785-10-24,South Erikland,Eritrea
+Richard,John,Rojas,M,1737-09-22,East Adrianside,Romania,1831-05-20,East Michaelmouth,Chad
+Robert,Christopher,Lee,M,1747-09-19,Natashamouth,Isle of Man,1777-11-24,East Emilyberg,Christmas Island
+Luis,Michael,Stout,M,1721-10-11,East Jacqueline,Venezuela,1745-02-14,West Kariburgh,Guinea
+Michael,Douglas,Anderson,F,1691-11-09,New Patty,Italy,1719-12-21,Karahaven,Turkey
+Mark,Michael,Brennan,F,1703-07-22,South Robertfurt,Bahrain,1729-11-20,North Elizabeth,Monaco
+Tyler,Thomas,Sanchez,F,1688-09-27,North Christopher,Antigua and Barbuda,1742-05-18,Gallowaymouth,Isle of Man
+John,Rebecca,Carr,M,1727-12-12,Loriport,Lao People's Democratic Republic,1764-01-31,North Heidibury,United States Virgin Islands
+Richard,Brittany,Black,F,1699-07-18,West Kathyville,Zambia,1755-09-17,Lake Christopher,Norfolk Island
+James,Dustin,Simmons,M,1690-05-08,West Kevinfort,Montenegro,1698-07-07,South Daniellechester,Gabon
+Dwayne,Paula,Fox,M,1764-05-28,Emilymouth,Costa Rica,1846-11-27,Lake Michaelaside,Saint Lucia
+Tracy,Emily,Garrison,M,1766-03-03,Hernandezchester,Cameroon,1848-11-10,Gabrielbury,Holy See (Vatican City State)
+Ronald,Sylvia,Woodard,F,1728-10-10,Donaldport,China,1851-09-26,West Makayla,Solomon Islands
+Alejandro,Elizabeth,Young,M,1719-03-03,Lake Kelsey,Rwanda,1828-10-09,Lake Nathanielberg,Israel
+Kyle,Judy,Jones,M,1768-02-24,Lake Davidborough,Argentina,1855-08-29,Port Jonathan,Guadeloupe
+Ryan,Amanda,Oliver,M,1732-01-10,Thomasville,Uzbekistan,1792-12-17,East Matthew,Portugal
+Earl,Kimberly,Arroyo,M,1748-01-02,Martinezmouth,Iceland,1780-10-23,New Malikland,Brunei Darussalam
+Kevin,Hunter,Mejia,M,1683-03-10,West Troy,Kyrgyz Republic,1812-05-02,North Jacqueline,Paraguay
+Earl,Victor,Richardson,M,1710-09-12,Muellerland,Moldova,1771-07-07,East Michaelfurt,Western Sahara
+John,Pamela,Vasquez,F,1768-07-12,Roberthaven,Grenada,1911-01-12,Port Christineborough,Israel
+Rodney,David,Peters,F,1716-11-24,Phillipsfort,Ecuador,1810-05-05,East Gabriel,Guernsey
+Tyler,James,Meyer,M,1713-08-08,Lake Kevin,Malaysia,1753-11-02,East Eric,Guernsey
+Robert,Alexis,Johnson,F,1759-06-20,Ortizland,United States Minor Outlying Islands,1830-09-05,Port Ronaldfurt,Guatemala
+Michael,Samuel,Baker,M,1698-04-01,New Brian,Pakistan,1793-04-07,Timothyside,Micronesia
+James,Anne,Calderon,M,1745-01-19,Chelseabury,Martinique,1763-02-18,Collinsburgh,Jersey
+Robert,Dawn,King,F,1688-06-26,East Ronald,Burkina Faso,1750-05-01,East Nicoletown,Comoros
+William,Amanda,Tran,M,1715-01-31,Stevenhaven,Cocos (Keeling) Islands,1720-12-28,West Edwin,Ecuador
+David,Priscilla,Jones,M,1717-05-04,North Kristenstad,Saint Martin,1838-11-28,South Rebecca,British Indian Ocean Territory (Chagos Archipelago)
+Bob,Shaun,Rogers,F,1757-08-07,Schmidtfort,Lebanon,1866-11-25,Michaelfurt,Holy See (Vatican City State)
+Christopher,Amber,Terry,M,1715-06-17,New Veronicaville,Jamaica,1751-01-05,Crystalville,Mali
+Thomas,Anita,Jensen,F,1750-05-25,Carolfurt,Tokelau,1784-11-02,South Gregory,Haiti
+Matthew,Leah,Conrad,M,1705-11-15,Taraburgh,Portugal,1818-04-01,Tammyshire,Guernsey
+Charles,Emily,James,F,1752-11-19,East Gerald,Mauritius,1809-10-22,Phillipsstad,Mali
+Brandon,Kyle,Garner,M,1755-06-22,Shafferfurt,Finland,1844-07-14,Emilymouth,Antigua and Barbuda
+Jason,Katherine,Brady,M,1772-02-29,Lynnmouth,Lithuania,1815-03-13,Martinmouth,Latvia
+Christopher,Lori,Myers,F,1699-12-19,Contreraschester,Estonia,1781-08-26,Johnsonland,Nigeria
+Luis,William,Clark,F,1698-06-18,Michaelland,Saint Martin,1838-10-06,Andrewsside,Comoros
+Jonathan,Carrie,Lewis,M,1673-04-15,Beanstad,Mozambique,1719-10-31,Snyderchester,Gabon
+Bruce,Jennifer,Nolan,M,1750-08-12,Smithland,Hungary,1895-07-01,West Toddmouth,Isle of Man
+Brandon,Kimberly,Booker,M,1678-08-31,New Carlos,Cyprus,1819-07-24,Greenland,Canada
+James,Matthew,Anderson,F,1722-05-15,Aguirremouth,El Salvador,1811-04-21,Thomasberg,Korea
+Brandon,Bradley,Morales,M,1717-06-10,Alexisburgh,Tajikistan,1764-12-08,Derrickport,Nicaragua
+Tyler,Maurice,Smith,M,1679-12-21,Smithchester,Bhutan,1685-02-16,Jeremiahshire,Central African Republic
+Paul,Brett,Garcia,F,1744-06-21,Frankstad,Hong Kong,1758-07-08,East Stephenmouth,Mongolia
+Zachary,Gina,Johnson,M,1753-02-22,East Luisberg,United States Virgin Islands,1868-08-04,North Daniellefurt,Burkina Faso
+Kyle,Todd,Massey,M,1687-02-28,Perryville,Ghana,1728-10-04,Morrowhaven,Reunion
+Mark,Elizabeth,Benjamin,M,1751-06-02,West Haileystad,Djibouti,1848-01-07,Hallbury,Tonga
+Andrew,Cody,Mitchell,M,1741-10-30,Kimmouth,Heard Island and McDonald Islands,1841-03-12,Lake Johnbury,Ireland
+Vincent,Manuel,Stafford,F,1694-08-09,Randolphberg,Dominican Republic,1818-07-03,Kimstad,Macao
+Connor,Lauren,Miles,F,1757-03-04,Davidfurt,France,1870-12-08,South Christian,American Samoa
+Joseph,Gina,King,M,1682-03-04,South Jesuston,Senegal,1771-03-31,Harrisonton,Finland
+Brian,Shawn,Harris,M,1752-09-01,Amandafurt,Liechtenstein,1885-11-12,New Kristina,Ukraine
+Michael,Teresa,Ballard,M,1714-09-14,Rubenstad,Lithuania,1740-03-30,Dianeshire,Switzerland
+Elijah,Denise,Miller,F,1748-02-14,West Sarahchester,Zambia,1779-08-11,Ryanshire,United States of America
+Donald,Pamela,Mann,F,1773-01-07,Coreychester,Saint Kitts and Nevis,1906-06-03,Josephmouth,China
+Timothy,Jason,Aguilar,F,1674-01-11,Juliaside,Sao Tome and Principe,1774-09-05,East Anthony,Canada
+Thomas,Elizabeth,Aguilar,M,1712-04-16,West Abigail,United Kingdom,1829-03-27,East Patriciaport,Mauritius
+Jeffery,Lisa,Thomas,F,1707-09-19,Nicholasberg,New Zealand,1775-07-17,Luisville,Congo
+Alexander,John,Hicks,M,1679-05-06,Ortizhaven,Netherlands,1790-09-28,Lake Edward,Tokelau
+Michael,Cody,Woods,M,1764-04-25,West Jason,Netherlands,1900-09-03,Kevinfort,Vietnam
+Ryan,Teresa,Brown,M,1725-09-02,Hunterhaven,Peru,1809-02-19,South Charlesberg,Congo
+Brandon,Robert,Alvarado,M,1763-02-14,New Brandonfurt,Korea,1805-06-12,New Alexis,Kazakhstan
+Ian,Katherine,Martin,F,1714-11-19,New Hollyfurt,Equatorial Guinea,1759-01-22,Teresastad,Madagascar
+Paul,Cynthia,Reynolds,F,1733-05-23,Port Jeremiahchester,Palestinian Territory,1814-05-10,South Christopherland,Ecuador
+Matthew,Annette,Farrell,M,1760-04-02,Lake Dennisstad,Nicaragua,1772-07-19,Lake Paulburgh,Estonia
+Charles,Ryan,Harrison,M,1688-08-27,South James,Argentina,1806-08-22,Tracyport,Colombia
+Jacob,Justin,Young,F,1770-08-18,Aliciaville,British Indian Ocean Territory (Chagos Archipelago),1827-06-12,New Carlamouth,Saint Barthelemy
+Cody,Howard,Shah,F,1702-11-28,New James,Singapore,1762-02-27,Williamsfurt,Monaco
+Colton,Michael,Ramos,F,1760-09-15,Lake Kendramouth,Afghanistan,1868-03-28,Paulstad,Bulgaria
+Eric,Jill,Anderson,M,1707-05-21,Port Rachelberg,Reunion,1805-02-05,Singletontown,Lao People's Democratic Republic
+Daniel,Brian,Walker,M,1755-02-14,New Brian,Iceland,1835-04-25,Yangview,Niger
+Dennis,Margaret,Rice,M,1720-09-08,South Deanna,Heard Island and McDonald Islands,1751-02-19,Douglashaven,Gambia
+Michael,Henry,Hampton,F,1769-06-20,Port Carlos,Malaysia,1855-05-22,East Keithville,Slovakia (Slovak Republic)
+Robert,Jessica,Manning,F,1690-07-19,Daveberg,Oman,1791-05-03,Spencershire,Hong Kong
+Matthew,Lee,Yang,F,1755-09-06,New Jenniferhaven,Timor-Leste,1777-11-13,New Matthew,Saint Pierre and Miquelon
+Gregory,Jose,Nelson,M,1768-02-23,Hannahfurt,San Marino,1917-11-25,Woodsfort,Palau
+Alexander,Bryan,Gonzalez,F,1706-06-09,East Charlesborough,Jersey,1768-10-26,Jamesmouth,Brazil
+Nicholas,Michael,Martinez,F,1770-09-12,West Francesfurt,Saint Lucia,1883-09-25,Cameronshire,Cyprus
+Richard,Kevin,Miller,M,1762-04-11,Johnnyport,Uruguay,1847-03-27,Dustinburgh,Guadeloupe
+Joseph,Tina,Jensen,M,1762-12-30,Sanchezbury,Montserrat,1777-07-05,Margaretland,Yemen
+Brian,Jessica,Whitney,M,1772-12-02,West Davidton,Guinea-Bissau,1871-10-14,Patrickmouth,Madagascar
+David,Courtney,Chavez,F,1771-07-08,East Monica,Suriname,1898-09-24,New Thomasmouth,Malaysia
+John,Lauren,Rivera,M,1691-09-19,Danieltown,United Arab Emirates,1774-01-11,North Desireefurt,Belarus
+Benjamin,Paula,Nelson,F,1747-08-31,Smithview,Uzbekistan,1814-06-29,Snyderchester,Venezuela
+Thomas,Anna,Williams,F,1745-06-14,Lake Jennifer,Svalbard & Jan Mayen Islands,1777-06-13,Hortonburgh,Saint Lucia
+Andrew,Robert,Oconnor,M,1745-01-23,Ramirezside,Iran,1839-04-02,Scotthaven,Paraguay
+Allen,Sheila,Miller,M,1695-05-14,West Tamaraland,Congo,1775-06-21,Christophermouth,United States Minor Outlying Islands
+Nathan,John,Dominguez,M,1690-04-12,Port Rebeccatown,Tokelau,1800-01-26,Popeland,Sierra Leone
+Thomas,Paul,Melendez,F,1765-06-28,Port Jorgeberg,Djibouti,1767-09-22,Port Jennifer,Gabon
+Daniel,Erica,Phillips,F,1721-09-04,Meyerview,Oman,1795-03-01,West Allenmouth,Nepal
+Robert,Laura,Sanchez,M,1748-06-26,South Victoriafort,Antarctica (the territory South of 60 deg S),1838-05-04,South Cassandra,Dominican Republic
+Bryan,Kevin,Rodriguez,M,1702-04-30,East Williamland,Mexico,1748-11-18,North Kathy,Greece
+Kenneth,Austin,Todd,M,1679-06-10,West Aaron,Cayman Islands,1799-06-04,Maddoxport,Iraq
+David,Bryan,Harris,M,1699-06-14,North Christopherland,Vietnam,1839-06-26,East Monicaborough,Greece
+Blake,Paul,Jefferson,M,1743-03-29,West Marilynshire,Sweden,1754-04-26,East Marychester,United Kingdom
+Jeffrey,Christie,Huerta,M,1741-04-17,North Anthonyton,Cocos (Keeling) Islands,1886-09-07,North Jessicaton,British Virgin Islands
+Robert,Kelly,Whitehead,M,1723-02-23,Carlosville,Congo,1822-01-03,Port Michaelborough,Solomon Islands
+Mark,Samantha,Flores,F,1764-12-20,Scottton,Bouvet Island (Bouvetoya),1843-10-30,Jamestown,Zimbabwe
+Travis,Jennifer,Roach,F,1756-06-02,Jamesbury,Guernsey,1801-05-28,Terranceton,Ireland
+Willie,Tonya,Brown,F,1702-03-20,New Laurie,Turks and Caicos Islands,1742-02-25,Romeromouth,French Southern Territories
+Eric,Heather,Bauer,F,1680-09-16,Andreabury,China,1762-08-19,Josehaven,Grenada
+Alexander,Matthew,Johnson,F,1710-04-10,South Bryantown,Liechtenstein,1728-03-02,South Cynthiafurt,Iran
+John,Sabrina,Cooper,F,1689-12-06,Annashire,Belgium,1830-12-29,Nicholsview,Mauritania
+Michael,Walter,Phillips,M,1714-10-31,North Alexander,Guyana,1783-10-08,Ronaldfort,Christmas Island
+Kevin,Holly,Duffy,F,1702-03-25,Wheelerberg,Madagascar,1731-09-08,West Jasontown,Belarus
+Christopher,Stephanie,Foley,F,1687-08-29,Brentburgh,Bermuda,1802-06-12,Morganmouth,Czech Republic
+Nathan,Benjamin,Lyons,F,1721-09-07,West Jacobhaven,Monaco,1745-03-03,Barbaraberg,North Macedonia
+Travis,Daniel,Haney,F,1768-11-30,South Josephfurt,Korea,1789-09-14,Liuville,Jordan
+Brian,Nancy,Ruiz,M,1710-05-14,Kyliemouth,Colombia,1796-05-24,Ashleyton,Finland
+Alex,Thomas,Ferguson,M,1683-01-02,New Michaelberg,British Virgin Islands,1690-03-13,Lake Matthewmouth,Chile
+Michael,Jeremy,Hicks,M,1724-05-08,Lake Emilyburgh,Peru,1810-06-11,Chapmanshire,Iran
+Richard,Alexander,Simmons,M,1681-05-03,Caldwelltown,Guam,1728-07-17,North Robert,Grenada
+Edward,Leonard,Young,M,1718-02-15,Nguyenton,Seychelles,1852-04-12,East Michelleburgh,Poland
+Chad,Craig,Johnson,F,1758-12-08,North Richardfurt,Saint Pierre and Miquelon,1827-10-19,Villanuevatown,Congo
+Steven,Regina,Franklin,F,1735-10-18,Lake Michael,Portugal,1738-02-08,Woodland,Lithuania
+Calvin,Evan,Neal,M,1699-12-31,East Lauren,Tanzania,1736-06-16,New Michael,Barbados
+Wesley,Timothy,Miller,F,1717-01-23,Lake Amy,Uruguay,1740-05-21,South John,Albania
+Luke,Cheryl,Riley,F,1700-05-29,Lake Aaronstad,United States Virgin Islands,1759-04-18,Reedborough,New Caledonia
+Jimmy,Elizabeth,Salas,F,1765-09-21,South Davidtown,Uganda,1780-06-29,Marqueztown,Saint Kitts and Nevis
+Brandon,Brent,Buchanan,M,1743-04-18,Lake Nicoleburgh,Qatar,1776-09-24,Alexshire,Kyrgyz Republic
+Ian,Michael,Holt,F,1679-11-02,Jasonmouth,Russian Federation,1711-10-12,Lowerystad,China
+Logan,Alan,Novak,F,1752-07-14,Mcbrideville,New Caledonia,1870-02-28,Caseytown,Wallis and Futuna
+James,Bryan,Garcia,F,1694-07-30,East Allisonport,Serbia,1796-03-04,New Brenda,Angola
+Barry,Robert,Ryan,F,1767-08-21,Lake Aaron,Faroe Islands,1886-01-24,North William,Northern Mariana Islands
+Michael,Jamie,Grimes,F,1742-09-25,North Ricky,Dominica,1830-03-17,West Troy,Korea
+Maurice,Kristen,Curtis,F,1751-11-02,Parkschester,Greece,1853-03-11,Justinhaven,Montserrat
+Jorge,Wayne,Brown,F,1738-09-19,South Jamie,Cyprus,1765-04-04,Longtown,Falkland Islands (Malvinas)
+Christopher,Molly,Cook,M,1751-07-26,South Danielle,Congo,1760-04-29,Seanport,Palestinian Territory
+David,Teresa,Sandoval,F,1698-02-12,Karenhaven,Saint Kitts and Nevis,1823-08-26,Robertburgh,Bangladesh
+David,Mark,Nguyen,M,1674-03-26,East Tyler,Taiwan,1688-12-21,East Gabriel,Nicaragua
+Larry,Samuel,Walker,M,1744-08-15,Heberthaven,United Kingdom,1872-02-14,North Jennifer,Sao Tome and Principe
+Dennis,Jennifer,Hicks,M,1715-07-17,New Brentfort,Japan,1806-12-07,Stokesville,Cuba
+Joshua,Renee,Jones,F,1750-02-10,Port Jenniferbury,Azerbaijan,1898-07-05,Port Sharon,Argentina
+Joshua,Jessica,Davis,F,1765-11-27,Port Jeremymouth,China,1823-01-10,Lake Joshua,Qatar
+Jason,Andrew,Hurst,M,1675-07-20,Nicoleport,Wallis and Futuna,1732-07-12,Port Melissatown,Romania
+Andrew,Sheila,Moss,F,1691-12-05,Valerieville,Niger,1795-04-21,Melaniechester,Korea
+David,Alison,Griffith,M,1687-06-06,Jameschester,Isle of Man,1721-10-25,Daltonland,Poland
+Charles,Angela,Garrett,F,1746-07-08,Jonesview,Western Sahara,1811-11-01,North Codymouth,Western Sahara
+Joseph,Amanda,Pearson,M,1686-09-12,Sarahborough,Chile,1740-02-07,East Amandabury,Tonga
+Justin,Billy,Gilbert,F,1750-08-20,Chadville,Montenegro,1894-04-21,New Cheryl,Cook Islands
+Alexander,Carlos,Esparza,M,1728-04-10,Port Jamesburgh,Pitcairn Islands,1796-04-26,Susanborough,Saudi Arabia
+Darren,Laura,Gonzalez,F,1716-11-09,New Williamside,French Guiana,1741-05-29,West Janet,Saint Lucia
+Christopher,Heather,Franklin,F,1701-05-27,Gouldland,Guinea,1743-02-10,Port Sherry,Vanuatu
+Robert,Jonathan,Kelly,F,1722-01-09,New Daniel,Angola,1736-12-30,Welchview,Ireland
+Brian,Gary,Wells,M,1729-05-01,Port Beverly,Benin,1843-11-23,Ericmouth,Mauritania
+Jonathan,Felicia,French,F,1774-01-02,Masonborough,Liberia,1888-03-24,West Calvin,Pakistan
+Anthony,Kristen,Thompson,F,1774-02-06,New Cherylton,Hungary,1834-07-21,West Michelleborough,Afghanistan
+Henry,Kathy,Paul,M,1760-09-07,North Mackenziechester,Vanuatu,1783-10-11,West Rita,Cocos (Keeling) Islands
+Shawn,Claire,Hernandez,M,1678-02-20,Michelleberg,Saint Barthelemy,1700-04-13,North Angelaberg,Liberia
+David,Ryan,Patterson,F,1682-01-07,Kimberlyburgh,Venezuela,1703-12-09,Joshuafurt,Italy
+Christopher,Barbara,Walker,F,1678-04-14,Petersville,Martinique,1721-11-05,Samanthaton,Saint Martin
+Kevin,Stephanie,Young,F,1716-11-16,Seanbury,Saint Lucia,1861-03-10,Lake Kevinfurt,South Africa
+Luis,Gabriel,Walters,M,1676-04-26,Johnstonmouth,Bermuda,1789-10-05,Port Jonathan,Israel
+Daniel,Adam,Wall,F,1703-11-23,Allenhaven,Austria,1825-12-03,North Mitchell,Kuwait
+Andrew,Walter,Turner,M,1722-01-08,Camerontown,Taiwan,1789-05-20,Lake Julie,Jamaica
+Jesse,Andrew,Carpenter,F,1770-01-08,New Steven,Nigeria,1901-01-31,Thompsonton,Yemen
+Thomas,Joan,Delgado,M,1753-07-12,Lesterton,Rwanda,1772-05-04,Brandonville,Djibouti
+Hunter,Robert,James,F,1719-09-12,Bethville,Belarus,1858-11-27,Matthewsstad,Tunisia
+Christopher,Betty,Barron,M,1722-01-12,Samueltown,Netherlands Antilles,1747-03-13,Jeannemouth,British Virgin Islands
+Jose,Kimberly,Mccoy,M,1769-03-07,West Sarahhaven,China,1838-11-09,Ramirezfurt,Hungary
+Darren,Leslie,James,M,1750-04-23,New Michael,Bhutan,1751-12-12,South Shane,Congo
+Raymond,Thomas,Johnson,M,1729-04-30,Deborahstad,Vanuatu,1827-12-17,Williamshaven,Jordan
+Matthew,Brittany,Matthews,F,1737-11-14,North Garrettland,North Macedonia,1855-09-13,Davidshire,Iraq
+Aaron,Michael,Smith,F,1694-01-19,South Todd,Samoa,1836-05-05,Greenfort,Comoros
+William,Amber,Hester,M,1695-01-05,Nguyenborough,Bolivia,1745-07-28,Lake Blake,Armenia
+Jared,David,Smith,M,1734-01-09,Leestad,Benin,1808-07-22,Heathermouth,Mali
+Timothy,Lisa,Smith,F,1765-01-01,South Michael,Costa Rica,1894-09-27,North Joshua,Bolivia
+Joseph,Michael,Chen,F,1736-01-08,Robertchester,Marshall Islands,1836-08-13,Williammouth,Antarctica (the territory South of 60 deg S)
+Douglas,Brian,Phillips,M,1742-02-25,Port Daniel,Estonia,1751-02-09,Anitachester,Uruguay
+Benjamin,Rebecca,Castro,M,1723-03-23,Sotochester,Saint Barthelemy,1753-10-14,New David,Bolivia
+Alexander,Tiffany,Charles,F,1679-12-24,South Amyton,Cameroon,1770-06-22,West Chase,Puerto Rico
+Ronald,Mike,Mendoza,M,1746-07-19,Beckerfurt,Papua New Guinea,1892-10-09,Tyroneview,Moldova
+Kenneth,Holly,Maldonado,F,1735-08-02,New Michelle,Lebanon,1822-12-26,Ericmouth,Nepal
+Kevin,Jennifer,Tanner,M,1760-06-03,Jamieton,Jersey,1829-09-08,South Renee,Faroe Islands
+Matthew,Dean,Walter,F,1681-03-15,Smithfort,Tunisia,1749-12-18,Michaelville,Turkmenistan
+Thomas,Travis,Jackson,F,1741-11-08,South Brittanybury,Gibraltar,1836-05-04,Kevinborough,Sri Lanka
+Eric,David,Simmons,M,1739-11-19,Lorifurt,Cote d'Ivoire,1863-08-03,Victoriaberg,Nicaragua
+Cody,Michael,Bradshaw,F,1760-07-23,East Maryton,Malta,1765-08-01,Micheletown,Korea
+Roger,Brittney,White,M,1674-12-12,West Ianchester,Uruguay,1722-09-07,Ochoabury,Tajikistan
+Scott,Nicole,Porter,M,1773-04-12,South Alexmouth,Tunisia,1790-05-22,Lake Stephenland,Turkmenistan
+Eric,Nicholas,Medina,F,1716-02-14,Williamfurt,Ethiopia,1761-09-10,Alejandroville,Singapore
+Michael,Austin,Mullins,M,1739-05-20,Mayerchester,Haiti,1865-02-26,Saraton,Trinidad and Tobago
+Jeffrey,Crystal,Sanchez,M,1717-09-15,West Jennifer,Moldova,1840-01-16,Jessicaport,Chile
+Ronald,Connie,Rivera,F,1706-09-01,Priceville,Norfolk Island,1850-03-23,Lake Laura,Palestinian Territory
+Daniel,Margaret,Thompson,F,1683-06-28,West Chelsea,Yemen,1703-02-20,Andersonshire,Iraq
+Bruce,Maria,Ayers,M,1716-07-13,North Jennifer,Holy See (Vatican City State),1778-09-09,Jacobstad,Finland
+Jonathan,Brianna,Howard,F,1694-02-11,East Brandon,Vanuatu,1752-05-27,New Alan,Saint Vincent and the Grenadines
+Joseph,Jon,Richardson,F,1761-11-18,Laneborough,Slovenia,1877-03-15,South Amber,Ukraine
+Matthew,Rachel,Hudson,F,1688-01-21,Port Debraport,Greece,1692-12-07,New Angela,Falkland Islands (Malvinas)
+Eric,Chase,Tucker,M,1742-01-20,Steelechester,Peru,1772-11-05,Port Travis,Luxembourg
+John,Meghan,Martinez,F,1740-09-30,Hendricksbury,North Macedonia,1778-10-22,Medinastad,Norfolk Island
+Daniel,Katie,Greer,M,1738-10-08,South Lindsey,Costa Rica,1781-09-29,Lake Bianca,India
+Alex,Timothy,Smith,M,1699-11-13,Lake Joe,Luxembourg,1845-07-17,Brianland,Hong Kong
+Nicholas,Daniel,Holmes,M,1771-05-15,Pattersonville,Paraguay,1870-02-24,Reedfurt,Guam
+Gregory,John,Williams,M,1683-03-11,New Mariaberg,Finland,1773-10-31,Willieshire,Saint Pierre and Miquelon
+John,Jasmine,Jackson,M,1699-04-10,Sheltonmouth,Venezuela,1740-07-07,Theresaville,Zambia
+Juan,Cindy,Lopez,F,1754-06-25,New Zachary,Moldova,1883-10-15,Amandastad,Guinea-Bissau
+David,Jacqueline,Vaughan,F,1712-05-14,Latoyaland,Guernsey,1819-03-17,South Teresaside,Cameroon
+Randy,Kimberly,Ramos,M,1750-06-05,East Joseph,Montenegro,1848-09-04,South Margarettown,Canada
+Juan,Sara,Davis,F,1762-01-07,Garciaborough,Belize,1846-01-17,Mariaborough,Congo
+Jeffrey,Zachary,Haley,M,1724-11-01,North Ryanhaven,Tajikistan,1836-01-20,Lake Rebecca,Belize
+John,Christopher,King,F,1721-07-15,Port Rose,Kenya,1826-08-19,Welchport,South Georgia and the South Sandwich Islands
+Albert,Carolyn,Thompson,F,1684-08-13,West Amber,Finland,1791-11-09,Kaylamouth,Sri Lanka
+Michael,Craig,Garcia,M,1771-03-06,East Haroldshire,Madagascar,1874-09-05,Lake Raymondland,Nepal
+Christopher,Brent,Bradley,F,1720-03-08,Susanfort,Singapore,1829-09-09,Port Amanda,Niger
+Kevin,Yesenia,Mitchell,F,1678-09-11,Gainesview,Heard Island and McDonald Islands,1826-07-20,Lake Dawnbury,Dominica
+Robert,Heather,Griffin,F,1683-07-21,Stephanieborough,Northern Mariana Islands,1707-08-13,West Jeremyborough,French Southern Territories
+Johnathan,Lauren,Morales,M,1741-01-27,North Jeffstad,South Africa,1817-05-27,East Jeffrey,Serbia
+Andrew,Anthony,Dickson,M,1714-11-09,Rachelstad,Syrian Arab Republic,1781-06-15,South Lindsey,French Southern Territories
+David,Anthony,Perez,M,1758-09-27,Villanuevaborough,Antigua and Barbuda,1857-11-22,New Holly,Guyana
+Harold,Jeremiah,Lee,F,1740-01-12,East Lucas,Togo,1757-10-07,Sherrytown,Congo
+Michael,Jason,Palmer,M,1694-04-26,Port Monica,Macao,1727-12-26,North Michelle,Botswana
+Shane,Mathew,Hernandez,F,1718-02-04,Port Johnborough,Puerto Rico,1860-05-22,West Amandaville,Qatar
+Andrew,Alexander,Porter,M,1697-01-25,Hawkinsberg,Netherlands Antilles,1812-04-23,New Michaelhaven,Cayman Islands
+Randy,Gary,Gates,F,1688-01-02,Jacksonbury,Slovakia (Slovak Republic),1770-11-14,Lopezville,Marshall Islands
+Andrew,Nicholas,Hobbs,F,1712-05-18,Port Kyleborough,Eritrea,1733-01-07,Lake Jeffrey,Korea
+Joseph,Yvonne,Fernandez,F,1732-05-21,Port Jessica,Argentina,1746-11-10,Lake Meganmouth,Paraguay
+Gerald,Corey,Flores,M,1716-04-12,New Lee,Lithuania,1843-04-09,Joelhaven,Egypt
+Gerald,Bryce,Morales,F,1755-12-13,Lake Pamelaland,Canada,1801-02-27,Englishborough,Nauru
+Richard,Antonio,Steele,M,1756-10-02,Wellsview,French Southern Territories,1806-08-15,Port Sandra,Burundi
+Jackson,Beverly,Garcia,M,1673-06-01,Lake Pam,Italy,1751-05-24,Haleybury,Togo
+Patrick,Cody,Gallagher,M,1742-11-10,Robertbury,Iraq,1785-03-16,North Haley,Greece
+Robert,Michelle,Carpenter,M,1684-09-28,Lake Randyland,Benin,1815-04-19,Tinashire,French Guiana
+Stanley,Sonia,Drake,F,1741-11-30,Lake Christine,Jersey,1786-06-26,Proctorview,Zambia
+Jason,Frank,Mccoy,M,1771-12-30,New Ryan,Denmark,1866-11-12,Paulshire,Greenland
+Gene,Crystal,Jones,F,1698-08-04,South Brandonstad,Armenia,1792-09-12,Jamesfurt,Belize
+Frank,Steven,Russell,M,1753-08-18,Lake Dalton,Bahrain,1833-08-27,North Raymondview,Croatia
+Christopher,Caroline,Smith,M,1709-08-12,Millerstad,Gambia,1846-10-18,Paceland,Aruba
+Dean,Pamela,Garcia,M,1770-10-22,Langchester,Cambodia,1794-01-22,Michaelfort,Sweden
+Austin,Troy,Olson,M,1717-04-19,Port Allisonmouth,Jordan,1799-12-15,Lisamouth,Iraq
+Robert,Nicole,Smith,F,1711-05-10,Lake Kelsey,Thailand,1796-10-06,Morganmouth,Gambia
+Robert,Erin,Adams,M,1679-11-12,West Kimberly,Mayotte,1743-01-17,East Andrea,American Samoa
+Douglas,Gregory,Krause,F,1708-01-25,Lake Kristen,Dominica,1756-05-02,North Brian,Nicaragua
+William,Oscar,Wade,M,1765-11-19,East Jacqueline,Burundi,1846-09-10,Claudiatown,United Arab Emirates
+Dan,Alexander,Ford,F,1676-06-21,Cameronberg,Zimbabwe,1758-01-04,East Angela,Kyrgyz Republic
+Mark,Justin,Mcguire,M,1737-07-31,New Daniellestad,Palestinian Territory,1865-10-14,South Amandamouth,Saint Barthelemy
+Mark,Carl,Bruce,M,1706-01-03,East Stephanieton,Gambia,1807-07-01,Nathanburgh,Angola
+Matthew,Kim,Valenzuela,M,1768-09-27,Christinafort,Thailand,1907-07-06,South Edwardhaven,Nicaragua
+Sean,Barbara,Ortiz,M,1683-04-18,Melissastad,Rwanda,1707-11-30,Kyliemouth,Guinea
+John,Jennifer,Ayala,F,1732-07-09,North Shaneland,Nicaragua,1818-04-29,Jessicaton,Sierra Leone
+Martin,Christopher,Hunter,F,1725-04-13,Theresachester,Syrian Arab Republic,1815-11-24,New Kristopher,Mayotte
+Joe,John,Patel,F,1683-10-12,East Richardville,Nauru,1790-02-23,Deborahbury,Pakistan
+Cory,Laura,Hammond,M,1761-01-24,Sanchezburgh,Kyrgyz Republic,1835-05-19,Robertshire,Ethiopia
+Kevin,Rodney,Chapman,F,1768-02-19,East Kristinafort,Hong Kong,1859-10-18,North Noah,Brazil
+Keith,Thomas,Case,F,1758-05-20,North Jamesburgh,Burundi,1865-06-15,Lake Courtney,India
+Ronald,Ashley,Harrington,M,1732-08-04,Lake Sandra,Western Sahara,1869-04-01,Goodmantown,Oman
+Robert,Ashley,Bowman,M,1755-09-01,Lake Briantown,Albania,1761-07-12,Evelynfort,Jordan
+David,Margaret,Smith,M,1687-11-06,Moralesburgh,Nicaragua,1729-03-05,Hallland,Turkmenistan
+Carlos,Elizabeth,Buckley,F,1698-03-29,Kellyberg,France,1720-07-09,Milesberg,Western Sahara
+Charles,Joshua,Sexton,M,1741-06-04,Kathrynfurt,Sierra Leone,1880-11-07,West Carloston,Switzerland
+Joseph,Jason,Beck,F,1755-04-10,Lake Beth,Serbia,1843-07-13,West Timothy,Costa Rica
+Jesse,Jennifer,Olsen,M,1727-12-05,Farrellland,Macao,1875-03-03,South Anthonyshire,Seychelles
+Tony,Justin,Morrow,F,1714-04-22,East Shelby,Equatorial Guinea,1812-11-10,Stephaniechester,Cayman Islands
+John,Bethany,Lopez,M,1727-11-02,Thomasport,Wallis and Futuna,1852-01-20,Lake John,Vietnam
+Patrick,John,Baldwin,F,1687-11-06,Caseyberg,Ethiopia,1704-05-01,Jonesburgh,Israel
+Edward,Lisa,Baker,M,1737-09-15,West Austin,Armenia,1819-03-17,Port Derek,Costa Rica
+Brett,Marc,Davis,M,1694-06-21,Christopherburgh,Vietnam,1785-07-07,Andreachester,India
+Marcus,Derek,Bishop,M,1681-06-05,East Amanda,Niue,1810-12-08,Lake Johnmouth,Belize
+Ryan,Dawn,Aguilar,M,1747-04-19,Marksville,Afghanistan,1855-12-14,North Gabrielafort,Lesotho
+Michael,Ashley,Baker,F,1698-12-25,South Karabury,Isle of Man,1758-04-27,Andrewshire,Luxembourg
+Nathan,Elizabeth,Diaz,M,1685-11-02,West Johnny,Venezuela,1771-02-28,Zhangton,Antarctica (the territory South of 60 deg S)
+Louis,Alicia,Wood,M,1733-05-08,Emilymouth,Lebanon,1751-07-25,Frenchburgh,Cambodia
+Aaron,Nathan,Davis,F,1687-07-10,West Christian,Honduras,1761-06-29,Barnettstad,Paraguay
+Michael,Brian,Moore,M,1688-01-06,Port Scott,Cayman Islands,1794-11-15,Jamesberg,Holy See (Vatican City State)
+Tommy,Jessica,Ray,F,1723-02-15,East Elizabeth,Sao Tome and Principe,1749-01-28,Lake Daniel,Bhutan
+Vincent,Victoria,Rogers,F,1696-02-27,Susantown,Vietnam,1749-06-10,South Deborah,Cyprus
+James,Bradley,Schaefer,M,1731-11-17,Jamesfort,Malta,1755-12-06,Caldwelltown,Uruguay
+Michael,Adam,Sullivan,F,1763-07-24,Lake Rodneyport,Papua New Guinea,1866-03-05,East Carlos,Maldives
+Samuel,Melissa,Hodge,M,1702-06-08,Burtonfurt,Isle of Man,1742-05-03,North Alicia,Niger
+Samuel,Sarah,Tucker,F,1688-03-13,Alisonview,Mayotte,1729-11-30,Williamland,Romania
+David,Brittany,Colon,M,1700-12-15,Port Lindsay,Pitcairn Islands,1730-07-08,Franklinland,Malta
+Kevin,Katherine,Collins,F,1690-06-17,Olsonburgh,Cote d'Ivoire,1819-08-15,Lake Mariamouth,Serbia
+Kenneth,Gregory,Hunter,F,1737-01-15,East Amberside,Argentina,1854-09-15,Grossview,Northern Mariana Islands
+Wesley,Rachel,House,F,1699-06-23,South Joshuamouth,France,1842-02-07,Erinburgh,Liberia
+Andrew,John,Russell,F,1762-02-26,Baileyside,Jamaica,1907-05-05,Davishaven,British Indian Ocean Territory (Chagos Archipelago)
+William,Lisa,Bailey,F,1764-07-25,North Ryanport,Congo,1825-02-08,Donaldview,Fiji
+Christopher,Shannon,Fletcher,F,1748-03-30,East Felicia,Burundi,1896-04-20,South Sydneyland,Saudi Arabia
+Samuel,Michele,Ramos,F,1741-12-21,North Laura,Sierra Leone,1845-11-10,New Jessemouth,Dominica
+Christopher,Samantha,Montgomery,M,1715-09-03,South Valerie,American Samoa,1739-07-25,South Nicole,Niue
+Michael,Susan,Medina,F,1763-04-26,South Ronald,American Samoa,1898-06-27,Victorialand,Malawi
+Todd,Jason,Turner,F,1755-05-08,Port Dawnfort,Guernsey,1762-03-05,South Frankhaven,Belize
+James,Diana,Peterson,M,1756-12-31,Taylorport,Colombia,1895-06-23,Heidihaven,Guernsey
+Paul,Ashley,Melton,M,1673-09-24,Lake Ambershire,Seychelles,1722-12-05,Ronaldmouth,New Caledonia
+Mitchell,Theresa,Ferrell,F,1712-09-21,Longshire,Iraq,1775-04-10,Christensenhaven,Mongolia
+Alvin,Amy,Watson,M,1767-08-24,Tyronemouth,Cape Verde,1889-06-28,Gordonton,Luxembourg
+Clinton,Jennifer,Gutierrez,M,1711-04-16,West Michaelside,Costa Rica,1813-03-11,Lake Alexandrafurt,Sri Lanka
+Jose,Sharon,Rose,F,1707-03-25,Heidiburgh,Poland,1732-05-20,West Jessica,Seychelles
+Paul,Jonathan,Herrera,F,1728-11-14,Benjaminside,Congo,1814-03-23,North Cody,Oman
+Kevin,Jack,Lin,F,1760-12-22,Hernandeztown,Jordan,1819-11-12,Lake Jaclyn,Greece
+Alexander,Lisa,Obrien,M,1726-02-23,Rogerchester,New Caledonia,1749-11-29,Gilmoreville,Switzerland
+Don,Sarah,Dominguez,M,1697-10-18,East Christine,Norfolk Island,1771-04-18,Robertside,Uzbekistan
+Todd,Angela,Lin,M,1693-04-30,South Travisberg,Belgium,1826-07-19,Port Pamelaland,Kenya
+Jonathan,Cynthia,King,F,1680-06-15,East Cynthiafort,Morocco,1828-09-20,Jeremyville,Sri Lanka
+Aaron,Kristina,Pittman,F,1770-11-04,Christineland,Romania,1779-01-30,Tammybury,Ireland
+Henry,Harry,Morris,M,1745-07-09,Paulstad,Hungary,1854-03-28,Smithfurt,Zambia
+Paul,Brittany,Woods,F,1687-03-04,South Lucas,Bhutan,1828-12-22,South Kristenstad,Algeria
+Dakota,Tina,Bryant,M,1691-12-12,Johnsonport,Timor-Leste,1812-11-22,Collinsborough,Afghanistan
+Timothy,Julie,Patel,F,1732-05-03,Tracyfurt,Djibouti,1877-11-14,Tiffanyburgh,Korea
+Anthony,Michael,Klein,F,1764-10-05,South Bill,Reunion,1899-06-21,Reynoldsberg,Oman
+Christopher,Sarah,Barnett,F,1717-11-16,Maxwellberg,Cyprus,1803-03-25,Masonshire,Western Sahara
+Kevin,Richard,Johnson,M,1767-06-07,Turnerchester,Belgium,1818-09-15,Port Desiree,Cape Verde
+Anthony,Karen,Mccarty,M,1740-10-23,Paulville,Congo,1855-09-27,Jamesmouth,Singapore
+Derek,Edwin,Nguyen,M,1731-06-08,Juliemouth,Morocco,1745-01-29,Port Danielle,Palestinian Territory
+Andrew,William,Kerr,M,1721-12-15,North Patricia,Georgia,1737-07-12,Brucebury,Trinidad and Tobago
+Edwin,Phillip,Wagner,F,1699-07-05,Mikebury,Maldives,1797-08-15,Nicholaston,United Kingdom
+Shane,Erin,Ray,M,1724-12-28,West Katherine,Morocco,1762-01-03,East Daniel,United States Virgin Islands
+Sean,Holly,Torres,F,1741-11-08,Rushbury,Micronesia,1761-08-28,South Danielchester,Montserrat
+Gerald,Amy,Richardson,M,1725-01-24,New Damon,Taiwan,1865-02-15,Port Lisa,Papua New Guinea
+Roger,Brian,Bell,F,1676-10-24,Timothychester,Turkmenistan,1722-06-25,West Joann,Bhutan
+William,Matthew,Walker,M,1682-07-05,Loribury,India,1792-04-17,North Melissa,Chad
+Larry,Brittany,Martin,F,1688-06-21,Port Travisbury,New Caledonia,1691-09-28,Cooleyberg,Mexico
+William,Collin,Howard,F,1763-04-25,South Jenniferbury,Gibraltar,1806-05-18,Tonybury,Qatar
+James,Megan,Vargas,F,1722-10-08,Port Donaldburgh,Chad,1862-04-27,Kyliemouth,China
+John,Rebecca,Buchanan,M,1751-08-18,Leeborough,Jersey,1866-03-27,Nicolemouth,Grenada
+Jonathan,Thomas,Andrews,F,1736-12-07,East Stacy,Switzerland,1847-02-07,Clarkehaven,Oman
+Dennis,Richard,Harris,M,1710-11-19,Changmouth,Antarctica (the territory South of 60 deg S),1742-01-24,Phyllisport,Niue
+Rodney,Grace,Mendoza,F,1683-11-06,Danielmouth,Nicaragua,1730-03-30,Lake Taylor,Cuba
+James,Caleb,Brooks,F,1693-10-18,Hudsonshire,Papua New Guinea,1829-05-04,Belltown,Mozambique
+Jesse,Brian,Reid,M,1755-01-25,Christopherstad,Tokelau,1819-08-17,Durhamborough,Iran
+William,Michael,Wolfe,M,1719-06-13,East Christineside,United States Virgin Islands,1863-01-02,North David,Anguilla
+Michael,Christian,Clark,F,1726-12-16,Joshuamouth,Cook Islands,1848-05-26,Port Douglasfurt,Micronesia
+Danny,Barbara,Ware,F,1731-11-06,South Robertborough,Kenya,1820-05-05,North Frank,Tanzania
+David,Patrick,Edwards,M,1727-05-01,Melaniefurt,Romania,1861-08-15,New Caitlyn,Lebanon
+Steven,Christina,Vazquez,F,1771-01-15,Cameronchester,Djibouti,1825-12-01,South Kelly,Liechtenstein
+Michael,Aaron,Fox,M,1735-06-24,Melendezfort,Jersey,1865-08-31,New Chad,Estonia
+Patrick,Carlos,Young,M,1697-07-03,Hartport,Liberia,1709-02-17,New Robert,Vietnam
+Jim,Lauren,Washington,M,1732-09-11,Lawsonside,Senegal,1854-04-09,Buchananview,Reunion
+Ralph,Denise,Stewart,F,1677-04-28,Middletonbury,Italy,1751-10-24,West Dominiquefurt,Cuba
+Jim,Ryan,Garcia,F,1700-11-29,Tracyville,Panama,1846-09-23,Lake Benjamin,Luxembourg
+Keith,Derrick,Kirby,F,1740-09-05,Lake Kimberly,France,1793-05-21,Wheelerton,Saint Martin
+Joshua,Lisa,Hill,M,1687-12-10,Toddview,Congo,1823-01-19,South Jenniferberg,Germany
+Curtis,Molly,Perez,F,1700-04-26,Carlsonstad,Costa Rica,1706-05-31,Johnstonmouth,Mexico
+Austin,Emily,Sandoval,F,1723-07-20,Millerfurt,Eritrea,1834-10-05,Lake Vickichester,Czech Republic
+Michael,April,Hebert,M,1674-11-04,Shannonchester,Macao,1810-02-01,West Denisetown,Mozambique
+Logan,Joseph,Thomas,F,1736-01-31,Mccormickmouth,Tokelau,1804-03-20,Port Phillip,Georgia
+Thomas,Amy,Williams,F,1738-09-07,Hubbardshire,Kuwait,1747-08-12,Tannerchester,Mexico
+Joseph,James,Brown,M,1701-10-24,Port Marco,Ghana,1763-02-16,East Jamesfurt,Moldova
+Luis,Manuel,Bush,M,1711-01-20,Emilyhaven,Northern Mariana Islands,1787-12-18,East Brianland,Fiji
+Brian,Melissa,Swanson,M,1699-10-24,North Edgar,Pakistan,1737-05-21,North Samuelbury,Gambia
+Jason,Dana,Perry,M,1708-04-25,South Lindsay,American Samoa,1837-10-20,North Kathryn,Panama
+Robert,Curtis,Jackson,M,1691-11-16,West Billyburgh,Estonia,1718-04-01,West Dustinberg,Switzerland
+Adam,Kyle,Ferguson,M,1693-03-15,Port Teresashire,Peru,1834-04-20,Sarahchester,British Indian Ocean Territory (Chagos Archipelago)
+Jesse,Rachel,Fitzgerald,M,1755-09-20,Port Aaron,Mali,1855-10-19,East Royshire,Anguilla
+Alexander,Melanie,Pearson,M,1758-05-17,Carloston,Macao,1907-02-19,New Brandon,Austria
+Dennis,Melissa,Skinner,M,1738-06-05,South Sharon,Christmas Island,1888-02-29,Rushmouth,Mayotte
+Jason,Christy,Allen,M,1717-07-09,West Alexis,Iran,1775-07-04,Lake Matthewchester,Maldives
+Alex,Lauren,White,F,1708-02-16,Waltontown,Costa Rica,1716-05-19,Irwinmouth,Ireland
+Kevin,Wendy,Mccullough,M,1700-10-22,Port Madison,Grenada,1746-11-13,West Robert,Taiwan
+James,Tracey,Flores,M,1742-05-30,West Dennis,Tokelau,1773-10-29,Navarrobury,Aruba
+Christopher,Zachary,Brown,F,1707-12-31,Claytonside,Comoros,1734-10-13,South Jeanneborough,Falkland Islands (Malvinas)
+Jeffery,Rebecca,Martinez,M,1773-09-07,Mcgeeside,Slovakia (Slovak Republic),1830-08-18,Pearsonfurt,Lesotho
+Thomas,Lisa,Rose,F,1745-10-12,Lynchshire,Palau,1788-11-19,Lake Josephshire,Palau
+Brandon,Kenneth,Hampton,F,1750-11-29,Hernandezview,Lebanon,1874-08-03,South Kelly,Lebanon
+John,Robert,Wright,F,1750-01-11,New Sean,San Marino,1769-10-20,Ericville,Thailand
+Samuel,Lucas,Watson,M,1705-08-07,Lake Anthonyburgh,Timor-Leste,1735-11-05,Bernardton,Turkmenistan
+Frederick,Sandra,Salinas,F,1714-12-27,East Mario,Greece,1746-11-05,East Rhonda,Argentina
+Dustin,Lori,White,M,1716-11-08,Tinaberg,United States of America,1852-07-07,South Nicholas,Reunion
+Robert,Jasmine,Murphy,F,1693-12-06,Peterhaven,Malta,1822-01-24,North Kevinview,Yemen
+Michael,Jennifer,Fitzgerald,M,1744-12-31,Joshuaburgh,Samoa,1788-02-13,Port Sarah,Jamaica
+Jose,Vicki,Smith,F,1749-08-14,West Jack,United States Virgin Islands,1769-11-12,Ashleyport,Angola
+Adam,Laura,Payne,F,1713-10-30,Port Michelletown,Iceland,1816-09-01,North Tyler,Chile
+Benjamin,Shawn,Johnson,F,1691-01-30,South Kylieport,Venezuela,1802-02-12,Lake Justinview,Tokelau
+Nathaniel,Robert,May,M,1733-12-29,Millsburgh,Greenland,1773-12-19,East Luke,Maldives
+Christian,Melissa,Freeman,M,1691-02-20,South Meghan,Sweden,1747-03-10,North Paul,Cyprus
+Samuel,Gwendolyn,Thompson,F,1726-09-28,South Josephstad,Latvia,1857-10-28,South Rickyside,Grenada
+Wyatt,David,Watts,M,1730-05-26,New Candiceburgh,Saint Martin,1855-08-02,New Kenneth,Mali
+Clifford,Jessica,Hill,F,1750-11-07,Lake Crystalberg,Montserrat,1873-10-02,Kathleenhaven,Nigeria
+Walter,Stanley,King,F,1697-04-08,South Daniel,Seychelles,1815-12-20,New Shane,Marshall Islands
+Troy,Jamie,Wiggins,M,1694-06-19,Roblesmouth,Zimbabwe,1792-08-28,East Bethany,Tonga
+Chris,Rebecca,Hernandez,F,1749-02-23,Christinaton,Colombia,1872-03-01,Billyside,Argentina
+Brandon,Destiny,Best,F,1756-06-21,Heatherton,Saint Vincent and the Grenadines,1773-12-24,Hansenport,Comoros
+Christopher,Robin,Mosley,F,1739-08-11,Townsendbury,Saudi Arabia,1754-08-29,North Jeremy,Netherlands Antilles
+Steven,Christine,Parsons,F,1771-10-08,Oconnorshire,Malawi,1883-07-24,East Jessica,Svalbard & Jan Mayen Islands
+Reginald,Michael,Yang,F,1720-08-20,Bradleyshire,American Samoa,1819-12-20,North Noah,Sudan
+Gary,Carla,Ball,M,1744-08-19,Thomasside,Martinique,1783-07-04,South Dakota,Greece
+Ryan,James,Webster,M,1716-06-23,Carrieside,North Macedonia,1823-11-19,Hilltown,Malawi
+Jeffrey,Joan,Sanchez,M,1726-05-19,Port Elizabethton,Hong Kong,1761-01-28,South Michael,United States Virgin Islands
+Christopher,Jonathan,Peterson,F,1736-01-10,West April,Gabon,1808-01-05,Lake Bernardbury,Holy See (Vatican City State)
+Christopher,Joyce,Cross,F,1693-07-20,South John,Saudi Arabia,1822-10-26,West Kaylaborough,Comoros
+Robert,Joseph,Pittman,F,1677-01-10,Phillipsburgh,Peru,1777-02-19,Markburgh,Congo
+Christopher,Jacob,Brooks,F,1746-08-21,Maryville,Cocos (Keeling) Islands,1871-02-17,Ponceville,Botswana
+Carlos,Manuel,Cooper,F,1753-10-19,Hayesfort,Aruba,1816-05-04,South Joshuafort,Guinea-Bissau
+Thomas,Brianna,Collins,F,1707-12-02,East Luke,Pitcairn Islands,1844-04-13,New Janice,Brunei Darussalam
+Juan,Aaron,Robinson,M,1698-01-29,West Emily,Saint Vincent and the Grenadines,1746-03-29,Monicaburgh,French Guiana
+Jeffrey,Brittany,Calhoun,F,1696-12-19,Michelefort,China,1827-08-16,New Lisa,Saint Martin
+James,Scott,Hunter,M,1675-11-10,Escobarberg,Saint Lucia,1710-11-03,Websterside,Egypt
+Trevor,Cindy,Griffin,F,1706-12-04,New Kendra,Togo,1843-12-18,Johnstonberg,Kiribati
+Jordan,John,Young,F,1681-11-24,Castillostad,Saudi Arabia,1797-07-09,North Nicole,Japan
+Adam,Eric,Jackson,F,1744-08-30,Lake Angelafurt,Mauritania,1799-10-06,Waltonfort,Macao
+Shane,Scott,Johnson,F,1750-10-11,Whitefurt,Lebanon,1811-07-20,Thomasberg,Equatorial Guinea
+Joe,Lee,Gonzales,M,1735-10-27,Pateltown,Papua New Guinea,1803-10-29,Moorechester,Uruguay
+Alan,Andrew,Anthony,F,1734-08-24,Michaelville,Slovenia,1831-08-10,Port Heatherberg,Japan
+Sean,Chad,Williams,F,1761-07-28,Jameston,Canada,1817-07-24,Rodriguezmouth,Brazil
+Jonathan,Kristopher,Richardson,F,1692-04-24,West Andrea,Palau,1820-10-06,Brittanyberg,United Kingdom
+Brandon,Haley,Mahoney,M,1706-08-10,Brandonstad,Uganda,1768-04-07,West Nicholasport,Niger
+Edwin,Thomas,Mcintyre,M,1759-06-20,South Tammy,Ukraine,1797-08-07,Port Kelsey,Qatar
+Christopher,Theresa,Williams,F,1685-07-17,South Aaronview,Colombia,1782-06-19,Kimberlyfurt,Liechtenstein
+Gary,Amanda,Howe,M,1685-09-20,Berryborough,Macao,1696-10-08,East Jacobchester,Thailand
+Chad,Sheila,Anderson,F,1705-04-14,West Jameston,Burundi,1764-12-29,Lake Brittany,Brazil
+Timothy,Amanda,Johnson,M,1706-06-29,Pollardfort,Thailand,1718-05-20,Davishaven,Equatorial Guinea
+Nicholas,Ryan,Alexander,F,1726-01-10,Sharonberg,Tuvalu,1775-01-07,North Joel,Kuwait
+John,Mark,Johnson,M,1702-05-01,South Brittany,San Marino,1751-01-04,Woodsmouth,Wallis and Futuna
+Richard,Elizabeth,Acevedo,M,1688-07-27,Carlton,Dominica,1748-04-17,Port Kevinhaven,Monaco
+Mark,Alfred,Johnson,F,1674-02-18,Millermouth,American Samoa,1737-05-20,Barrettbury,Nicaragua
+Jeffrey,Jennifer,Fletcher,M,1769-04-19,Scottview,Nepal,1917-07-22,Teresaview,Bouvet Island (Bouvetoya)
+Jerry,Andrea,Rosario,M,1705-10-24,New Tinaland,Antigua and Barbuda,1706-04-18,North Lisa,Bahrain
+John,Krystal,Wilkinson,M,1749-08-07,Simpsonville,United States Minor Outlying Islands,1811-05-15,East Marvin,Botswana
+Allen,Antonio,Hatfield,F,1707-11-26,Lisaland,Switzerland,1841-03-17,New Megan,Bangladesh
+Brian,April,Anderson,M,1701-01-23,Williamsburgh,United Kingdom,1704-02-13,South Samantha,Svalbard & Jan Mayen Islands
+Scott,Kenneth,Washington,F,1679-07-18,Longtown,Falkland Islands (Malvinas),1818-01-12,Port David,Sierra Leone
+Ricky,Tyler,Meyers,M,1766-07-22,North Autumn,Sudan,1783-04-22,New Angelaside,Saint Martin
+Alexis,Andrea,Farley,M,1720-11-13,South Mariashire,Rwanda,1824-02-18,Port Justinland,Poland
+James,Brittany,Hunter,F,1724-06-10,Kevinport,Turkey,1789-11-05,Montoyaborough,Romania
+Richard,Mary,Proctor,F,1677-06-28,Craigchester,Saint Pierre and Miquelon,1751-07-30,North Gregorystad,Chad
+Douglas,Melanie,Williams,M,1685-03-19,Lauriestad,Gabon,1686-03-12,Murphyland,Turkey
+Dennis,Rachael,Rodriguez,M,1748-07-09,Howardton,United States Virgin Islands,1824-03-13,New Stevenbury,Guadeloupe
+Ryan,Paula,Wallace,F,1706-08-16,Josephborough,Nauru,1791-05-02,Scottmouth,Saudi Arabia
+Stephen,Tracy,Mathis,M,1728-02-09,West Dustin,Saint Lucia,1728-05-12,Port Jacksonchester,Svalbard & Jan Mayen Islands
+Joel,Cheryl,Francis,F,1755-08-01,West Matthewport,United Kingdom,1843-09-20,Macdonaldport,Namibia
+Charles,Cameron,Robertson,F,1686-08-10,Lake Jordanburgh,Cameroon,1806-10-28,East Sherri,Morocco
+Brandon,Brianna,Smith,M,1747-12-15,Lake Andrew,Congo,1843-06-24,New Brenttown,Sweden
+William,Kristi,Davis,M,1715-08-14,North Debraport,United States of America,1720-06-25,Smithberg,Turks and Caicos Islands
+Robert,Tracy,Adams,F,1695-01-26,Lake Richardview,Cuba,1800-08-10,Bryantview,Guatemala
+Michael,Jessica,Johnson,F,1676-01-13,Douglasshire,Albania,1754-01-20,South Jon,Afghanistan
+Robert,Christine,Blackburn,F,1694-02-04,West Kimberlyhaven,Tuvalu,1799-06-06,Howardfort,Kenya
+Jason,Haley,Ramsey,M,1760-11-11,East Hunterview,Mayotte,1806-09-22,Colliermouth,South Africa
+Matthew,Wanda,Owens,F,1759-08-16,Christopherfurt,Guam,1795-02-04,Brendaside,Vietnam
+Timothy,Jacqueline,Esparza,M,1715-02-06,Jessicaview,Antigua and Barbuda,1864-12-09,Smithchester,Liechtenstein
+Timothy,Adam,Graham,F,1773-12-26,North Jenniferburgh,Hong Kong,1851-10-27,Perezborough,Canada
+Lawrence,Christopher,Carroll,F,1686-03-14,Wangfort,Vietnam,1818-11-26,Maryport,New Caledonia
+David,Jeffrey,Romero,F,1740-03-04,Bridgesside,El Salvador,1743-10-14,East Pamelachester,Guernsey
+Howard,Margaret,Mills,M,1764-03-01,Baileyville,Madagascar,1787-11-12,Christophermouth,Albania
+Steven,Julie,Garcia,F,1744-06-21,Christopherstad,Bouvet Island (Bouvetoya),1822-02-12,New Vincentburgh,Anguilla
+Benjamin,Julia,Wallace,F,1721-07-21,Harrisside,Zambia,1764-01-16,Port Ashley,Falkland Islands (Malvinas)
+Derek,William,Salas,M,1710-09-21,South Robertport,Aruba,1798-12-11,North Dakotafort,Northern Mariana Islands
+Timothy,Brandy,Campbell,F,1759-08-30,Robertburgh,Latvia,1904-12-25,New Robert,Haiti
+Anthony,Dale,Mejia,F,1723-12-22,Amandafort,Italy,1794-10-02,West Jamesborough,Saint Vincent and the Grenadines
+Jason,Laurie,Murphy,M,1766-12-01,Lake Connor,Fiji,1811-11-11,Welchberg,Vanuatu
+Joseph,Cory,Martinez,F,1711-04-15,Robertmouth,Lebanon,1851-09-25,Zamorashire,Bhutan
+Joseph,Russell,Davis,F,1704-11-26,Lake Ericburgh,Kyrgyz Republic,1752-09-09,Kevinshire,Qatar
+Jon,Steven,Munoz,F,1746-06-25,South Lisa,Bosnia and Herzegovina,1776-04-15,Joelmouth,Norfolk Island
+Michael,Michael,Walker,F,1682-08-15,Thomasfort,Singapore,1824-05-12,Garyton,Equatorial Guinea
+Christian,Larry,Newman,M,1721-04-12,West Ashleyberg,Brazil,1857-06-15,New Taylortown,Slovakia (Slovak Republic)
+Edwin,Margaret,Hall,F,1685-05-20,Carterbury,Equatorial Guinea,1711-09-11,Michaelmouth,Serbia
+Logan,Michael,Wolfe,F,1693-11-10,Port Kellymouth,Italy,1843-02-25,Port Lindatown,Zimbabwe
+Jeffrey,Victor,French,M,1755-03-24,South Paulmouth,Cook Islands,1842-04-21,West Kelly,Finland
+Scott,Justin,Taylor,F,1724-05-17,Jamesside,Italy,1744-08-02,Fergusonshire,Brunei Darussalam
+Vincent,Wendy,Campbell,M,1735-06-25,West Haileyport,Nigeria,1766-05-11,South Joshua,Aruba
+Terry,Johnny,Hernandez,F,1717-07-06,Kennethfurt,Netherlands Antilles,1784-04-02,Dakotabury,Togo
+David,Amanda,Potter,M,1730-02-18,Markville,Brazil,1766-04-25,Mitchellmouth,Northern Mariana Islands
+Nicholas,Stephanie,Keith,M,1726-06-08,Port Juliaton,Monaco,1809-10-14,New Sheryl,Israel
+Erik,Sharon,Bruce,M,1753-12-05,Port Diane,Sri Lanka,1796-05-14,Jasontown,Cyprus
+Michael,Elizabeth,Ochoa,M,1715-11-27,South Jeremychester,Myanmar,1811-05-14,Gardnermouth,Spain
+Timothy,Matthew,Munoz,M,1675-01-04,Cynthiaside,Switzerland,1741-07-10,East Heatherburgh,Oman
+Mark,Michele,Ross,M,1683-02-15,Port Amyland,France,1787-08-13,Gonzalezville,Lebanon
+Omar,Jamie,Harris,M,1765-02-01,Lisaborough,Solomon Islands,1802-12-16,West Christopherberg,Switzerland
+Aaron,Jamie,Howard,M,1733-06-20,Michaeltown,Wallis and Futuna,1852-12-10,Craigland,Sierra Leone
+Michael,Shawn,Ramirez,F,1679-04-14,Port Jacquelineview,Comoros,1703-03-13,Benjaminmouth,French Polynesia
+Robert,Jeremy,Tucker,F,1719-09-17,North Barbaraville,Cote d'Ivoire,1779-03-28,North Chase,Cyprus
+Darin,Eric,Carr,M,1763-05-04,Hayesfurt,Nepal,1794-06-08,Patriciahaven,Barbados
+Adam,Holly,Galvan,M,1763-10-08,Lake Rhondatown,Botswana,1792-09-10,Port David,Ethiopia
+Eric,Stephanie,Martinez,F,1749-01-25,Vincentmouth,Bahrain,1800-09-02,West Seanchester,Marshall Islands
+Jeffrey,Candice,Forbes,F,1706-01-16,East Kristin,Turks and Caicos Islands,1855-11-08,Port Amandachester,Cayman Islands
+Dylan,Bryan,Stevens,F,1689-01-26,Port Danafort,Kiribati,1825-05-28,New Patricia,Ghana
+Kenneth,Elizabeth,Williams,F,1748-10-16,New Jessicashire,Morocco,1860-07-22,Derekland,Zambia
+Adam,James,White,M,1715-11-30,North Melissa,Saint Pierre and Miquelon,1796-09-28,Scotthaven,Moldova
+Ryan,Angel,Finley,F,1729-08-30,East Erica,Mauritania,1748-12-13,Lake Gwendolyn,Antarctica (the territory South of 60 deg S)
+Patrick,Sarah,David,M,1709-08-22,Donaldtown,Spain,1738-03-05,Lake Jenniferborough,Jordan
+Gilbert,Robert,Carter,F,1680-04-02,Holtburgh,Sierra Leone,1786-11-12,Vickiberg,Cote d'Ivoire
+Adam,Danielle,Thomas,M,1725-07-05,Arellanoland,Marshall Islands,1730-04-04,South Alexander,Palau
+Joel,Robin,Garcia,M,1673-08-05,South Angela,Romania,1755-07-09,Lake Jonathanberg,Philippines
+Douglas,Dennis,Wilson,F,1765-12-04,South Jennifer,Madagascar,1834-08-06,Port Whitney,Micronesia
+Larry,Jeffrey,Bradley,M,1732-11-07,Evanston,Albania,1735-11-23,Jordantown,Bolivia
+Keith,Kayla,Freeman,F,1688-06-22,Mckinneyhaven,Papua New Guinea,1788-08-22,North Ryanland,Uruguay
+Zachary,Stanley,Smith,F,1701-09-27,Larsonport,Cayman Islands,1773-11-03,Calvinland,Timor-Leste
+Christian,George,Delgado,M,1687-03-07,South Brian,Portugal,1836-05-01,Port Jerry,Argentina
+Dennis,Alice,Humphrey,M,1744-05-12,South Jacqueline,Guernsey,1834-12-23,North Amandamouth,Australia
+Eric,William,Mccoy,M,1741-06-17,East Kyleburgh,Wallis and Futuna,1836-07-23,New Brent,Papua New Guinea
+Danny,Anna,Daniel,M,1762-01-25,New Kevin,Mayotte,1776-02-11,Charlesville,Austria
+Kenneth,Lisa,Mcclure,F,1768-04-11,Lake Jenniferport,Honduras,1808-06-23,Mcfarlandburgh,Egypt
+Christopher,Christopher,Guzman,F,1757-12-10,Kellystad,Burkina Faso,1786-09-27,North Laceyfurt,Saint Kitts and Nevis
+Steven,Brenda,Jacobson,M,1697-02-25,Josephview,Russian Federation,1751-11-03,Juliaburgh,New Zealand
+Steven,Gary,Ingram,M,1758-07-14,New Annetteberg,Sao Tome and Principe,1828-06-02,Meganberg,Serbia
+Jordan,Jessica,Berry,M,1764-07-10,North Joshua,Barbados,1787-10-22,Seanchester,Cameroon
+Jose,Michael,David,F,1690-11-01,West Joshua,Rwanda,1828-08-01,Lake Brenda,Uzbekistan
+Frank,Suzanne,Hampton,F,1704-09-25,Ruizmouth,Morocco,1800-07-06,New Cynthiahaven,New Zealand
+Marvin,Nicole,Cox,F,1720-03-11,South Michael,Netherlands,1830-07-12,Lake Michael,Burkina Faso
+John,Holly,Smith,M,1771-01-29,New Marilyn,Slovenia,1910-05-18,West Robinville,Saint Vincent and the Grenadines
+Michael,Dennis,Luna,F,1717-08-07,Michaelchester,Micronesia,1746-12-24,South Melissa,Falkland Islands (Malvinas)
+Patrick,Melissa,Smith,M,1760-02-25,North Michelle,Israel,1766-07-23,Danielchester,Armenia
+Darryl,Amanda,Wilson,M,1749-06-16,Floresport,Azerbaijan,1862-02-18,Lake David,Christmas Island
+Michael,Amanda,Santana,M,1751-08-02,Jeffberg,Sri Lanka,1882-09-03,Hayneshaven,Netherlands Antilles
+Alan,Jill,Owen,F,1758-08-29,Margaretmouth,Estonia,1847-10-04,Sergiochester,Ireland
+Don,Jennifer,Clark,F,1693-01-27,Sanchezmouth,Finland,1783-03-16,East Elizabeth,Falkland Islands (Malvinas)
+Logan,Jacqueline,Trevino,M,1707-08-13,Caitlinfort,Kuwait,1788-12-21,New David,Turks and Caicos Islands
+Danny,Lisa,Lee,F,1731-04-06,Nathanielmouth,Belgium,1765-01-23,Davidton,Guam
+Adam,Kyle,Johnson,F,1773-08-31,Jacktown,Philippines,1912-01-10,Port Ashleyfurt,Swaziland
+Michael,Tiffany,Washington,F,1738-10-18,East Keith,Mongolia,1858-02-15,South Adamville,Sierra Leone
+Michael,Heather,Garcia,M,1757-09-30,Stevenborough,Brunei Darussalam,1840-12-28,North Stacyside,Chad
+Alexander,Robert,Swanson,F,1732-02-13,Davisside,Mexico,1736-10-09,New Shannon,Tanzania
+Jonathan,Brandon,Sanders,F,1692-02-18,Hodgesside,Timor-Leste,1748-09-15,Lake Brian,Cambodia
+Brent,Cindy,Taylor,M,1702-07-18,Loganfort,Ethiopia,1744-11-16,Port Kaylaburgh,Burundi
+Timothy,Darrell,Johnson,F,1714-05-13,New Michelleland,Bouvet Island (Bouvetoya),1716-06-29,New Richard,Fiji
+Francis,Christopher,Ashley,F,1726-12-31,South Jeffreyborough,Saint Lucia,1861-10-11,North Dawn,Dominica
+David,Erin,Mendoza,F,1766-06-05,North Dakotastad,Nauru,1912-09-20,Port Sandraland,Belarus
+Jason,David,Medina,F,1685-07-05,East Charlotte,Chile,1766-11-25,Port Sherrifort,United States Minor Outlying Islands
+Joshua,John,Callahan,F,1679-02-04,Lake Jeremyview,Iran,1685-01-22,Garzaland,Malta
+Scott,Michael,Burch,F,1753-05-04,Dickersonport,Korea,1781-12-30,Sharonville,Sweden
+Jeffery,Brittany,Gibson,F,1761-12-21,Amandaborough,Jersey,1893-03-28,South Victorfurt,Hungary
+Michael,Dustin,Bennett,F,1678-04-09,Port Isaac,Honduras,1694-02-03,Brayside,Mongolia
+Jason,Zachary,Johnson,M,1699-04-20,Lake Nathanview,China,1772-02-23,Williamsside,Dominican Republic
+Kevin,Michael,Murray,F,1716-12-11,Martinstad,Grenada,1808-09-05,Sullivanfort,Philippines
+David,Mark,Jenkins,F,1707-11-05,Markstad,Tonga,1853-04-30,North Anthonyborough,Lesotho
+Alex,Devon,Atkinson,F,1679-01-04,Markborough,Palestinian Territory,1794-01-09,Port Richard,Bulgaria
+Thomas,Kyle,Davila,M,1740-06-18,Avilaberg,Guadeloupe,1814-05-26,East Robertmouth,Namibia
+Gabriel,Thomas,Padilla,F,1727-01-17,Lawrencemouth,Barbados,1781-06-24,Jamesburgh,Eritrea
+William,Molly,Johnson,M,1704-12-04,East Lauren,Wallis and Futuna,1846-05-06,New Ryan,Grenada
+Michael,Joshua,Day,F,1738-09-21,Port Ryanview,Lithuania,1867-06-02,New Michaelton,Algeria
+Michael,Brian,Patton,F,1761-04-22,Freemanview,Montserrat,1850-09-22,Greggside,Bahamas
+Eugene,Roger,Stokes,M,1715-02-13,Daniellechester,Suriname,1796-08-13,East Donald,Anguilla
+Charles,Kathleen,Harris,F,1684-08-29,South Amyfurt,Central African Republic,1685-02-05,Lake Angelamouth,Cote d'Ivoire
+Jesse,Charlotte,Gardner,M,1705-06-20,Robintown,Micronesia,1853-06-08,Callahanland,Brazil
+Rodney,Jason,Garcia,M,1762-02-11,Erinville,Algeria,1850-04-19,Port Andrew,Kyrgyz Republic
+Reginald,Richard,Rhodes,M,1731-06-07,New Monicaberg,Finland,1872-09-09,West Ashleyport,Heard Island and McDonald Islands
+Steven,Tina,Johnson,M,1677-05-29,Port Robertfurt,Kiribati,1763-11-20,Juanland,Vanuatu
+Daniel,Melissa,Ortiz,M,1749-09-02,Christopherside,Bolivia,1825-07-09,Wilsonburgh,Brunei Darussalam
+Matthew,Luis,Ford,F,1722-03-29,Johnton,Colombia,1744-01-23,North Sarahview,Cuba
+Mason,Robert,Ortiz,M,1699-12-02,Lake Matthewton,Russian Federation,1723-09-28,North Christopherton,Qatar
+John,Erica,Quinn,M,1709-11-21,Lorrainehaven,Hungary,1846-12-23,Victorton,Burkina Faso
+William,Alyssa,Perry,M,1772-07-26,Amandastad,Andorra,1790-04-19,Gutierrezport,Nepal
+Bruce,Heather,Anderson,M,1767-05-22,South Tamarastad,Gambia,1790-04-28,Nguyenville,Eritrea
+Marcus,Donald,Morris,F,1757-02-08,Port Jessicahaven,Taiwan,1803-05-08,North Donald,Kenya
+Anthony,Katie,Murphy,M,1707-12-20,South Nancychester,Bhutan,1856-08-10,Oneillfort,Belarus
+Gene,David,Miller,M,1712-10-27,West Deborah,Brunei Darussalam,1738-08-20,Sherylstad,Japan
+David,Sara,Simmons,M,1688-06-15,East Nicolehaven,Turks and Caicos Islands,1759-08-06,South Nicholas,Swaziland
+Christian,Shaun,Hughes,M,1700-10-21,Jenniferburgh,Austria,1705-03-26,Garrisonhaven,Turkmenistan
+Dan,Jeremy,Leblanc,M,1773-06-25,Jeffersonport,Georgia,1850-11-04,Rodriguezbury,Ecuador
+Cameron,Mckenzie,Clark,F,1726-03-03,Lake Glendatown,Slovakia (Slovak Republic),1792-10-26,Stewartstad,Romania
+Jose,Kevin,Walker,M,1675-11-24,East Monicastad,Georgia,1771-07-03,North Angieburgh,Morocco
+Michael,Amanda,Johnson,M,1697-08-12,Elliottbury,Botswana,1809-10-10,Ramirezborough,Spain
+Sean,Andrew,Spencer,F,1714-05-09,Marthachester,French Polynesia,1849-09-02,North John,Heard Island and McDonald Islands
+Michael,Kenneth,French,M,1722-01-29,Brettmouth,Saudi Arabia,1732-12-12,East Oliviamouth,French Polynesia
+Jerry,Daniel,Anderson,M,1772-02-02,West Williammouth,Sweden,1812-01-07,South Tracyborough,Isle of Man
+Bill,Carrie,Alvarez,M,1729-09-09,Barrymouth,Mozambique,1746-09-05,Port Tannerchester,Denmark
+Christopher,Matthew,Martinez,M,1687-12-13,Royfurt,Nauru,1808-01-28,East Priscilla,Spain
+Randy,Jeffrey,Sparks,F,1732-11-30,Lake Christopherview,Seychelles,1737-11-15,Bradyview,Armenia
+David,Cheryl,Anderson,F,1717-02-11,East Virginiamouth,Lesotho,1779-12-02,Lambertmouth,Jersey
+Willie,Sean,Miles,M,1707-05-25,West Jeffside,American Samoa,1795-07-04,East Paul,Cyprus
+Seth,John,Garcia,M,1773-01-20,Lake Melissafurt,Nauru,1915-07-31,Johnnyfort,French Southern Territories
+Dustin,Dawn,Gray,F,1724-05-04,Rebeccaberg,Saint Kitts and Nevis,1850-07-27,New Donnamouth,Fiji
+Michael,Chelsea,Hutchinson,M,1676-01-03,Scottborough,Yemen,1807-07-02,Copelandmouth,Trinidad and Tobago
+Luis,Sarah,Moss,F,1713-01-19,Michaelfurt,Canada,1767-08-11,East Billy,Djibouti
+Steven,Brooke,King,F,1729-10-22,South Kendrabury,Brunei Darussalam,1848-11-19,Melendezstad,Bermuda
+Evan,Jeffery,Mendoza,F,1770-07-12,Butlerview,Timor-Leste,1856-10-17,Frankfort,Netherlands Antilles
+Matthew,Carolyn,Bishop,F,1771-08-03,Pittmanview,Antigua and Barbuda,1805-03-15,Lake Danabury,Montserrat
+Jimmy,Sara,Houston,M,1755-09-18,Waltonton,South Georgia and the South Sandwich Islands,1805-07-21,Francismouth,Turkmenistan
+Anthony,Krystal,Warren,M,1696-08-19,Kathrynchester,Gambia,1816-12-09,East Carmenport,Saudi Arabia
+Mitchell,Sara,Dunn,F,1746-01-08,Janiceport,Jamaica,1889-10-24,Port Shelby,Holy See (Vatican City State)
+Christopher,James,Summers,M,1707-09-19,Jenniferchester,Albania,1797-06-12,Lake Brianfurt,Gibraltar
+Theodore,Maureen,Miller,F,1694-01-13,North Markfort,Guam,1832-09-29,West Marvin,Korea
+Luke,Kristine,Garcia,M,1740-11-12,Campbellmouth,South Georgia and the South Sandwich Islands,1783-11-19,South Luke,Ukraine
+Steven,William,Glenn,M,1767-11-19,North Nicholas,Bahrain,1850-06-16,Boydburgh,Sudan
+Brett,Brian,Barker,M,1673-04-24,New Claire,New Zealand,1674-12-22,North Jacob,Ukraine
+David,Monica,Gallegos,F,1674-09-20,Cooleyside,Pakistan,1796-04-29,Kevinfort,Sierra Leone
+Alex,Dan,Barry,M,1712-02-26,East Luis,Holy See (Vatican City State),1815-06-27,West Marcialand,Bosnia and Herzegovina
+Michael,Christopher,Flowers,F,1750-09-06,Benjaminville,Samoa,1813-11-15,New Stephanieton,Lao People's Democratic Republic
+Kirk,Pamela,Morton,F,1693-11-08,Port Debraland,Nigeria,1751-03-18,Schneiderton,Martinique
+William,Catherine,Gallegos,F,1707-08-31,Spencershire,Netherlands Antilles,1818-08-18,Butlertown,Mayotte
+Clifford,Austin,Hunter,F,1696-10-21,South Stephanie,Denmark,1762-04-20,Davidton,Lao People's Democratic Republic
+Kevin,Breanna,Figueroa,M,1710-12-16,West Scott,Libyan Arab Jamahiriya,1831-04-14,West Kristenfurt,Iraq
+Scott,Terri,Gonzalez,F,1702-06-11,North Bradley,United Kingdom,1776-03-19,Lake Denise,Bouvet Island (Bouvetoya)
+Darren,Joseph,James,F,1686-03-28,New Eduardoborough,Guinea-Bissau,1760-11-15,Hawkinsfort,Djibouti
+William,Jonathan,Frost,F,1681-01-14,Robertshaven,India,1699-01-08,East Jonathanshire,Sweden
+Timothy,Randall,Jones,M,1680-03-16,West Markhaven,Belarus,1819-06-04,Lake Robertmouth,Panama
+Daniel,Savannah,Romero,M,1706-12-06,North Roberthaven,Cote d'Ivoire,1780-02-12,Davisfurt,Kenya
+Antonio,Jeffrey,Yang,F,1753-12-07,Jamieland,Luxembourg,1875-12-03,North Aarontown,Burundi
+Clinton,Jose,Warner,F,1691-12-06,Hodgestown,Bosnia and Herzegovina,1756-01-10,Clarkshire,French Guiana
+Joshua,Jessica,Roberts,M,1746-01-05,North Lindsaymouth,Peru,1804-04-19,West Richard,United Arab Emirates
+Kevin,Daniel,Wilkerson,M,1771-03-31,Charlesview,Lesotho,1800-07-07,Port James,Guinea
+Tim,Jason,Marshall,F,1674-03-02,New Jamesland,Kenya,1691-11-05,Jenniferstad,Saudi Arabia
+Joshua,Wendy,Johnson,M,1682-06-16,Kathleenmouth,Maldives,1812-12-20,Lake Tammyburgh,Fiji
+Paul,Steven,Chaney,M,1736-12-02,East Nicole,Liechtenstein,1801-02-16,Ibarraburgh,Holy See (Vatican City State)
+Bryan,Nicole,Clark,F,1695-01-15,Port Michaelstad,Gambia,1813-05-16,Laurenmouth,Guinea
+Frank,Jill,Gomez,M,1704-12-17,Mooremouth,Estonia,1728-06-21,West Robert,Spain
+Maurice,Daniel,Jones,F,1683-09-01,Port Douglas,Belgium,1740-01-05,Donaldburgh,Syrian Arab Republic
+Peter,Kenneth,Fowler,F,1762-03-31,New David,Gambia,1863-06-02,Port Brittneymouth,Norfolk Island
+Peter,Brittney,James,F,1714-10-18,Millerview,Libyan Arab Jamahiriya,1750-06-05,Vincenthaven,Northern Mariana Islands
+Anthony,Micheal,Stewart,F,1737-03-16,Batesland,Kenya,1872-08-30,Nguyenville,Uzbekistan
+Keith,Priscilla,Smith,F,1703-03-24,Younghaven,Moldova,1766-05-14,Stevensmouth,Kenya
+Jason,Donald,Collins,F,1770-10-23,East Stephaniemouth,Haiti,1861-08-10,Kevinville,Seychelles
+Eric,Madison,Salazar,M,1740-08-07,North Mary,Dominican Republic,1857-11-18,Beckyfurt,Guinea-Bissau
+Brian,Karen,Clay,M,1685-06-26,Robinsonburgh,Guinea,1759-02-15,North Spencermouth,Malaysia
+Michael,Robert,Rodgers,M,1707-02-05,Kevinchester,Bhutan,1802-04-22,Kristinton,Tonga
+Bryan,Steven,Reyes,F,1759-10-26,New Angelaport,Norway,1881-11-26,East Reneeport,French Southern Territories
+Justin,Rachel,Hill,F,1743-12-23,New Adrianland,Mali,1846-04-23,Cookville,Panama
+Matthew,Casey,Chen,F,1743-08-26,Lake Jesuschester,Bhutan,1851-09-18,North Bruce,Malta
+Keith,Nicole,Collins,M,1681-06-16,Troyhaven,Mongolia,1727-12-21,West Jessicamouth,Kyrgyz Republic
+Stephen,Rebecca,Franco,M,1716-07-17,West Kimberlyfurt,Kuwait,1718-09-08,West Eric,Kenya
+Andrew,Melissa,Hernandez,M,1721-05-28,Walkermouth,Guinea,1840-01-18,East Katiehaven,Japan
+James,Susan,Armstrong,M,1761-03-12,Tamaraton,Haiti,1829-10-14,Garciaville,Guatemala
+Jimmy,David,Martinez,F,1723-03-28,Debrastad,Micronesia,1780-10-26,Tracyshire,Guadeloupe
+Marc,Evan,Durham,M,1763-08-19,Lake Elijah,French Polynesia,1863-02-15,Charlesburgh,Libyan Arab Jamahiriya
+William,Chad,Barnes,M,1748-03-20,Fernandezside,Fiji,1895-04-11,Rhondaton,Brunei Darussalam
+Michael,Stacey,Shaw,M,1768-05-12,North Jasmine,Maldives,1783-08-04,Davischester,Brazil
+Melvin,Anthony,Banks,M,1729-06-12,West Timothyside,South Africa,1869-01-05,North Tracy,Macao
+Christian,Alexandra,Lee,F,1678-12-03,Sanchezhaven,Algeria,1765-12-22,West Derek,French Polynesia
+Tony,Andre,Harper,M,1764-01-15,Mcbrideshire,Switzerland,1847-05-04,Matthewport,Saint Barthelemy
+Matthew,Rebecca,Smith,M,1687-07-28,Paulmouth,Togo,1744-11-20,West Briannachester,Chad
+William,Lori,Tran,F,1746-10-16,West Lorimouth,Gambia,1825-05-28,Karenport,Hungary
+Jackson,Sonia,Wright,F,1732-12-04,South Barbaramouth,Togo,1862-02-04,South Linda,Central African Republic
+Nathaniel,Dana,Lambert,M,1699-10-11,Port Latashaport,Tanzania,1752-11-11,Roachmouth,Malawi
+Zachary,James,Phillips,M,1725-11-04,Carlosfurt,Guam,1802-06-20,North Cynthia,Greenland
+Mark,April,Bailey,M,1764-02-14,Port Stanleyborough,Mayotte,1800-11-06,Nathanielstad,Korea
+Lawrence,Donna,Gonzalez,M,1728-11-07,Zacharyport,Poland,1814-11-30,Aprilshire,Palestinian Territory
+Jeremy,Anthony,Brown,M,1753-09-18,West Brett,Kuwait,1785-03-21,East Kimberlybury,Saudi Arabia
+Adam,Adam,Lynch,F,1742-02-03,West John,French Guiana,1835-08-31,North Jennifer,Madagascar
+Paul,Tiffany,Thornton,F,1679-03-09,New Thomas,Thailand,1765-01-13,Reneechester,Puerto Rico
+Raymond,Kyle,Bowers,F,1754-05-28,Port Brianchester,Eritrea,1808-08-07,West Tony,Peru
+Anthony,Carol,Pierce,F,1766-11-04,East Kellymouth,Seychelles,1802-05-09,West Sara,Isle of Man
+Paul,George,Franklin,M,1770-07-25,Annmouth,American Samoa,1865-02-07,Matthewstad,Cyprus
+Omar,Samantha,Richards,F,1736-03-13,Perrybury,Bosnia and Herzegovina,1760-01-20,West Ashleyport,Swaziland
+Raymond,Craig,Mercado,M,1715-04-16,Perezberg,Switzerland,1813-07-24,Lake Andreamouth,Qatar
+James,Robert,Johnson,M,1682-07-08,Cooperview,Kyrgyz Republic,1815-11-27,Hansonshire,Cameroon
+James,Michael,Marshall,F,1712-10-25,Haleville,Mauritania,1829-05-10,Lake Breanna,Guinea-Bissau
+Dustin,Kyle,Snyder,F,1738-04-30,Port Brittany,Comoros,1809-06-04,Johnsonton,Liberia
+Alan,Jared,Davis,M,1720-09-07,North Johnborough,Puerto Rico,1753-04-11,Coxland,British Virgin Islands
+John,Christy,Olson,M,1717-01-10,Arielfort,Bermuda,1802-09-14,Bethanyberg,Honduras
+Scott,Jennifer,Richmond,F,1759-01-06,Lake Marcbury,Djibouti,1787-05-19,Tonyview,Cote d'Ivoire
+Glenn,Kristi,Thompson,M,1747-10-13,West Sabrinaview,Tanzania,1757-11-30,Castillobury,Greece
+Douglas,Gerald,Bryan,M,1674-07-02,East Samantha,Bermuda,1741-10-17,West Glorialand,Senegal
+George,Raymond,Ramos,F,1718-08-03,North Julie,Cape Verde,1811-05-19,West James,Latvia
+Robert,Nicholas,Riley,M,1764-11-18,West Leslie,Mauritania,1891-12-10,Port Brian,Sierra Leone
+Mitchell,Amy,Jenkins,F,1724-04-17,Billstad,United States of America,1758-09-11,East Ryan,Mauritania
+Shane,Rebecca,Sanchez,M,1750-04-27,Christopherland,Saint Pierre and Miquelon,1760-08-28,Jamesside,Saint Martin
+Robert,Lori,Flowers,F,1709-03-21,New Vincentview,Bahamas,1747-05-09,Nelsonstad,United States Virgin Islands
+Daniel,Megan,Goodman,M,1762-11-10,Nicholasmouth,Norway,1765-12-09,Chelseaberg,Trinidad and Tobago
+Jacob,Joshua,Reid,M,1766-10-15,Sarashire,Nauru,1806-03-12,Brittanyland,Saint Lucia
+Scott,Julie,Harvey,M,1735-03-04,North Matthew,Senegal,1742-09-16,New Davidville,Madagascar
+David,Beth,Chambers,M,1712-02-18,Philipport,Malawi,1801-08-10,North Nicholasville,Svalbard & Jan Mayen Islands
+Seth,Karen,Sanchez,M,1684-01-04,Lake Rebecca,France,1771-12-13,Rebeccaton,Burkina Faso
+Jesse,Lauren,Morales,F,1702-01-24,North Ashley,French Polynesia,1799-07-09,Kristinhaven,Russian Federation
+Troy,Olivia,Brown,M,1704-03-21,Meganchester,Puerto Rico,1772-11-10,Port Aaronbury,Tunisia
+Aaron,David,Johnson,F,1675-08-07,Williamsbury,Venezuela,1817-06-23,Kennethshire,Honduras
+Matthew,Megan,King,F,1722-05-23,Brentview,Trinidad and Tobago,1778-09-24,Debrachester,Kiribati
+Jason,Mary,Reynolds,F,1741-05-31,North Laurenland,Antigua and Barbuda,1782-06-07,Charleschester,Puerto Rico
+Steven,Shawn,Mendoza,F,1748-10-11,North Christophermouth,Peru,1881-11-27,Melissachester,France
+James,Gary,Gordon,M,1682-07-30,Conleyfort,Bahamas,1770-05-17,North Tracy,Iran
+John,Erica,Price,M,1685-12-13,Petersonstad,Tanzania,1815-12-08,Joshuaview,Cambodia
+Robert,Jason,Thomas,F,1695-06-18,South Amandatown,Zimbabwe,1811-08-20,Hallborough,Wallis and Futuna
+Chad,Tanner,Bryant,F,1768-09-25,Hallbury,Iraq,1870-09-28,Adamsmouth,United Arab Emirates
+James,Benjamin,Salazar,F,1729-12-25,Port Robert,Eritrea,1786-03-01,Jamesport,Trinidad and Tobago
+Alexander,Joseph,Baldwin,F,1765-05-22,West Sarah,Chile,1771-11-28,Lake Kimberlystad,Morocco
+Thomas,Rachel,Anderson,F,1695-04-26,West Sherryland,Cuba,1785-09-09,Port Kathrynhaven,Zimbabwe
+Roger,Jennifer,Mitchell,M,1749-09-18,Shawnstad,Chile,1846-11-20,West Brittany,Puerto Rico
+Steven,James,Ford,F,1709-12-12,West Davidside,Pitcairn Islands,1802-05-30,Shortmouth,Panama
+Brent,Aaron,Davis,M,1680-05-17,Rhodesmouth,Kazakhstan,1755-07-08,Michaelberg,Congo
+Joseph,Monica,Jones,F,1682-10-30,South Brian,Bolivia,1817-10-03,Mcbrideland,Yemen
+Jeremy,David,Conley,M,1750-06-28,Lake Carlos,Bouvet Island (Bouvetoya),1811-05-16,Tylershire,Reunion
+James,Rachel,Peterson,M,1720-12-28,Gloverland,Tuvalu,1835-08-24,West Pamview,Vietnam
+Andrew,Sarah,Kerr,F,1735-05-07,Klineburgh,Taiwan,1838-04-23,Rhondaburgh,Denmark
+Nicholas,John,Vaughn,F,1747-05-25,Port Christina,Kazakhstan,1859-08-25,Alexandramouth,Guatemala
+Joshua,Jared,Beasley,F,1730-06-19,New Sherry,Norway,1794-07-23,Lake Barbara,Croatia
+Christopher,Patricia,Lawson,M,1746-02-26,Higginsmouth,Norway,1888-08-13,Lake Edward,Niger
+John,Chris,Tyler,F,1747-11-01,Chandlerchester,Peru,1885-09-28,Port Shane,Lebanon
+Jonathan,Megan,Moore,F,1699-04-10,West Andrewborough,Kiribati,1810-01-12,Lake John,Gabon
+Justin,Justin,Harrison,M,1756-01-10,Cynthiatown,Reunion,1867-09-13,South Christychester,Rwanda
+Eric,Anthony,Maldonado,M,1768-06-22,Port Brianmouth,Northern Mariana Islands,1853-04-18,Brandonfort,France
+John,Tammy,Burton,F,1767-05-09,Port Kimville,Dominican Republic,1908-06-25,South Jeremy,Cuba
+Douglas,Savannah,Miller,F,1747-09-29,West Williamchester,Norway,1777-10-03,Danielfurt,Kuwait
+James,Debra,Drake,F,1709-03-11,West Terry,Cuba,1768-04-05,South Megan,Paraguay
+Jeremy,Christopher,King,M,1726-12-19,Lisaberg,Bolivia,1862-01-03,Colemantown,Yemen
+Barry,Hannah,Stein,M,1757-12-13,Robertsshire,Thailand,1821-08-02,Nathanshire,Tajikistan
+Joseph,Taylor,Jacobs,M,1765-11-18,Johnbury,Mayotte,1813-10-18,Jasonborough,Liberia
+Anthony,Samantha,Ray,M,1699-02-07,Walkerport,Fiji,1804-01-18,Elijahton,Faroe Islands
+Roberto,Cheryl,Morales,M,1699-08-16,Bakertown,Lebanon,1708-07-16,Port Matthewside,Equatorial Guinea
+Tyler,Randall,Williams,M,1744-02-15,West Caleb,Guinea-Bissau,1836-07-10,Port Daniel,Armenia
+Eric,Kirk,Mendoza,M,1720-06-12,Huynhstad,Benin,1849-10-11,West Jason,Tuvalu
+Andrew,Daniel,Evans,F,1723-02-25,East Elizabethmouth,French Southern Territories,1851-09-15,South Eric,Syrian Arab Republic
+Steven,Steven,Mccormick,F,1766-03-04,Davidmouth,Korea,1850-08-15,Erinberg,Suriname
+David,Marvin,Giles,M,1760-05-14,Andersonstad,Saudi Arabia,1813-08-27,Livingstontown,South Africa
+Juan,Patrick,Ramos,M,1704-12-04,Port Anthony,Bangladesh,1803-05-19,Davisberg,Brazil
+Mark,Robert,Summers,F,1732-12-16,Leshire,Guam,1733-08-22,East Caroltown,Estonia
+Zachary,Tina,Lyons,M,1700-09-25,Shelleytown,Saint Kitts and Nevis,1805-03-09,Wesleyshire,Tunisia
+Jeremy,Nathan,Bennett,F,1695-08-08,Port Michael,Uruguay,1812-09-29,New Sarah,Anguilla
+Max,Patricia,Steele,F,1714-10-17,Robertport,Bosnia and Herzegovina,1782-11-03,East Juliaton,Egypt
+Andrew,Crystal,Edwards,F,1685-04-06,East Mark,Austria,1698-05-07,Williamshire,Kazakhstan
+Edward,Joshua,Steele,F,1761-06-12,Kendrafort,Iraq,1891-01-29,Port Rebecca,Lesotho
+Timothy,Phillip,Mitchell,F,1759-08-28,Woodwardhaven,Cocos (Keeling) Islands,1844-01-16,New Donna,Japan
+Garrett,Katelyn,Rosario,M,1695-12-30,Port Erinberg,Christmas Island,1784-10-18,Davidton,Pakistan
+Daniel,Curtis,Olsen,M,1714-06-15,Janethaven,Belarus,1774-07-01,Smithstad,Djibouti
+Robert,Emma,Taylor,M,1748-11-20,Julieborough,Palestinian Territory,1892-10-25,Kruegerport,Oman
+Sean,Jessica,Smith,M,1743-03-13,Lake Duanemouth,Costa Rica,1863-09-14,Davidberg,Spain
+Matthew,Francisco,Marquez,F,1683-02-08,Rodriguezborough,Bulgaria,1790-02-26,Jacquelineberg,Andorra
+Robert,Marcus,Berger,F,1687-12-08,New Todd,Kiribati,1771-05-27,South Megan,Albania
+Joshua,Richard,Massey,M,1764-01-08,Darrellport,Iran,1912-09-18,Port Brittney,Madagascar
+Kevin,Joshua,Williams,F,1687-01-31,Rodneyburgh,Spain,1798-09-17,Perezfurt,Montenegro
+Jeremy,Mariah,Lopez,M,1690-05-21,New Amandaburgh,Gabon,1760-09-05,South Jamestown,New Caledonia
+Thomas,Danny,Gonzalez,M,1700-09-21,North Grant,Egypt,1720-04-15,Finleystad,Saint Lucia
+Ryan,Christopher,Small,F,1742-07-25,Kevinberg,Bosnia and Herzegovina,1748-12-02,Hannaburgh,Tonga
+Eric,Richard,Garrett,M,1703-05-12,Smithborough,Papua New Guinea,1716-02-04,Port Lisa,Hungary
+Clayton,Caleb,Conrad,F,1746-03-15,North Raymondview,Azerbaijan,1787-05-23,South Johnbury,Tonga
+Robert,Gregory,Patterson,M,1701-05-17,East Jodiview,Netherlands,1837-02-08,Garciachester,Trinidad and Tobago
+Michael,Arthur,Perez,F,1730-07-24,New Josephmouth,United Arab Emirates,1752-03-22,Ortizville,Antigua and Barbuda
+John,Marissa,White,F,1722-06-06,East Bethhaven,Panama,1828-02-04,Grahamville,Holy See (Vatican City State)
+William,Jeff,Harris,F,1710-07-13,East Kristinton,Sudan,1734-05-27,Biancashire,United States Minor Outlying Islands
+Darren,Juan,Walker,F,1678-06-15,South Betty,Trinidad and Tobago,1710-12-20,Anthonytown,Romania
+Kevin,Abigail,Wilson,F,1772-08-30,East Brandon,Lao People's Democratic Republic,1803-02-17,East Juanfort,Monaco
+Nicholas,Gregory,Gonzales,F,1758-08-23,Darrylchester,Trinidad and Tobago,1784-07-29,Michaelport,Zambia
+Cole,Beverly,Wolfe,F,1713-03-04,Richardston,Israel,1850-05-09,Nicholaston,Croatia
+Jacob,Kelsey,Bates,F,1768-04-08,East Stacey,Dominican Republic,1788-04-13,Port Joshuatown,Uzbekistan
+Timothy,Allison,Sanchez,F,1715-09-19,West Brentville,Hong Kong,1797-04-26,Anthonyfort,Guinea
+Noah,Jesse,Cooper,M,1693-03-27,Schmidthaven,American Samoa,1787-02-24,South Jackfort,British Indian Ocean Territory (Chagos Archipelago)
+Jason,Karen,Pena,M,1690-11-06,Lake Kurt,Saint Vincent and the Grenadines,1812-04-30,Jesusville,Philippines
+Kurt,Robert,Wilkinson,M,1759-12-06,Greenville,Croatia,1894-01-03,South Charlesfort,France
+Kenneth,Amy,Meyers,M,1738-08-28,Ryantown,Svalbard & Jan Mayen Islands,1748-01-27,East Cheryl,Korea
+Ricardo,Emily,Yang,F,1694-04-16,East Amberbury,Gambia,1769-09-15,Joshuaberg,Trinidad and Tobago
+Gerald,Melissa,Wilson,F,1711-01-09,Michaelton,Burkina Faso,1829-11-06,Roberthaven,Uganda
+Adam,Adrienne,Garrison,M,1718-09-13,Port Kelliberg,Gambia,1753-08-20,East Hollystad,Anguilla
+Colin,Jermaine,Landry,M,1744-07-07,East Julieburgh,Burundi,1803-01-03,Andersonchester,Iran
+Thomas,Matthew,Hart,F,1682-06-16,Nicholsfort,Saint Martin,1778-08-04,Hawkinsside,Trinidad and Tobago
+Robert,Jane,Nielsen,F,1738-09-20,Emilyberg,Heard Island and McDonald Islands,1869-01-14,Hunterton,Haiti
+Robert,Lisa,Kelly,M,1696-04-18,Cruzfurt,Palau,1768-11-15,East Michael,Cuba
+Bradley,David,Gates,M,1695-01-02,Alexabury,Norway,1836-05-10,New Harold,Reunion
+Brian,Zachary,Brown,F,1744-06-06,North Robert,Montserrat,1822-03-08,New Logan,Uruguay
+Steven,Scott,Cooper,M,1682-02-11,Christopherfurt,Netherlands,1737-09-14,Calebton,Bouvet Island (Bouvetoya)
+Matthew,Kathryn,Hall,M,1725-09-01,Lake Julieland,Kenya,1777-12-03,Moyerhaven,United States Virgin Islands
+Luke,Sarah,Coleman,F,1734-07-27,Leeland,Bermuda,1804-04-02,South Dustin,Dominica
+Aaron,Robert,Gross,M,1752-02-25,West Lesliefurt,Bangladesh,1776-05-24,Maciashaven,Namibia
+Robert,Daniel,Evans,M,1676-12-01,Port Connietown,Venezuela,1764-06-22,Dianahaven,Niger
+James,Joseph,Holland,M,1729-07-23,Matthewtown,Rwanda,1746-11-09,Nicolefort,Chad
+Patrick,Grace,Harmon,F,1687-10-25,Jamesshire,Monaco,1778-10-03,East Lori,Libyan Arab Jamahiriya
+George,Randall,Jackson,F,1766-10-30,Port Victor,Israel,1903-09-06,Oscarberg,Bangladesh
+Daniel,Kevin,Buck,F,1754-04-01,Meyershaven,Hong Kong,1764-04-10,Port Timothy,Korea
+Joseph,Michael,Black,M,1682-08-30,North Samuel,Falkland Islands (Malvinas),1752-06-24,New Shannonport,United States Minor Outlying Islands
+Michael,Lisa,Mckee,F,1750-11-22,Lake Daniellebury,Puerto Rico,1801-08-12,Simpsonside,Lesotho
+Logan,Lorraine,Myers,M,1706-07-30,Melissamouth,Cook Islands,1763-02-24,New Sarah,Cayman Islands
+Sean,Mark,Sims,F,1747-07-06,East Yolanda,Gambia,1847-11-11,Birdmouth,Norfolk Island
+Ryan,Andre,Hall,F,1686-06-25,Ricebury,French Polynesia,1707-11-21,Jonesburgh,United States Virgin Islands
+Alfred,Kayla,Williams,F,1748-11-06,North Victor,Ecuador,1870-07-30,Martinside,Reunion
+David,Kenneth,Reyes,F,1679-03-09,New Susan,Morocco,1766-05-08,East Wandaburgh,Mozambique
+Johnathan,Shannon,Perez,M,1710-06-23,Schwartzchester,Croatia,1825-08-28,Timothyville,Guatemala
+Andrew,Matthew,Wilson,F,1677-11-11,West Sarahside,New Zealand,1740-07-11,East Sean,Antarctica (the territory South of 60 deg S)
+Larry,Isaac,Walker,M,1726-07-09,Smithton,Algeria,1858-05-07,South Diamondmouth,Botswana
+Michael,Mary,Moore,M,1728-01-30,East Michaelshire,Portugal,1844-03-16,Lake James,Peru
+Michael,Melissa,Thomas,F,1765-04-06,Port Tiffanyland,Costa Rica,1912-10-01,Lake Seanhaven,Armenia

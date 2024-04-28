@@ -1,0 +1,37 @@
+install.packages("NeuralNetTools")
+library(NeuralNetTools)
+install.packages("nnet")
+library(nnet)
+install.packages("e1071")
+library(e1071)
+install.packages("caret")
+library(caret)
+
+GroupData <- read.csv(file.choose(), header = TRUE)
+
+set.seed(123)
+smp_size <- floor(0.7 * nrow(GroupData))
+train_ind <- sample(seq_len(nrow(GroupData)), size = smp_size)
+train <- GroupData[train_ind, ]
+test_ind <- setdiff(seq_len(nrow(GroupData)), train_ind)
+test <- GroupData[test_ind, ]
+
+# Logistic Regression Model
+LRmodel <- glm(HighValueCar ~ ., family = binomial, data = train)
+LRp <- predict(LRmodel, test, type = "response")
+LRpredict <- ifelse(LRp > 0.20, 1, 0)
+table(LRpredict, test$HighValueCar)
+
+# Neural Network Model
+GroupNN <- nnet(HighValueCar ~ ., data = train, size = 8, maxit = 100000, decay = 0.01)
+GroupNN_probabilities <- predict(GroupNN, newdata = test, type = "raw")
+GroupNN_predict <- ifelse(GroupNN_probabilities > 0.5, 1, 0)
+GroupNN_factor <- as.factor(GroupNN_predict)
+
+LRconfusionMatrix <- confusionMatrix(as.factor(LRpredict), as.factor(test$HighValueCar))
+print("Logistic Regression Confusion Matrix:")
+print(LRconfusionMatrix)
+
+NNconfusionMatrix <- confusionMatrix(GroupNN_factor, as.factor(test$HighValueCar))
+print("Neural Network Confusion Matrix:")
+print(NNconfusionMatrix)

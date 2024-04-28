@@ -1,0 +1,1089 @@
+Starting Nmap 7.94 ( https://nmap.org ) at 2023-07-17 20:29 Central Daylight Time
+NSE: Loaded 156 scripts for scanning.
+NSE: Script Pre-scanning.
+Initiating NSE at 20:29
+Completed NSE at 20:29, 0.00s elapsed
+Initiating NSE at 20:29
+Completed NSE at 20:29, 0.00s elapsed
+Initiating NSE at 20:29
+Completed NSE at 20:29, 0.00s elapsed
+Initiating ARP Ping Scan at 20:29
+Scanning 255 hosts [1 port/host]
+Completed ARP Ping Scan at 20:29, 3.28s elapsed (255 total hosts)
+Initiating Parallel DNS resolution of 14 hosts. at 20:29
+Completed Parallel DNS resolution of 14 hosts. at 20:30, 5.54s elapsed
+Nmap scan report for 10.0.0.0 [host down]
+Nmap scan report for 10.0.0.2 [host down]
+Nmap scan report for 10.0.0.3 [host down]
+Nmap scan report for 10.0.0.4 [host down]
+Nmap scan report for 10.0.0.5 [host down]
+Nmap scan report for 10.0.0.6 [host down]
+Nmap scan report for 10.0.0.7 [host down]
+Nmap scan report for 10.0.0.8 [host down]
+Nmap scan report for 10.0.0.9 [host down]
+Nmap scan report for 10.0.0.11 [host down]
+Nmap scan report for 10.0.0.12 [host down]
+Nmap scan report for 10.0.0.13 [host down]
+Nmap scan report for 10.0.0.14 [host down]
+Nmap scan report for 10.0.0.15 [host down]
+Nmap scan report for 10.0.0.16 [host down]
+Nmap scan report for 10.0.0.17 [host down]
+Nmap scan report for 10.0.0.18 [host down]
+Nmap scan report for 10.0.0.19 [host down]
+Nmap scan report for 10.0.0.20 [host down]
+Nmap scan report for 10.0.0.21 [host down]
+Nmap scan report for 10.0.0.22 [host down]
+Nmap scan report for 10.0.0.23 [host down]
+Nmap scan report for 10.0.0.24 [host down]
+Nmap scan report for 10.0.0.25 [host down]
+Nmap scan report for 10.0.0.26 [host down]
+Nmap scan report for 10.0.0.27 [host down]
+Nmap scan report for 10.0.0.28 [host down]
+Nmap scan report for 10.0.0.29 [host down]
+Nmap scan report for 10.0.0.30 [host down]
+Nmap scan report for 10.0.0.31 [host down]
+Nmap scan report for 10.0.0.32 [host down]
+Nmap scan report for 10.0.0.33 [host down]
+Nmap scan report for 10.0.0.34 [host down]
+Nmap scan report for 10.0.0.35 [host down]
+Nmap scan report for 10.0.0.36 [host down]
+Nmap scan report for 10.0.0.37 [host down]
+Nmap scan report for 10.0.0.38 [host down]
+Nmap scan report for 10.0.0.43 [host down]
+Nmap scan report for 10.0.0.44 [host down]
+Nmap scan report for 10.0.0.45 [host down]
+Nmap scan report for 10.0.0.48 [host down]
+Nmap scan report for 10.0.0.49 [host down]
+Nmap scan report for 10.0.0.50 [host down]
+Nmap scan report for 10.0.0.52 [host down]
+Nmap scan report for 10.0.0.53 [host down]
+Nmap scan report for 10.0.0.54 [host down]
+Nmap scan report for 10.0.0.55 [host down]
+Nmap scan report for 10.0.0.56 [host down]
+Nmap scan report for 10.0.0.57 [host down]
+Nmap scan report for 10.0.0.58 [host down]
+Nmap scan report for 10.0.0.59 [host down]
+Nmap scan report for 10.0.0.60 [host down]
+Nmap scan report for 10.0.0.62 [host down]
+Nmap scan report for 10.0.0.63 [host down]
+Nmap scan report for 10.0.0.64 [host down]
+Nmap scan report for 10.0.0.65 [host down]
+Nmap scan report for 10.0.0.66 [host down]
+Nmap scan report for 10.0.0.67 [host down]
+Nmap scan report for 10.0.0.68 [host down]
+Nmap scan report for 10.0.0.69 [host down]
+Nmap scan report for 10.0.0.70 [host down]
+Nmap scan report for 10.0.0.71 [host down]
+Nmap scan report for 10.0.0.72 [host down]
+Nmap scan report for 10.0.0.73 [host down]
+Nmap scan report for 10.0.0.74 [host down]
+Nmap scan report for 10.0.0.75 [host down]
+Nmap scan report for 10.0.0.76 [host down]
+Nmap scan report for 10.0.0.77 [host down]
+Nmap scan report for 10.0.0.78 [host down]
+Nmap scan report for 10.0.0.79 [host down]
+Nmap scan report for 10.0.0.80 [host down]
+Nmap scan report for 10.0.0.81 [host down]
+Nmap scan report for 10.0.0.82 [host down]
+Nmap scan report for 10.0.0.83 [host down]
+Nmap scan report for 10.0.0.84 [host down]
+Nmap scan report for 10.0.0.85 [host down]
+Nmap scan report for 10.0.0.86 [host down]
+Nmap scan report for 10.0.0.87 [host down]
+Nmap scan report for 10.0.0.88 [host down]
+Nmap scan report for 10.0.0.89 [host down]
+Nmap scan report for 10.0.0.90 [host down]
+Nmap scan report for 10.0.0.91 [host down]
+Nmap scan report for 10.0.0.92 [host down]
+Nmap scan report for 10.0.0.93 [host down]
+Nmap scan report for 10.0.0.94 [host down]
+Nmap scan report for 10.0.0.95 [host down]
+Nmap scan report for 10.0.0.96 [host down]
+Nmap scan report for 10.0.0.97 [host down]
+Nmap scan report for 10.0.0.98 [host down]
+Nmap scan report for 10.0.0.99 [host down]
+Nmap scan report for 10.0.0.100 [host down]
+Nmap scan report for 10.0.0.101 [host down]
+Nmap scan report for 10.0.0.102 [host down]
+Nmap scan report for 10.0.0.103 [host down]
+Nmap scan report for 10.0.0.104 [host down]
+Nmap scan report for 10.0.0.105 [host down]
+Nmap scan report for 10.0.0.106 [host down]
+Nmap scan report for 10.0.0.107 [host down]
+Nmap scan report for 10.0.0.108 [host down]
+Nmap scan report for 10.0.0.109 [host down]
+Nmap scan report for 10.0.0.110 [host down]
+Nmap scan report for 10.0.0.112 [host down]
+Nmap scan report for 10.0.0.113 [host down]
+Nmap scan report for 10.0.0.114 [host down]
+Nmap scan report for 10.0.0.115 [host down]
+Nmap scan report for 10.0.0.116 [host down]
+Nmap scan report for 10.0.0.117 [host down]
+Nmap scan report for 10.0.0.118 [host down]
+Nmap scan report for 10.0.0.119 [host down]
+Nmap scan report for 10.0.0.120 [host down]
+Nmap scan report for 10.0.0.121 [host down]
+Nmap scan report for 10.0.0.122 [host down]
+Nmap scan report for 10.0.0.123 [host down]
+Nmap scan report for 10.0.0.124 [host down]
+Nmap scan report for 10.0.0.125 [host down]
+Nmap scan report for 10.0.0.126 [host down]
+Nmap scan report for 10.0.0.127 [host down]
+Nmap scan report for 10.0.0.128 [host down]
+Nmap scan report for 10.0.0.129 [host down]
+Nmap scan report for 10.0.0.130 [host down]
+Nmap scan report for 10.0.0.131 [host down]
+Nmap scan report for 10.0.0.133 [host down]
+Nmap scan report for 10.0.0.134 [host down]
+Nmap scan report for 10.0.0.135 [host down]
+Nmap scan report for 10.0.0.136 [host down]
+Nmap scan report for 10.0.0.138 [host down]
+Nmap scan report for 10.0.0.139 [host down]
+Nmap scan report for 10.0.0.140 [host down]
+Nmap scan report for 10.0.0.141 [host down]
+Nmap scan report for 10.0.0.142 [host down]
+Nmap scan report for 10.0.0.143 [host down]
+Nmap scan report for 10.0.0.144 [host down]
+Nmap scan report for 10.0.0.145 [host down]
+Nmap scan report for 10.0.0.146 [host down]
+Nmap scan report for 10.0.0.147 [host down]
+Nmap scan report for 10.0.0.148 [host down]
+Nmap scan report for 10.0.0.149 [host down]
+Nmap scan report for 10.0.0.150 [host down]
+Nmap scan report for 10.0.0.151 [host down]
+Nmap scan report for 10.0.0.152 [host down]
+Nmap scan report for 10.0.0.153 [host down]
+Nmap scan report for 10.0.0.154 [host down]
+Nmap scan report for 10.0.0.155 [host down]
+Nmap scan report for 10.0.0.156 [host down]
+Nmap scan report for 10.0.0.157 [host down]
+Nmap scan report for 10.0.0.158 [host down]
+Nmap scan report for 10.0.0.159 [host down]
+Nmap scan report for 10.0.0.160 [host down]
+Nmap scan report for 10.0.0.161 [host down]
+Nmap scan report for 10.0.0.162 [host down]
+Nmap scan report for 10.0.0.163 [host down]
+Nmap scan report for 10.0.0.164 [host down]
+Nmap scan report for 10.0.0.165 [host down]
+Nmap scan report for 10.0.0.166 [host down]
+Nmap scan report for 10.0.0.167 [host down]
+Nmap scan report for 10.0.0.168 [host down]
+Nmap scan report for 10.0.0.169 [host down]
+Nmap scan report for 10.0.0.170 [host down]
+Nmap scan report for 10.0.0.171 [host down]
+Nmap scan report for 10.0.0.172 [host down]
+Nmap scan report for 10.0.0.173 [host down]
+Nmap scan report for 10.0.0.174 [host down]
+Nmap scan report for 10.0.0.175 [host down]
+Nmap scan report for 10.0.0.176 [host down]
+Nmap scan report for 10.0.0.177 [host down]
+Nmap scan report for 10.0.0.178 [host down]
+Nmap scan report for 10.0.0.179 [host down]
+Nmap scan report for 10.0.0.180 [host down]
+Nmap scan report for 10.0.0.181 [host down]
+Nmap scan report for 10.0.0.182 [host down]
+Nmap scan report for 10.0.0.183 [host down]
+Nmap scan report for 10.0.0.184 [host down]
+Nmap scan report for 10.0.0.185 [host down]
+Nmap scan report for 10.0.0.186 [host down]
+Nmap scan report for 10.0.0.187 [host down]
+Nmap scan report for 10.0.0.188 [host down]
+Nmap scan report for 10.0.0.189 [host down]
+Nmap scan report for 10.0.0.190 [host down]
+Nmap scan report for 10.0.0.191 [host down]
+Nmap scan report for 10.0.0.192 [host down]
+Nmap scan report for 10.0.0.193 [host down]
+Nmap scan report for 10.0.0.194 [host down]
+Nmap scan report for 10.0.0.195 [host down]
+Nmap scan report for 10.0.0.196 [host down]
+Nmap scan report for 10.0.0.197 [host down]
+Nmap scan report for 10.0.0.198 [host down]
+Nmap scan report for 10.0.0.199 [host down]
+Nmap scan report for 10.0.0.200 [host down]
+Nmap scan report for 10.0.0.201 [host down]
+Nmap scan report for 10.0.0.202 [host down]
+Nmap scan report for 10.0.0.203 [host down]
+Nmap scan report for 10.0.0.204 [host down]
+Nmap scan report for 10.0.0.205 [host down]
+Nmap scan report for 10.0.0.206 [host down]
+Nmap scan report for 10.0.0.207 [host down]
+Nmap scan report for 10.0.0.208 [host down]
+Nmap scan report for 10.0.0.209 [host down]
+Nmap scan report for 10.0.0.210 [host down]
+Nmap scan report for 10.0.0.211 [host down]
+Nmap scan report for 10.0.0.212 [host down]
+Nmap scan report for 10.0.0.213 [host down]
+Nmap scan report for 10.0.0.215 [host down]
+Nmap scan report for 10.0.0.216 [host down]
+Nmap scan report for 10.0.0.217 [host down]
+Nmap scan report for 10.0.0.218 [host down]
+Nmap scan report for 10.0.0.220 [host down]
+Nmap scan report for 10.0.0.221 [host down]
+Nmap scan report for 10.0.0.222 [host down]
+Nmap scan report for 10.0.0.223 [host down]
+Nmap scan report for 10.0.0.224 [host down]
+Nmap scan report for 10.0.0.225 [host down]
+Nmap scan report for 10.0.0.226 [host down]
+Nmap scan report for 10.0.0.227 [host down]
+Nmap scan report for 10.0.0.228 [host down]
+Nmap scan report for 10.0.0.229 [host down]
+Nmap scan report for 10.0.0.230 [host down]
+Nmap scan report for 10.0.0.231 [host down]
+Nmap scan report for 10.0.0.232 [host down]
+Nmap scan report for 10.0.0.233 [host down]
+Nmap scan report for 10.0.0.234 [host down]
+Nmap scan report for 10.0.0.235 [host down]
+Nmap scan report for 10.0.0.236 [host down]
+Nmap scan report for 10.0.0.237 [host down]
+Nmap scan report for 10.0.0.238 [host down]
+Nmap scan report for 10.0.0.239 [host down]
+Nmap scan report for 10.0.0.240 [host down]
+Nmap scan report for 10.0.0.241 [host down]
+Nmap scan report for 10.0.0.242 [host down]
+Nmap scan report for 10.0.0.243 [host down]
+Nmap scan report for 10.0.0.244 [host down]
+Nmap scan report for 10.0.0.245 [host down]
+Nmap scan report for 10.0.0.246 [host down]
+Nmap scan report for 10.0.0.247 [host down]
+Nmap scan report for 10.0.0.248 [host down]
+Nmap scan report for 10.0.0.249 [host down]
+Nmap scan report for 10.0.0.250 [host down]
+Nmap scan report for 10.0.0.251 [host down]
+Nmap scan report for 10.0.0.252 [host down]
+Nmap scan report for 10.0.0.253 [host down]
+Nmap scan report for 10.0.0.254 [host down]
+Nmap scan report for 10.0.0.255 [host down]
+Initiating Parallel DNS resolution of 1 host. at 20:30
+Completed Parallel DNS resolution of 1 host. at 20:30, 0.02s elapsed
+Initiating SYN Stealth Scan at 20:30
+Scanning 14 hosts [1000 ports/host]
+Discovered open port 22/tcp on 10.0.0.10
+Discovered open port 22/tcp on 10.0.0.41
+Discovered open port 22/tcp on 10.0.0.1
+Discovered open port 80/tcp on 10.0.0.40
+Discovered open port 80/tcp on 10.0.0.1
+Discovered open port 80/tcp on 10.0.0.46
+Discovered open port 139/tcp on 10.0.0.10
+Discovered open port 8080/tcp on 10.0.0.46
+Discovered open port 443/tcp on 10.0.0.40
+Discovered open port 443/tcp on 10.0.0.1
+Discovered open port 443/tcp on 10.0.0.46
+Discovered open port 53/tcp on 10.0.0.1
+Discovered open port 8080/tcp on 10.0.0.10
+Discovered open port 445/tcp on 10.0.0.10
+Discovered open port 3389/tcp on 10.0.0.10
+Discovered open port 9000/tcp on 10.0.0.132
+Discovered open port 8009/tcp on 10.0.0.132
+Discovered open port 8008/tcp on 10.0.0.132
+Discovered open port 9100/tcp on 10.0.0.40
+Discovered open port 10001/tcp on 10.0.0.132
+Discovered open port 10001/tcp on 10.0.0.1
+Discovered open port 515/tcp on 10.0.0.40
+Discovered open port 8443/tcp on 10.0.0.132
+Discovered open port 631/tcp on 10.0.0.40
+Increasing send delay for 10.0.0.42 from 0 to 5 due to 11 out of 14 dropped probes since last increase.
+Increasing send delay for 10.0.0.42 from 5 to 10 due to 11 out of 11 dropped probes since last increase.
+Completed SYN Stealth Scan against 10.0.0.132 in 70.70s (13 hosts left)
+Completed SYN Stealth Scan against 10.0.0.40 in 74.41s (12 hosts left)
+Completed SYN Stealth Scan against 10.0.0.41 in 76.29s (11 hosts left)
+Completed SYN Stealth Scan against 10.0.0.39 in 76.55s (10 hosts left)
+Completed SYN Stealth Scan against 10.0.0.214 in 82.38s (9 hosts left)
+Completed SYN Stealth Scan against 10.0.0.1 in 82.51s (8 hosts left)
+Completed SYN Stealth Scan against 10.0.0.219 in 84.08s (7 hosts left)
+Increasing send delay for 10.0.0.47 from 0 to 5 due to 41 out of 102 dropped probes since last increase.
+Discovered open port 8443/tcp on 10.0.0.10
+Completed SYN Stealth Scan against 10.0.0.61 in 98.64s (6 hosts left)
+Completed SYN Stealth Scan against 10.0.0.137 in 102.98s (5 hosts left)
+Completed SYN Stealth Scan against 10.0.0.46 in 110.34s (4 hosts left)
+Increasing send delay for 10.0.0.47 from 5 to 10 due to 11 out of 11 dropped probes since last increase.
+Completed SYN Stealth Scan against 10.0.0.111 in 117.77s (3 hosts left)
+Completed SYN Stealth Scan against 10.0.0.10 in 119.15s (2 hosts left)
+Completed SYN Stealth Scan against 10.0.0.42 in 124.31s (1 host left)
+Completed SYN Stealth Scan at 20:34, 264.03s elapsed (14000 total ports)
+Initiating Service scan at 20:34
+Scanning 24 services on 14 hosts
+Completed Service scan at 20:36, 135.32s elapsed (25 services on 14 hosts)
+Initiating OS detection (try #1) against 14 hosts
+Retrying OS detection (try #2) against 11 hosts
+Retrying OS detection (try #3) against 4 hosts
+Retrying OS detection (try #4) against 4 hosts
+Retrying OS detection (try #5) against 4 hosts
+WARNING: RST from 10.0.0.40 port 80 -- is this port really open?
+NSE: Script scanning 14 hosts.
+Initiating NSE at 20:36
+Completed NSE at 20:38, 71.61s elapsed
+Initiating NSE at 20:38
+Completed NSE at 20:38, 9.21s elapsed
+Initiating NSE at 20:38
+Completed NSE at 20:38, 0.00s elapsed
+Nmap scan report for 10.0.0.1
+Host is up (0.00055s latency).
+Not shown: 995 closed tcp ports (reset)
+PORT      STATE SERVICE    VERSION
+22/tcp    open  ssh        OpenSSH 7.4p1 Debian 10+deb9u7 (protocol 2.0)
+| ssh-hostkey: 
+|   2048 38:bc:b3:7c:f4:59:3a:4b:d6:f7:45:48:2b:9d:88:00 (RSA)
+|   256 81:8d:62:0c:1d:f9:f2:17:9e:e4:46:58:25:d7:f0:68 (ECDSA)
+|_  256 cd:c9:31:62:e2:49:b9:a0:29:1e:1c:2f:f0:29:73:b9 (ED25519)
+53/tcp    open  domain     dnsmasq 2.85
+| dns-nsid: 
+|_  bind.version: dnsmasq-2.85
+80/tcp    open  http       Server
+|_http-server-header: Server
+| fingerprint-strings: 
+|   GetRequest: 
+|     HTTP/1.0 200 OK
+|     X-Frame-Options: SAMEORIGIN
+|     X-Xss-Protection: 1; mode=block
+|     Content-Length: 8473
+|     X-Content-Type-Options: nosniff
+|     Content-Type: text/html; charset=UTF-8
+|     Connection: close
+|     Date: Tue, 18 Jul 2023 01:34:33 GMT
+|     Server: Server
+|     <!doctype html>
+|     <head>
+|     <meta http-equiv="X-UA-Compatible" content="IE=Edge;chrome=1" />
+|     <meta charset="utf-8">
+|     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+|     <meta name="copyright" content="Copyright 2012 Ubiquiti Networks, Inc. All rights reserved.">
+|     <title>EdgeOS</title>
+|     <link rel="shortcut icon" href="/media/global/favicon.png" />
+|     <link rel="stylesheet" href="/lib/1672393013/stylesheets/css/reset.min.css" type="text/css" media="screen" />
+|     <link rel="stylesheet" href="/lib/1672393013/fonts/open-sans/stylesheet.min.css" type="text/css" media="screen" />
+|     <link rel="stylesheet" href
+|   HTTPOptions: 
+|     HTTP/1.0 405 Method Not Allowed
+|     Content-Length: 727
+|     Allow: OPTIONS
+|     Content-Type: text/html; charset=UTF-8
+|     Connection: close
+|     Date: Tue, 18 Jul 2023 01:34:33 GMT
+|     Server: Server
+|     <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+|     <html>
+|     <head>
+|     <title>Error: 405 Method Not Allowed</title>
+|     <style type="text/css">
+|     html {background-color: #eee; font-family: sans;}
+|     body {background-color: #fff; border: 1px solid #ddd;
+|     padding: 15px; margin: 15px;}
+|     {background-color: #eee; border: 1px solid #ddd; padding: 5px;}
+|     </style>
+|     </head>
+|     <body>
+|     <h1>Error: 405 Method Not Allowed</h1>
+|     <p>Sorry, the requested URL <tt>&#039;http://10.0.0.1/&#039;</tt>
+|     caused an error:</p>
+|     <pre>Method not allowed.</pre>
+|_    </body>
+|_http-title: Did not follow redirect to https://10.0.0.1:443/
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+443/tcp   open  ssl/https  Server
+| tls-alpn: 
+|   http/1.0
+|_  http/1.1
+|_ssl-date: TLS randomness does not represent time
+| ssl-cert: Subject: commonName=UbiquitiRouterUI/organizationName=Ubiquiti Inc./stateOrProvinceName=New York/countryName=US
+| Subject Alternative Name: DNS:UbiquitiRouterUI
+| Issuer: commonName=UbiquitiRouterUI/organizationName=Ubiquiti Inc./stateOrProvinceName=New York/countryName=US
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2021-10-09T11:25:33
+| Not valid after:  2024-01-11T11:25:33
+| MD5:   6fe4:dde0:f581:3d31:4587:9c25:8cb4:6205
+|_SHA-1: fde8:55c4:24dd:737a:bf7a:811d:8d41:39d2:912f:0c74
+|_http-server-header: Server
+| fingerprint-strings: 
+|   GetRequest: 
+|     HTTP/1.0 200 OK
+|     X-Frame-Options: SAMEORIGIN
+|     X-Xss-Protection: 1; mode=block
+|     Content-Length: 8482
+|     X-Content-Type-Options: nosniff
+|     Content-Type: text/html; charset=UTF-8
+|     Connection: close
+|     Date: Tue, 18 Jul 2023 01:34:39 GMT
+|     Server: Server
+|     <!doctype html>
+|     <head>
+|     <meta http-equiv="X-UA-Compatible" content="IE=Edge;chrome=1" />
+|     <meta charset="utf-8">
+|     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+|     <meta name="copyright" content="Copyright 2012 Ubiquiti Networks, Inc. All rights reserved.">
+|     <title>EdgeOS</title>
+|     <link rel="shortcut icon" href="/media/global/favicon.png" />
+|     <link rel="stylesheet" href="/lib/1672393013/stylesheets/css/reset.min.css" type="text/css" media="screen" />
+|     <link rel="stylesheet" href="/lib/1672393013/fonts/open-sans/stylesheet.min.css" type="text/css" media="screen" />
+|     <link rel="stylesheet" href
+|   HTTPOptions: 
+|     HTTP/1.0 405 Method Not Allowed
+|     Content-Length: 728
+|     Allow: OPTIONS
+|     Content-Type: text/html; charset=UTF-8
+|     Connection: close
+|     Date: Tue, 18 Jul 2023 01:34:39 GMT
+|     Server: Server
+|     <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+|     <html>
+|     <head>
+|     <title>Error: 405 Method Not Allowed</title>
+|     <style type="text/css">
+|     html {background-color: #eee; font-family: sans;}
+|     body {background-color: #fff; border: 1px solid #ddd;
+|     padding: 15px; margin: 15px;}
+|     {background-color: #eee; border: 1px solid #ddd; padding: 5px;}
+|     </style>
+|     </head>
+|     <body>
+|     <h1>Error: 405 Method Not Allowed</h1>
+|     <p>Sorry, the requested URL <tt>&#039;https://10.0.0.1/&#039;</tt>
+|     caused an error:</p>
+|     <pre>Method not allowed.</pre>
+|_    </body>
+| http-methods: 
+|_  Supported Methods: OPTIONS GET HEAD POST
+|_http-title: EdgeOS
+10001/tcp open  tcpwrapped
+2 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at https://nmap.org/cgi-bin/submit.cgi?new-service :
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port80-TCP:V=7.94%I=7%D=7/17%Time=64B5EC27%P=i686-pc-windows-windows%r(
+SF:GetRequest,2211,"HTTP/1\.0\x20200\x20OK\r\nX-Frame-Options:\x20SAMEORIG
+SF:IN\r\nX-Xss-Protection:\x201;\x20mode=block\r\nContent-Length:\x208473\
+SF:r\nX-Content-Type-Options:\x20nosniff\r\nContent-Type:\x20text/html;\x2
+SF:0charset=UTF-8\r\nConnection:\x20close\r\nDate:\x20Tue,\x2018\x20Jul\x2
+SF:02023\x2001:34:33\x20GMT\r\nServer:\x20Server\r\n\r\n<!doctype\x20html>
+SF:\n<head>\n\x20\x20<meta\x20http-equiv=\"X-UA-Compatible\"\x20content=\"
+SF:IE=Edge;chrome=1\"\x20/>\n\x20\x20<meta\x20charset=\"utf-8\">\n\x20\x20
+SF:<meta\x20name=\"viewport\"\x20content=\"width=device-width,\x20initial-
+SF:scale=1\.0\">\n\x20\x20<meta\x20name=\"copyright\"\x20content=\"Copyrig
+SF:ht\x202012\x20Ubiquiti\x20Networks,\x20Inc\.\x20All\x20rights\x20reserv
+SF:ed\.\">\n\n\x20\x20<title>EdgeOS</title>\n\n\x20\x20\x20\x20<link\x20re
+SF:l=\"shortcut\x20icon\"\x20href=\"/media/global/favicon\.png\"\x20/>\n\x
+SF:20\x20\x20\x20\x20\x20\x20\x20<link\x20rel=\"stylesheet\"\x20href=\"/li
+SF:b/1672393013/stylesheets/css/reset\.min\.css\"\x20type=\"text/css\"\x20
+SF:media=\"screen\"\x20/>\n\x20\x20\x20\x20\x20\x20\x20\x20<link\x20rel=\"
+SF:stylesheet\"\x20href=\"/lib/1672393013/fonts/open-sans/stylesheet\.min\
+SF:.css\"\x20type=\"text/css\"\x20media=\"screen\"\x20/>\n\x20\x20\x20\x20
+SF:\x20\x20\x20\x20<link\x20rel=\"stylesheet\"\x20href")%r(HTTPOptions,38F
+SF:,"HTTP/1\.0\x20405\x20Method\x20Not\x20Allowed\r\nContent-Length:\x2072
+SF:7\r\nAllow:\x20OPTIONS\r\nContent-Type:\x20text/html;\x20charset=UTF-8\
+SF:r\nConnection:\x20close\r\nDate:\x20Tue,\x2018\x20Jul\x202023\x2001:34:
+SF:33\x20GMT\r\nServer:\x20Server\r\n\r\n\n\x20\x20\x20\x20<!DOCTYPE\x20HT
+SF:ML\x20PUBLIC\x20\"-//IETF//DTD\x20HTML\x202\.0//EN\">\n\x20\x20\x20\x20
+SF:<html>\n\x20\x20\x20\x20\x20\x20\x20\x20<head>\n\x20\x20\x20\x20\x20\x2
+SF:0\x20\x20\x20\x20\x20\x20<title>Error:\x20405\x20Method\x20Not\x20Allow
+SF:ed</title>\n\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<style\x20t
+SF:ype=\"text/css\">\n\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20
+SF:\x20html\x20{background-color:\x20#eee;\x20font-family:\x20sans;}\n\x20
+SF:\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20body\x20{background
+SF:-color:\x20#fff;\x20border:\x201px\x20solid\x20#ddd;\n\x20\x20\x20\x20\
+SF:x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:
+SF:\x2015px;\x20margin:\x2015px;}\n\x20\x20\x20\x20\x20\x20\x20\x20\x20\x2
+SF:0\x20\x20\x20\x20pre\x20{background-color:\x20#eee;\x20border:\x201px\x
+SF:20solid\x20#ddd;\x20padding:\x205px;}\n\x20\x20\x20\x20\x20\x20\x20\x20
+SF:\x20\x20\x20\x20</style>\n\x20\x20\x20\x20\x20\x20\x20\x20</head>\n\x20
+SF:\x20\x20\x20\x20\x20\x20\x20<body>\n\x20\x20\x20\x20\x20\x20\x20\x20\x2
+SF:0\x20\x20\x20<h1>Error:\x20405\x20Method\x20Not\x20Allowed</h1>\n\x20\x
+SF:20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>Sorry,\x20the\x20requested
+SF:\x20URL\x20<tt>&#039;http://10\.0\.0\.1/&#039;</tt>\n\x20\x20\x20\x20\x
+SF:20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20caused\x20an\x20error:</p>\n\
+SF:x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<pre>Method\x20not\x20al
+SF:lowed\.</pre>\n\x20\x20\x20\x20\x20\x20\x20\x20</body>\n\x20");
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port443-TCP:V=7.94%T=SSL%I=7%D=7/17%Time=64B5EC2D%P=i686-pc-windows-win
+SF:dows%r(GetRequest,221A,"HTTP/1\.0\x20200\x20OK\r\nX-Frame-Options:\x20S
+SF:AMEORIGIN\r\nX-Xss-Protection:\x201;\x20mode=block\r\nContent-Length:\x
+SF:208482\r\nX-Content-Type-Options:\x20nosniff\r\nContent-Type:\x20text/h
+SF:tml;\x20charset=UTF-8\r\nConnection:\x20close\r\nDate:\x20Tue,\x2018\x2
+SF:0Jul\x202023\x2001:34:39\x20GMT\r\nServer:\x20Server\r\n\r\n<!doctype\x
+SF:20html>\n<head>\n\x20\x20<meta\x20http-equiv=\"X-UA-Compatible\"\x20con
+SF:tent=\"IE=Edge;chrome=1\"\x20/>\n\x20\x20<meta\x20charset=\"utf-8\">\n\
+SF:x20\x20<meta\x20name=\"viewport\"\x20content=\"width=device-width,\x20i
+SF:nitial-scale=1\.0\">\n\x20\x20<meta\x20name=\"copyright\"\x20content=\"
+SF:Copyright\x202012\x20Ubiquiti\x20Networks,\x20Inc\.\x20All\x20rights\x2
+SF:0reserved\.\">\n\n\x20\x20<title>EdgeOS</title>\n\n\x20\x20\x20\x20<lin
+SF:k\x20rel=\"shortcut\x20icon\"\x20href=\"/media/global/favicon\.png\"\x2
+SF:0/>\n\x20\x20\x20\x20\x20\x20\x20\x20<link\x20rel=\"stylesheet\"\x20hre
+SF:f=\"/lib/1672393013/stylesheets/css/reset\.min\.css\"\x20type=\"text/cs
+SF:s\"\x20media=\"screen\"\x20/>\n\x20\x20\x20\x20\x20\x20\x20\x20<link\x2
+SF:0rel=\"stylesheet\"\x20href=\"/lib/1672393013/fonts/open-sans/styleshee
+SF:t\.min\.css\"\x20type=\"text/css\"\x20media=\"screen\"\x20/>\n\x20\x20\
+SF:x20\x20\x20\x20\x20\x20<link\x20rel=\"stylesheet\"\x20href")%r(HTTPOpti
+SF:ons,390,"HTTP/1\.0\x20405\x20Method\x20Not\x20Allowed\r\nContent-Length
+SF::\x20728\r\nAllow:\x20OPTIONS\r\nContent-Type:\x20text/html;\x20charset
+SF:=UTF-8\r\nConnection:\x20close\r\nDate:\x20Tue,\x2018\x20Jul\x202023\x2
+SF:001:34:39\x20GMT\r\nServer:\x20Server\r\n\r\n\n\x20\x20\x20\x20<!DOCTYP
+SF:E\x20HTML\x20PUBLIC\x20\"-//IETF//DTD\x20HTML\x202\.0//EN\">\n\x20\x20\
+SF:x20\x20<html>\n\x20\x20\x20\x20\x20\x20\x20\x20<head>\n\x20\x20\x20\x20
+SF:\x20\x20\x20\x20\x20\x20\x20\x20<title>Error:\x20405\x20Method\x20Not\x
+SF:20Allowed</title>\n\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<sty
+SF:le\x20type=\"text/css\">\n\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\
+SF:x20\x20\x20html\x20{background-color:\x20#eee;\x20font-family:\x20sans;
+SF:}\n\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20body\x20{bac
+SF:kground-color:\x20#fff;\x20border:\x201px\x20solid\x20#ddd;\n\x20\x20\x
+SF:20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20p
+SF:adding:\x2015px;\x20margin:\x2015px;}\n\x20\x20\x20\x20\x20\x20\x20\x20
+SF:\x20\x20\x20\x20\x20\x20pre\x20{background-color:\x20#eee;\x20border:\x
+SF:201px\x20solid\x20#ddd;\x20padding:\x205px;}\n\x20\x20\x20\x20\x20\x20\
+SF:x20\x20\x20\x20\x20\x20</style>\n\x20\x20\x20\x20\x20\x20\x20\x20</head
+SF:>\n\x20\x20\x20\x20\x20\x20\x20\x20<body>\n\x20\x20\x20\x20\x20\x20\x20
+SF:\x20\x20\x20\x20\x20<h1>Error:\x20405\x20Method\x20Not\x20Allowed</h1>\
+SF:n\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>Sorry,\x20the\x20re
+SF:quested\x20URL\x20<tt>&#039;https://10\.0\.0\.1/&#039;</tt>\n\x20\x20\x
+SF:20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20caused\x20an\x20error
+SF::</p>\n\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<pre>Method\x20n
+SF:ot\x20allowed\.</pre>\n\x20\x20\x20\x20\x20\x20\x20\x20</body>\n");
+MAC Address: B4:FB:E4:1B:A6:26 (Ubiquiti Networks)
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.9
+Uptime guess: 13.646 days (since Tue Jul  4 05:08:25 2023)
+Network Distance: 1 hop
+TCP Sequence Prediction: Difficulty=255 (Good luck!)
+IP ID Sequence Generation: All zeros
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   0.55 ms 10.0.0.1
+
+Nmap scan report for 10.0.0.10
+Host is up (0.0020s latency).
+Not shown: 993 filtered tcp ports (no-response)
+PORT     STATE  SERVICE         VERSION
+22/tcp   open   ssh             OpenSSH 8.2p1 Ubuntu 4ubuntu0.7 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   3072 de:24:e8:15:f2:c6:44:ea:e3:1d:e1:cf:2e:25:a9:7a (RSA)
+|   256 a4:2b:cd:3c:2c:94:7e:96:6c:de:62:7d:44:44:fc:ab (ECDSA)
+|_  256 1b:0f:65:3e:d0:80:a7:9e:22:cd:af:98:3f:dd:d0:0f (ED25519)
+139/tcp  open   netbios-ssn     Samba smbd 4.6.2
+445/tcp  open   netbios-ssn     Samba smbd 4.6.2
+3389/tcp open   ms-wbt-server   Microsoft Terminal Service
+5901/tcp closed vnc-1
+8080/tcp open   http-proxy
+| fingerprint-strings: 
+|   FourOhFourRequest: 
+|     HTTP/1.1 404 
+|     Content-Type: text/html;charset=utf-8
+|     Content-Language: en
+|     Content-Length: 431
+|     Date: Tue, 18 Jul 2023 01:34:32 GMT
+|     Connection: close
+|     <!doctype html><html lang="en"><head><title>HTTP Status 404 
+|     Found</title><style type="text/css">body {font-family:Tahoma,Arial,sans-serif;} h1, h2, h3, b {color:white;background-color:#525D76;} h1 {font-size:22px;} h2 {font-size:16px;} h3 {font-size:14px;} p {font-size:12px;} a {color:black;} .line {height:1px;background-color:#525D76;border:none;}</style></head><body><h1>HTTP Status 404 
+|     Found</h1></body></html>
+|   GetRequest, HTTPOptions: 
+|     HTTP/1.1 302 
+|     Location: http://localhost:8080/manage
+|     Content-Length: 0
+|     Date: Tue, 18 Jul 2023 01:34:32 GMT
+|     Connection: close
+|   RTSPRequest, Socks5: 
+|     HTTP/1.1 400 
+|     Content-Type: text/html;charset=utf-8
+|     Content-Language: en
+|     Content-Length: 435
+|     Date: Tue, 18 Jul 2023 01:34:32 GMT
+|     Connection: close
+|     <!doctype html><html lang="en"><head><title>HTTP Status 400 
+|     Request</title><style type="text/css">body {font-family:Tahoma,Arial,sans-serif;} h1, h2, h3, b {color:white;background-color:#525D76;} h1 {font-size:22px;} h2 {font-size:16px;} h3 {font-size:14px;} p {font-size:12px;} a {color:black;} .line {height:1px;background-color:#525D76;border:none;}</style></head><body><h1>HTTP Status 400 
+|_    Request</h1></body></html>
+|_http-title: Did not follow redirect to https://10.0.0.10:8443/manage
+|_http-open-proxy: Proxy might be redirecting requests
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+8443/tcp open   ssl/nagios-nsca Nagios NSCA
+| ssl-cert: Subject: commonName=UniFi/organizationName=Ubiquiti Inc./stateOrProvinceName=New York/countryName=US
+| Subject Alternative Name: DNS:UniFi
+| Issuer: commonName=UniFi/organizationName=Ubiquiti Inc./stateOrProvinceName=New York/countryName=US
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2022-08-22T19:23:03
+| Not valid after:  2024-11-24T19:23:03
+| MD5:   d81f:a48c:94cd:fc8d:f0ad:4f89:0b1c:26ca
+|_SHA-1: fed8:4bac:dab4:eab9:6cfe:8ec0:0507:0e9d:8c80:97f5
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+| http-title: UniFi Network
+|_Requested resource was /manage/account/login?redirect=%2Fmanage
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port8080-TCP:V=7.94%I=7%D=7/17%Time=64B5EC26%P=i686-pc-windows-windows%
+SF:r(GetRequest,84,"HTTP/1\.1\x20302\x20\r\nLocation:\x20http://localhost:
+SF:8080/manage\r\nContent-Length:\x200\r\nDate:\x20Tue,\x2018\x20Jul\x2020
+SF:23\x2001:34:32\x20GMT\r\nConnection:\x20close\r\n\r\n")%r(HTTPOptions,8
+SF:4,"HTTP/1\.1\x20302\x20\r\nLocation:\x20http://localhost:8080/manage\r\
+SF:nContent-Length:\x200\r\nDate:\x20Tue,\x2018\x20Jul\x202023\x2001:34:32
+SF:\x20GMT\r\nConnection:\x20close\r\n\r\n")%r(RTSPRequest,24E,"HTTP/1\.1\
+SF:x20400\x20\r\nContent-Type:\x20text/html;charset=utf-8\r\nContent-Langu
+SF:age:\x20en\r\nContent-Length:\x20435\r\nDate:\x20Tue,\x2018\x20Jul\x202
+SF:023\x2001:34:32\x20GMT\r\nConnection:\x20close\r\n\r\n<!doctype\x20html
+SF:><html\x20lang=\"en\"><head><title>HTTP\x20Status\x20400\x20\xe2\x80\x9
+SF:3\x20Bad\x20Request</title><style\x20type=\"text/css\">body\x20{font-fa
+SF:mily:Tahoma,Arial,sans-serif;}\x20h1,\x20h2,\x20h3,\x20b\x20{color:whit
+SF:e;background-color:#525D76;}\x20h1\x20{font-size:22px;}\x20h2\x20{font-
+SF:size:16px;}\x20h3\x20{font-size:14px;}\x20p\x20{font-size:12px;}\x20a\x
+SF:20{color:black;}\x20\.line\x20{height:1px;background-color:#525D76;bord
+SF:er:none;}</style></head><body><h1>HTTP\x20Status\x20400\x20\xe2\x80\x93
+SF:\x20Bad\x20Request</h1></body></html>")%r(FourOhFourRequest,24A,"HTTP/1
+SF:\.1\x20404\x20\r\nContent-Type:\x20text/html;charset=utf-8\r\nContent-L
+SF:anguage:\x20en\r\nContent-Length:\x20431\r\nDate:\x20Tue,\x2018\x20Jul\
+SF:x202023\x2001:34:32\x20GMT\r\nConnection:\x20close\r\n\r\n<!doctype\x20
+SF:html><html\x20lang=\"en\"><head><title>HTTP\x20Status\x20404\x20\xe2\x8
+SF:0\x93\x20Not\x20Found</title><style\x20type=\"text/css\">body\x20{font-
+SF:family:Tahoma,Arial,sans-serif;}\x20h1,\x20h2,\x20h3,\x20b\x20{color:wh
+SF:ite;background-color:#525D76;}\x20h1\x20{font-size:22px;}\x20h2\x20{fon
+SF:t-size:16px;}\x20h3\x20{font-size:14px;}\x20p\x20{font-size:12px;}\x20a
+SF:\x20{color:black;}\x20\.line\x20{height:1px;background-color:#525D76;bo
+SF:rder:none;}</style></head><body><h1>HTTP\x20Status\x20404\x20\xe2\x80\x
+SF:93\x20Not\x20Found</h1></body></html>")%r(Socks5,24E,"HTTP/1\.1\x20400\
+SF:x20\r\nContent-Type:\x20text/html;charset=utf-8\r\nContent-Language:\x2
+SF:0en\r\nContent-Length:\x20435\r\nDate:\x20Tue,\x2018\x20Jul\x202023\x20
+SF:01:34:32\x20GMT\r\nConnection:\x20close\r\n\r\n<!doctype\x20html><html\
+SF:x20lang=\"en\"><head><title>HTTP\x20Status\x20400\x20\xe2\x80\x93\x20Ba
+SF:d\x20Request</title><style\x20type=\"text/css\">body\x20{font-family:Ta
+SF:homa,Arial,sans-serif;}\x20h1,\x20h2,\x20h3,\x20b\x20{color:white;backg
+SF:round-color:#525D76;}\x20h1\x20{font-size:22px;}\x20h2\x20{font-size:16
+SF:px;}\x20h3\x20{font-size:14px;}\x20p\x20{font-size:12px;}\x20a\x20{colo
+SF:r:black;}\x20\.line\x20{height:1px;background-color:#525D76;border:none
+SF:;}</style></head><body><h1>HTTP\x20Status\x20400\x20\xe2\x80\x93\x20Bad
+SF:\x20Request</h1></body></html>");
+MAC Address: 08:60:6E:82:7F:3A (ASUSTek Computer)
+Aggressive OS guesses: Linux 5.0 - 5.4 (98%), Linux 4.15 - 5.8 (94%), Linux 5.0 - 5.5 (93%), Linux 5.1 (93%), Linux 2.6.32 - 3.13 (93%), Linux 2.6.39 (93%), Linux 2.6.22 - 2.6.36 (91%), Linux 3.10 - 4.11 (91%), Linux 5.0 (91%), Linux 3.10 (91%)
+No exact OS matches for host (test conditions non-ideal).
+Uptime guess: 32.073 days (since Thu Jun 15 18:53:08 2023)
+Network Distance: 1 hop
+TCP Sequence Prediction: Difficulty=259 (Good luck!)
+IP ID Sequence Generation: All zeros
+Service Info: OSs: Linux, Windows; CPE: cpe:/o:linux:linux_kernel, cpe:/o:microsoft:windows
+
+Host script results:
+|_clock-skew: 1s
+| smb2-security-mode: 
+|   3:1:1: 
+|_    Message signing enabled but not required
+| nbstat: NetBIOS name: , NetBIOS user: <unknown>, NetBIOS MAC: <unknown> (unknown)
+| Names:
+|   \x01\x02__MSBROWSE__\x02<01>  Flags: <group><active>
+|   <00>                 Flags: <unique><active>
+|   <03>                 Flags: <unique><active>
+|   <20>                 Flags: <unique><active>
+|   WORKGROUP<00>        Flags: <group><active>
+|   WORKGROUP<1d>        Flags: <unique><active>
+|_  WORKGROUP<1e>        Flags: <group><active>
+| smb2-time: 
+|   date: 2023-07-18T01:37:11
+|_  start_date: N/A
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   2.05 ms 10.0.0.10
+
+Nmap scan report for 10.0.0.39
+Host is up (0.029s latency).
+All 1000 scanned ports on 10.0.0.39 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: 9C:5A:44:DC:4C:17 (Compal Information (Kunshan))
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+TRACEROUTE
+HOP RTT      ADDRESS
+1   28.91 ms 10.0.0.39
+
+Nmap scan report for 10.0.0.40
+Host is up (0.0081s latency).
+Not shown: 995 closed tcp ports (reset)
+PORT     STATE SERVICE    VERSION
+80/tcp   open  http       Debut embedded httpd 1.30 (Brother/HP printer http admin)
+|_http-server-header: debut/1.30
+| http-title: Brother DCP-L2550DW series
+|_Requested resource was /general/status.html
+| http-methods: 
+|_  Supported Methods: GET POST
+| http-robots.txt: 1 disallowed entry 
+|_/
+443/tcp  open  ssl/http   Debut embedded httpd 1.30 (Brother/HP printer http admin)
+|_http-server-header: debut/1.30
+| ssl-cert: Subject: commonName=BRN3C2AF4F78FE7.local
+| Issuer: commonName=BRN3C2AF4F78FE7.local
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2000-01-01T00:00:00
+| Not valid after:  2110-12-31T23:59:59
+| MD5:   73f4:a371:448a:bdd7:b4b5:aff9:35d0:d3e3
+|_SHA-1: 8ba8:ade1:c53f:61b0:120a:9baa:5660:e7e7:0105:54d2
+|_ssl-date: TLS randomness does not represent time
+| http-methods: 
+|_  Supported Methods: GET POST
+| http-title: Brother DCP-L2550DW series
+|_Requested resource was /general/status.html
+| http-robots.txt: 1 disallowed entry 
+|_/
+515/tcp  open  printer
+631/tcp  open  http       Debut embedded httpd 1.30 (Brother/HP printer http admin)
+|_http-server-header: debut/1.30
+| http-title: Brother DCP-L2550DW series
+|_Requested resource was /general/status.html
+| http-robots.txt: 1 disallowed entry 
+|_/
+| http-methods: 
+|_  Supported Methods: POST GET HEAD OPTIONS
+9100/tcp open  jetdirect?
+MAC Address: 3C:2A:F4:F7:8F:E7 (Brother Industries)
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.94%E=4%D=7/17%OT=80%CT=1%CU=35577%PV=Y%DS=1%DC=D%G=Y%M=3C2AF4%T
+OS:M=64B5ED08%P=i686-pc-windows-windows)SEQ(II=I)SEQ(SP=106%GCD=1%ISR=109%T
+OS:I=RD%II=I%TS=B)SEQ(SP=107%GCD=1%ISR=10A%II=I%TS=A)SEQ(SP=107%GCD=1%ISR=1
+OS:0A%CI=I%TS=A)SEQ(SP=107%GCD=1%ISR=10A%TI=RI%II=I%TS=A)OPS(O1=M5B4NW0NNT1
+OS:1%O2=M578NW0NNSNNT11%O3=M280NW0NNT11%O4=M5B4NW0NNSNNT11%O5=M218NW0NNSNNT
+OS:11%O6=M109NNSNNT11)OPS(O1=NNT11%O2=M578NW0NNSNNT11%O3=M280NW0NNT11%O4=M5
+OS:B4NW0NNSNNT11%O5=M218NW0NNSNNT11%O6=M109NNSNNT11)OPS(O1=NNT11%O2=NNT11%O
+OS:3=NNT11%O4=NNT11%O5=M218NW0NNSNNT11%O6=M109NNSNNT11)WIN(W1=21F0%W2=2088%
+OS:W3=2258%W4=21F0%W5=20C0%W6=209D)ECN(R=Y%DF=N%T=40%W=2238%O=%CC=N%Q=)ECN(
+OS:R=Y%DF=N%T=40%W=2238%O=M5B4NW0NNS%CC=N%Q=)T1(R=Y%DF=N%T=40%S=O%A=O%F=A%R
+OS:D=0%Q=)T1(R=Y%DF=N%T=40%S=O%A=O%F=AS%RD=0%Q=)T1(R=Y%DF=N%T=40%S=O%A=S+%F
+OS:=AS%RD=0%Q=)T2(R=N)T3(R=N)T4(R=Y%DF=N%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T5
+OS:(R=Y%DF=N%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=N%T=40%W=0%S=A%A=Z
+OS:%F=R%O=%RD=0%Q=)T7(R=Y%DF=N%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)U1(R=Y%DF=
+OS:N%T=FF%IPL=38%UN=0%RIPL=G%RID=G%RIPCK=G%RUCK=G%RUD=G)IE(R=Y%DFI=N%T=FF%C
+OS:D=S)
+
+Network Distance: 1 hop
+Service Info: Device: printer
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   8.13 ms 10.0.0.40
+
+Nmap scan report for 10.0.0.41
+Host is up (0.0062s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     Dropbear sshd 2020.81 (protocol 2.0)
+MAC Address: B4:FB:E4:70:68:13 (Ubiquiti Networks)
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.94%E=4%D=7/17%OT=22%CT=1%CU=33787%PV=Y%DS=1%DC=D%G=Y%M=B4FBE4%T
+OS:M=64B5ED08%P=i686-pc-windows-windows)SEQ(CI=I%II=I)SEQ(SP=105%GCD=1%ISR=
+OS:10B%TI=Z%CI=I%II=I%TS=U)SEQ(SP=106%GCD=1%ISR=10C%TI=Z%CI=I%II=I%TS=U)OPS
+OS:(O1=%O2=%O3=%O4=%O5=%O6=)OPS(O1=%O2=%O3=%O4=%O5=M5B4NNSNW4%O6=M5B4NNS)OP
+OS:S(O1=M5B4NNSNW4%O2=M5B4NNSNW4%O3=M5B4NW4%O4=M5B4NNSNW4%O5=M5B4NNSNW4%O6=
+OS:M5B4NNS)WIN(W1=721%W2=721%W3=721%W4=721%W5=721%W6=7210)WIN(W1=721%W2=721
+OS:%W3=721%W4=721%W5=7210%W6=7210)WIN(W1=7210%W2=7210%W3=7210%W4=7210%W5=72
+OS:10%W6=7210)ECN(R=Y%DF=Y%T=40%W=721%O=%CC=N%Q=)ECN(R=Y%DF=Y%T=40%W=7210%O
+OS:=M5B4NNSNW4%CC=N%Q=)T1(R=Y%DF=Y%T=40%S=O%A=O%F=A%RD=0%Q=)T1(R=Y%DF=Y%T=4
+OS:0%S=O%A=O%F=AS%RD=0%Q=)T1(R=Y%DF=Y%T=40%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(
+OS:R=N)T4(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T5(R=Y%DF=Y%T=40%W=0%S=Z
+OS:%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T7(R=Y
+OS:%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)U1(R=Y%DF=N%T=40%IPL=164%UN=0%RI
+OS:PL=G%RID=G%RIPCK=G%RUCK=G%RUD=G)IE(R=Y%DFI=N%T=40%CD=S)
+
+Network Distance: 1 hop
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   6.24 ms 10.0.0.41
+
+Nmap scan report for 10.0.0.42
+Host is up (0.045s latency).
+Not shown: 977 closed tcp ports (reset)
+PORT      STATE    SERVICE        VERSION
+9/tcp     filtered discard
+17/tcp    filtered qotd
+1045/tcp  filtered fpitp
+1066/tcp  filtered fpo-fns
+1082/tcp  filtered amt-esd-prot
+1137/tcp  filtered trim
+1201/tcp  filtered nucleus-sand
+1461/tcp  filtered ibm_wrless_lan
+2100/tcp  filtered amiganetfs
+3031/tcp  filtered eppc
+3128/tcp  filtered squid-http
+4279/tcp  filtered vrml-multi-use
+4567/tcp  filtered tram
+5560/tcp  filtered isqlplus
+5800/tcp  filtered vnc-http
+5810/tcp  filtered unknown
+5825/tcp  filtered unknown
+6969/tcp  filtered acmsoda
+9000/tcp  filtered cslistener
+13722/tcp filtered netbackup
+18101/tcp filtered unknown
+24444/tcp filtered unknown
+30951/tcp filtered unknown
+MAC Address: 64:16:66:35:16:03 (Nest Labs)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: media device
+Running: Microsoft Xbox 360
+OS CPE: cpe:/h:microsoft:xbox_360_kernel
+OS details: Microsoft Xbox 360 Dashboard
+Network Distance: 1 hop
+
+TRACEROUTE
+HOP RTT      ADDRESS
+1   45.42 ms 10.0.0.42
+
+Nmap scan report for 10.0.0.46
+Host is up (0.0083s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT     STATE SERVICE  VERSION
+80/tcp   open  http     nginx
+|_http-title: hue personal wireless lighting
+| http-methods: 
+|_  Supported Methods: GET HEAD
+443/tcp  open  ssl/http nginx
+| ssl-cert: Subject: commonName=001788fffe778c60/organizationName=Philips Hue/countryName=NL
+| Issuer: commonName=001788fffe778c60/organizationName=Philips Hue/countryName=NL
+| Public Key type: ec
+| Public Key bits: 256
+| Signature Algorithm: ecdsa-with-SHA256
+| Not valid before: 2017-01-01T00:00:00
+| Not valid after:  2038-01-01T00:00:00
+| MD5:   9d40:9a89:c76d:62fc:26f5:520b:a5a0:a52a
+|_SHA-1: c06e:7732:5bbc:ebc3:76ff:ea73:de51:d506:ed94:6d02
+| http-methods: 
+|_  Supported Methods: GET HEAD
+|_http-title: hue personal wireless lighting
+8080/tcp open  http     Web-Based Enterprise Management CIM serverOpenPegasus WBEM httpd
+|_http-title: Site doesn't have a title.
+MAC Address: 00:17:88:77:8C:60 (Philips Lighting BV)
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.94%E=4%D=7/17%OT=80%CT=1%CU=31863%PV=Y%DS=1%DC=D%G=Y%M=001788%T
+OS:M=64B5ED08%P=i686-pc-windows-windows)SEQ(CI=Z%II=I)SEQ(SP=102%GCD=1%ISR=
+OS:10C%TI=Z%CI=Z%II=I%TS=U)OPS(O1=%O2=%O3=%O4=%O5=%O6=)OPS(O1=%O2=%O3=%O4=M
+OS:5B4NNSNW3%O5=M5B4NNSNW3%O6=M5B4NNS)OPS(O1=M5B4NNSNW3%O2=M5B4NNSNW3%O3=M5
+OS:B4NW3%O4=M5B4NNSNW3%O5=M5B4NNSNW3%O6=M5B4NNS)WIN(W1=7210%W2=7210%W3=7210
+OS:%W4=7210%W5=7210%W6=7210)WIN(W1=E42%W2=E42%W3=E42%W4=7210%W5=7210%W6=721
+OS:0)WIN(W1=E42%W2=E42%W3=E42%W4=E42%W5=E42%W6=7210)ECN(R=Y%DF=Y%T=40%W=721
+OS:0%O=M5B4NNSNW3%CC=N%Q=)ECN(R=Y%DF=Y%T=40%W=E42%O=%CC=N%Q=)T1(R=Y%DF=Y%T=
+OS:40%S=O%A=O%F=A%RD=0%Q=)T1(R=Y%DF=Y%T=40%S=O%A=O%F=AS%RD=0%Q=)T1(R=Y%DF=Y
+OS:%T=40%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(R=N)T4(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F
+OS:=R%O=%RD=0%Q=)T5(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%
+OS:T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T7(R=N)U1(R=Y%DF=N%T=40%IPL=164%UN=0%RIP
+OS:L=G%RID=G%RIPCK=G%RUCK=G%RUD=G)IE(R=Y%DFI=N%T=40%CD=S)
+
+Network Distance: 1 hop
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   8.31 ms 10.0.0.46
+
+Nmap scan report for 10.0.0.47
+Host is up (0.013s latency).
+All 1000 scanned ports on 10.0.0.47 are in ignored states.
+Not shown: 939 filtered tcp ports (no-response), 61 closed tcp ports (reset)
+MAC Address: 48:A5:E7:F1:B1:D8 (Nintendo)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: media device
+Running: Microsoft Xbox 360
+OS CPE: cpe:/h:microsoft:xbox_360_kernel
+OS details: Microsoft Xbox 360 Dashboard
+Network Distance: 1 hop
+
+TRACEROUTE
+HOP RTT      ADDRESS
+1   12.60 ms 10.0.0.47
+
+Nmap scan report for 10.0.0.61
+Host is up (0.047s latency).
+All 1000 scanned ports on 10.0.0.61 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: 10:52:1C:6C:26:94 (Espressif)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: 2N Helios IP VoIP doorbell (96%), Advanced Illumination DCS-100E lighting controller (96%), AudioControl D3400 network amplifier (96%), British Gas GS-Z3 data logger (96%), Daysequerra M4.2SI radio (96%), Denver Electronics AC-5000W MK2 camera (96%), DTE Energy Bridge (lwIP stack) (96%), Enlogic PDU (FreeRTOS/lwIP) (96%), Espressif esp8266 firmware (lwIP stack) (96%), Espressif ESP8266 WiFi system-on-a-chip (96%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+
+TRACEROUTE
+HOP RTT      ADDRESS
+1   46.90 ms 10.0.0.61
+
+Nmap scan report for 10.0.0.111
+Host is up (0.083s latency).
+All 1000 scanned ports on 10.0.0.111 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: 50:14:79:3D:DD:68 (iRobot)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+TRACEROUTE
+HOP RTT      ADDRESS
+1   83.04 ms 10.0.0.111
+
+Nmap scan report for 10.0.0.132
+Host is up (0.015s latency).
+Not shown: 995 closed tcp ports (reset)
+PORT      STATE SERVICE         VERSION
+8008/tcp  open  http?
+|_http-title: Site doesn't have a title (text/html).
+8009/tcp  open  ssl/ajp13?
+|_ssl-date: TLS randomness does not represent time
+|_ajp-methods: Failed to get a valid response for the OPTION request
+| ssl-cert: Subject: commonName=2599ef94-fb77-81d2-2441-750e0c3b9d6a
+| Issuer: commonName=2599ef94-fb77-81d2-2441-750e0c3b9d6a
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2023-07-16T19:15:35
+| Not valid after:  2023-07-18T19:15:35
+| MD5:   e746:bccb:9038:0590:228a:9ea3:a11f:15fd
+|_SHA-1: fa83:4509:b365:9f24:106e:3ffe:c7aa:3b69:c0e2:8546
+8443/tcp  open  ssl/https-alt?
+| ssl-cert: Subject: commonName=L8IWB0 FA8FCA509FBA/organizationName=Google Inc/stateOrProvinceName=California/countryName=US
+| Issuer: commonName=Chromecast ICA 7 (Audio Assist 2)/organizationName=Google Inc/stateOrProvinceName=California/countryName=US
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2017-08-31T22:25:45
+| Not valid after:  2037-08-26T22:25:45
+| MD5:   abd4:d24a:f4c0:ffa8:d12a:33c3:9447:f111
+|_SHA-1: 6f2a:e780:5e3d:6506:9659:9e8e:4123:3fb1:27da:97e2
+|_http-title: Site doesn't have a title (text/html).
+9000/tcp  open  ssl/cslistener?
+10001/tcp open  ssl/scp-config?
+MAC Address: 48:D6:D5:E1:3F:EA (Google)
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.94%E=4%D=7/17%OT=8008%CT=1%CU=41092%PV=Y%DS=1%DC=D%G=Y%M=48D6D5
+OS:%TM=64B5ED08%P=i686-pc-windows-windows)SEQ(CI=Z%II=I)SEQ(SP=102%GCD=1%IS
+OS:R=10B%TI=Z%CI=Z%II=I%TS=7)SEQ(SP=102%GCD=1%ISR=10B%TI=Z%CI=Z%II=I%TS=8)S
+OS:EQ(SP=FD%GCD=1%ISR=109%TI=Z%CI=Z%II=I%TS=7)OPS(O1=M5B4ST11NW6%O2=M5B4ST1
+OS:1NW6%O3=M5B4NNT11NW6%O4=M5B4ST11NW6%O5=M5B4ST11NW6%O6=M5B4ST11)OPS(O1=M5
+OS:B4ST11NW6%O2=NNT11%O3=NNT11%O4=M5B4ST11NW6%O5=M5B4ST11NW6%O6=M5B4ST11)OP
+OS:S(O1=NNT11%O2=NNT11%O3=NNT11%O4=NNT11%O5=NNT11%O6=NNT11)WIN(W1=3890%W2=3
+OS:890%W3=3890%W4=3890%W5=3890%W6=3890)ECN(R=Y%DF=Y%T=40%W=3908%O=%CC=N%Q=)
+OS:ECN(R=Y%DF=Y%T=40%W=3908%O=M5B4NNSNW6%CC=Y%Q=)T1(R=Y%DF=Y%T=40%S=O%A=O%F
+OS:=A%RD=0%Q=)T1(R=Y%DF=Y%T=40%S=O%A=O%F=AS%RD=0%Q=)T1(R=Y%DF=Y%T=40%S=O%A=
+OS:S+%F=AS%RD=0%Q=)T2(R=N)T3(R=N)T4(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q
+OS:=)T5(R=Y%DF=Y%T=1%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T5(R=Y%DF=Y%T=20%W=0%S=Z%
+OS:A=S+%F=AR%O=%RD=0%Q=)T5(R=Y%DF=Y%T=46%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T5(R=
+OS:Y%DF=Y%T=5D%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T5(R=Y%DF=Y%T=AC%W=0%S=Z%A=S+%F
+OS:=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%T=1E%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T6(R=Y%DF=Y%T
+OS:=2C%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T6(R=Y%DF=Y%T=30%W=0%S=A%A=Z%F=R%O=%RD=0%
+OS:Q=)T6(R=Y%DF=Y%T=32%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T6(R=Y%DF=Y%T=43%W=0%S=A%
+OS:A=Z%F=R%O=%RD=0%Q=)T7(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T7(R=Y%
+OS:DF=Y%T=46%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T7(R=Y%DF=Y%T=53%W=0%S=Z%A=S+%F=A
+OS:R%O=%RD=0%Q=)U1(R=Y%DF=N%T=40%IPL=164%UN=0%RIPL=G%RID=G%RIPCK=G%RUCK=G%R
+OS:UD=G)IE(R=Y%DFI=N%T=40%CD=S)
+
+Network Distance: 1 hop
+
+TRACEROUTE
+HOP RTT      ADDRESS
+1   14.83 ms 10.0.0.132
+
+Nmap scan report for 10.0.0.137
+Host is up (0.14s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT     STATE    SERVICE VERSION
+9080/tcp filtered glrpc
+MAC Address: 5A:1F:DC:BA:09:96 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+TRACEROUTE
+HOP RTT       ADDRESS
+1   140.61 ms 10.0.0.137
+
+Nmap scan report for 10.0.0.214
+Host is up (0.033s latency).
+All 1000 scanned ports on 10.0.0.214 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: B0:02:47:AD:A8:23 (Ampak Technology)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+TRACEROUTE
+HOP RTT      ADDRESS
+1   32.92 ms 10.0.0.214
+
+Nmap scan report for 10.0.0.219
+Host is up (0.019s latency).
+All 1000 scanned ports on 10.0.0.219 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: 18:93:7F:F7:42:C9 (Ampak Technology)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+TRACEROUTE
+HOP RTT      ADDRESS
+1   19.34 ms 10.0.0.219
+
+Initiating SYN Stealth Scan at 20:38
+Scanning 10.0.0.51 [1000 ports]
+Discovered open port 139/tcp on 10.0.0.51
+Discovered open port 445/tcp on 10.0.0.51
+Discovered open port 135/tcp on 10.0.0.51
+Discovered open port 3389/tcp on 10.0.0.51
+Discovered open port 5357/tcp on 10.0.0.51
+Completed SYN Stealth Scan at 20:38, 0.03s elapsed (1000 total ports)
+Initiating Service scan at 20:38
+Scanning 5 services on 10.0.0.51
+Completed Service scan at 20:38, 11.03s elapsed (5 services on 1 host)
+Initiating OS detection (try #1) against 10.0.0.51
+NSE: Script scanning 10.0.0.51.
+Initiating NSE at 20:38
+Completed NSE at 20:38, 14.26s elapsed
+Initiating NSE at 20:38
+Completed NSE at 20:38, 0.02s elapsed
+Initiating NSE at 20:38
+Completed NSE at 20:38, 0.00s elapsed
+Nmap scan report for 10.0.0.51
+Host is up (0.000050s latency).
+Not shown: 995 closed tcp ports (reset)
+PORT     STATE SERVICE       VERSION
+135/tcp  open  msrpc         Microsoft Windows RPC
+139/tcp  open  netbios-ssn   Microsoft Windows netbios-ssn
+445/tcp  open  microsoft-ds?
+3389/tcp open  ms-wbt-server Microsoft Terminal Services
+| ssl-cert: Subject: commonName=BlueBravo
+| Issuer: commonName=BlueBravo
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2023-04-27T04:16:38
+| Not valid after:  2023-10-27T04:16:38
+| MD5:   55b8:b486:4573:808a:e36d:8be3:cada:0235
+|_SHA-1: 2110:244d:8639:16ec:e817:5eb0:a17a:02cc:dfa5:a2f3
+|_ssl-date: 2023-07-18T01:38:42+00:00; 0s from scanner time.
+5357/tcp open  http          Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+|_http-title: Service Unavailable
+|_http-server-header: Microsoft-HTTPAPI/2.0
+Device type: general purpose
+Running: Microsoft Windows 10
+OS CPE: cpe:/o:microsoft:windows_10
+OS details: Microsoft Windows 10 1809 - 2004
+Network Distance: 0 hops
+TCP Sequence Prediction: Difficulty=258 (Good luck!)
+IP ID Sequence Generation: Incremental
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+| smb2-time: 
+|   date: 2023-07-18T01:38:32
+|_  start_date: N/A
+| smb2-security-mode: 
+|   3:1:1: 
+|_    Message signing enabled but not required
+
+NSE: Script Post-scanning.
+Initiating NSE at 20:38
+Completed NSE at 20:38, 0.00s elapsed
+Initiating NSE at 20:38
+Completed NSE at 20:38, 0.00s elapsed
+Initiating NSE at 20:38
+Completed NSE at 20:38, 0.00s elapsed
+Read data files from: C:\Program Files (x86)\Nmap
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 256 IP addresses (15 hosts up) scanned in 532.37 seconds
+           Raw packets sent: 20730 (941.166KB) | Rcvd: 14508 (616.925KB)

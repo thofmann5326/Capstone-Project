@@ -1,0 +1,59 @@
+# Load required libraries
+install.packages("e1071")
+library(e1071)
+install.packages("NeuralNetTools")
+library(NeuralNetTools)
+install.packages("nnet")
+library(nnet)
+install.packages('dplyr')
+library(dplyr)
+install.packages("reshape2")
+library(reshape2)
+install.packages("naivebayes")
+library(naivebayes)
+install.packages("caret")
+library(caret)
+
+# Read data
+GroupData <- read.csv(file.choose(), header = TRUE)
+
+# Define the formula for the Naive Bayes model
+formula <- HighValueCar ~ brand + model_year + milage + accident
+
+# Create a training set and a testing set
+sample_size <- floor(0.7 * nrow(GroupData))
+set.seed(123)
+sample_indices <- sample(nrow(GroupData), size = sample_size, replace = TRUE)
+train_data <- GroupData[sample_indices, ]
+test_data <- GroupData[-sample_indices, ]
+
+# Build the Naive Bayes model
+naive_bayes_model <- naiveBayes(formula, data = train_data)
+
+# Make predictions on the test data
+predictions <- predict(naive_bayes_model, newdata = test_data, type = "class")
+
+# Create a confusion matrix
+conf_matrix <- confusionMatrix(factor(test_data$HighValueCar), factor(predictions))
+
+# Evaluation (Calculate accuracy, precision, recall, and F1-score)
+accuracy <- conf_matrix$overall["Accuracy"]
+precision <- conf_matrix$byClass["Pos Pred Value"]  # Precision for the positive class
+recall <- conf_matrix$byClass["Sensitivity"]        # Recall for the positive class
+f1_score <- conf_matrix$byClass["F1"]                # F1-score for the positive class
+
+# Print confusion matrix and additional metrics
+print(conf_matrix)
+cat("Accuracy:", accuracy, "\n")
+cat("Precision:", precision, "\n")
+cat("Recall:", recall, "\n")
+cat("F1-score:", f1_score, "\n")
+
+# Make predictions on the entire dataset
+predictions_all <- predict(naive_bayes_model, newdata = GroupData, type = "class")
+
+# Add predictions to the original dataset
+GroupData$Predicted_HighValueCar <- predictions_all
+
+# Save the dataset with predictions
+write.csv(GroupData, "NB_predictions.csv", row.names = FALSE)

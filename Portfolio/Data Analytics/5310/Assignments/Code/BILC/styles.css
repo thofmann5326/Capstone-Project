@@ -1,0 +1,23 @@
+body {
+    background-color: powderblue;
+}
+
+h1 {
+    color: blue;
+    font-family: TimesNewRoman;
+    font-size: 150%;
+}
+
+h2 {
+    color: blue;
+    font-family: TimesNewRoman;
+    font-size: 150%;
+
+}
+
+p {
+    color: red;
+    font-family: TimesNewRoman;
+    font-size: 100%;
+
+}

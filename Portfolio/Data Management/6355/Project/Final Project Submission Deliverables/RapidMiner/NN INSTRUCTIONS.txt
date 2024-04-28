@@ -1,0 +1,1 @@
+Import the csv and set HighValueCar to a polynomial

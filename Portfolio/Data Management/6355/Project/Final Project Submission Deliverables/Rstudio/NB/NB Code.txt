@@ -1,0 +1,38 @@
+install.packages("e1071")
+library(e1071)
+install.packages("NeuralNetTools")
+library(NeuralNetTools)
+install.packages("nnet")
+library(nnet)
+install.packages('dplyr')
+library(dplyr)
+install.packages("reshape2")
+library(reshape2)
+
+GroupData <- read.csv(file.choose(), header = TRUE)
+
+formula <- HighValueCar ~ brand + model_year + milage + accident
+
+sample_size <- floor(0.7 * nrow(GroupData))
+
+set.seed(123)  # For reproducibility
+sample_indices <- sample(nrow(GroupData), size = sample_size, replace = TRUE)
+train_data <- GroupData[sample_indices, ]
+test_data <- GroupData[-sample_indices, ]
+
+predictions <- predict(naive_bayes_model, newdata = test_data, type = "class")
+
+confusion_matrix <- table(Actual = test_data$HighValueCar, Predicted = predictions)
+accuracy <- sum(diag(confusion_matrix)) / sum(confusion_matrix)
+
+print(confusion_matrix)
+cat("Accuracy:", accuracy)
+
+naive_bayes_model <- naiveBayes(formula, data = train_data)
+
+predictions <- predict(naive_bayes_model, newdata = test_data, type = "class")
+
+predictions_all <- predict(naive_bayes_model, newdata = GroupData, type = "class")
+GroupData$Predicted_HighValueCar <- predictions_all
+
+write.csv(GroupData, "GroupData_with_predictions.csv", row.names = FALSE)

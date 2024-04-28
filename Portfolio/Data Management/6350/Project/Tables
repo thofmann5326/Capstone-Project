@@ -1,0 +1,45 @@
+1.Objects
+	PK Object_ID
+	Mass
+	Width
+	Hieght
+	Name
+	FK Type_ID
+	FK Launch_ID
+	FK Orbit_ID
+	FK Projected_ID
+	FK Sites_ID
+	FK Dock_ID
+2.Object Type
+	PK Type_ID
+	Type
+3.Original Launch
+	PK Launch_ID
+	FK Site_ID
+	Launch_date
+	Launch_Time
+	Success/Failure
+4.Orbit
+	PK Orbit_ID
+	Inclination
+	Periapsis
+	Apoapsis
+5.Launch Sites
+	PK Site_ID
+	Name
+	Latitude
+	Logitude
+	Altitude
+6.Projected Reentry
+	PK Projected_ID
+	Inclination
+	Periapsis
+	Apoapsis
+	Projected_Time
+	Projected_Date
+	Projected_Latitude
+	Projected_Longitude
+7.Docked Objects
+	PK Dock_ID
+	Name
+	Shipment_Date

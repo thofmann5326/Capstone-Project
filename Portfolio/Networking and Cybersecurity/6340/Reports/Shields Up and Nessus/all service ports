@@ -1,0 +1,23 @@
+----------------------------------------------------------------------
+
+GRC Port Authority Report created on UTC: 2023-07-30 at 21:23:07
+
+Results from scan of ports: 0-1055
+
+    0 Ports Open
+    2 Ports Closed
+ 1054 Ports Stealth
+---------------------
+ 1056 Ports Tested
+
+NO PORTS were found to be OPEN.
+
+Ports found to be CLOSED were: 80, 443
+
+Other than what is listed above, all ports are STEALTH.
+
+TruStealth: FAILED - NOT all tested ports were STEALTH,
+                   - NO unsolicited packets were received,
+                   - NO Ping reply (ICMP Echo) was received.
+
+----------------------------------------------------------------------
